@@ -4647,20 +4647,34 @@ header .top-header .container > ul > li .dropdown-menu.theme-03.login-sec {min-w
 
 /* Theme */
 body { font-family: 'Inria Serif', serif; }
+.btn-black { background: #222222; color: #fff; border-color: #0a3381; font-size: 13px; font-weight: 600; overflow: hidden; position: relative; }
+.count-five > li { width:20%; }
+
 .logo-wrap { background: #222222; padding-bottom:18px; margin-bottom:0px;}
 .mCustomScrollBox { width:100%; }
+.top-header .container > ul > li > a { font-size: 14px; }
+.top-header .container > ul > li > a.btn-secondary { padding-left:10px; padding-right: 10px; background-color: #4f5a71;}
+.top-header .container > ul > li > a > i, .top-header .container > ul > li > a > span > .author-img > i { background: none; color: #fff; }
 .nav ul li a { font-size:14px; padding:18px 28px;}
-.navigation-wrap {min-width:120px; width: auto; }
+.navigation-wrap {width:135px;}
 .nav ul li a { color:#424141; }
 .nav ul li a.active { color:#000000; font-weight: 700;}
 .nav ul li a.active::before, .nav ul li a.active::after { background:rgba(34,34,34,0.1); }
-.btn-black {
-    background: #222222;
-    color: #fff;
-    border-color: #0a3381;
-    font-size: 13px;
-    font-weight: 600;
-    overflow: hidden;
-    position: relative;
-}
+
+.search-form-sec .widget-form-elements .tags-where { width:440px; }
+.search-form-sec .widget-form-elements .search-btn { width:190px; }
+.search-form-sec .text-core .text-wrap textarea, .search-form-sec .widget-form-elements .search-btn .btn { font-size: 16px; height: 45px !important; line-height: 35px !important; padding-top: 5px; padding-bottom: 5px; }
+ 
+.dest-th-tiles .item .item-info { background: rgba(0,0,0,0.5); }
+.dest-th-tiles .item .item-info, 
+.dest-th-tiles .item .item-info * {  color: #fff614; }
+.deals-list .dest-th-tiles .item .img-fit { height:230px; }
+
+.offer-sec .offer-pricing { width: auto; border: 0; }
+.offer-sec .offer-pricing span { display: inline-block; }
+
+.cont-section .tbl-style .about-right-section { vertical-align: top;}
+.about-left-section, .about-right-section { padding-top: 65px; }
+
+footer { width: calc(100% - 135px); left: 135px; }
 /* Theme */
