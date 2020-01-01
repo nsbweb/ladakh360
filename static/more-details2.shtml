@@ -1,0 +1,294 @@
+<div class="expandble-block">
+    <h3 class="pkg-tl">Enchanting Kerala</h3>
+    <ul class="pck-days">
+		<li><i class="fa-custom-afternoon black"></i><span> 4 Days</span></li>
+		<li><i class="fa-moon-o"></i><span> 3 Nights</span></li>
+	</ul>
+    <p class="txt-pkg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh 
+    </p>
+
+    <div class="exttabs type2">
+        <!--14Sep2018 Start-->
+        <ul class="resp-tabs-list r-tabs-nav tabs">
+            <li><a href="#tab-itinerary-sec1">Itinerary</a></li>
+            <li><a href="#tab-hotels-sec1">Hotels</a></li>
+            <li><a href="#tab-inclusions-sec1">Inclusions</a></li>
+            <li><a href="#tab-price-sec1">Price</a></li>
+        </ul>
+        <a class="tab_drawer_heading" href="#tab-itinerary-sec1">Itinerary</a>
+        <div id="tab-itinerary-sec1" class="tab_content">
+            <ul class="days-list">
+                <li> <span class="day-name">Day 1</span> <b class="destin-name">Kerala</b><span class="date-txt">Tue, 27 Sep 2018</span>
+                    <ul class="icon-list">
+                        <li> <i class="fa-custom-plane"></i></li>
+                        <li> <i class="fa-custom-bus"></i></li>
+                        <li><i class="fa-custom-cutlery "></i></li>
+                        <li><i class="fa-custom-bed"></i></li>
+                    </ul>
+                    <div class="itinerary-tab-desc">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. </p>
+
+                        <p><strong>Overnight</strong> at Hotel Lorem ipsum.</p>
+                    </div>
+                </li>
+                <li> <span class="day-name">Day 2</span> <b class="destin-name">Kerala </b><span class="date-txt">Wed, 28 Sep 2018</span>
+                    <ul class="icon-list">
+                        <li><i class="fa-custom-bed"></i></li>
+                        <li><i class="fa-custom-eye"></i></li>
+                        <li><i class="fa-custom-cutlery "></i></li>
+                    </ul>
+                    <div class="itinerary-tab-desc">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. </p>
+                        <p><strong>Overnight</strong> at Hotel Lorem ipsum.</p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+        <a class="tab_drawer_heading" href="#tab-hotels-sec1">Hotels</a>
+        <div id="tab-hotels-sec1" class="tab_content">
+            <ul class="days-list-hotel">
+                <li class="selected">
+                    <div class="ttl-xxs">
+                        <ul>
+                            <li>Singapore <small>2 Nights</small></li>
+                        </ul>
+                    </div>
+                    <div class="hotel-rate">
+                        <div class="hotel-img img-fit">
+                            <figure><img src="../resources/images/holidays/packages/itinerary/bayview-hotel.jpg" alt=""></figure>
+                        </div>
+                        <div class="hotel-dsc type2"> <span class="hotel-name">Bayview Hotel</span>
+                            <div class="tripadvisor-rating"> <small class="star-rating three-star"></small> <span class="rating-counter"> <i class="fa-custom-tripadvisor-logo"></i></span> </div>
+                            <!-- 04May2018 starts -->
+                            <p class="overview-txt more-cont" data-count="150">In a contemporary tower in the lively Arts and Heritage district, this modern hotel with a chic vibe is a minute's walk from Bencoolen MRT Station. In a contemporary tower in the lively Arts and Heritage district, this modern hotel with a chic vibe is a minute's walk from Bencoolen MRT Station. </p>
+                            <!-- 04May2018 ends -->
+                            <div class="inclusions">
+                                <ul>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Wifi" class="fa-custom-wifi grey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Bar" class="fa-custom-icon-glass lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="xoxoxo" class="fa-custom-winter grey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Meal" class="fa-custom-restaurant lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Gym" class="fa-custom-dumbell grey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Cafe" class="fa-custom-cafe lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Room Services" class="fa-custom-room-service lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Swimming Pool" class="fa-custom-swim grey"></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="room-dsc"> <em class="upgrade-to-deluxe-hide">Standard Room - <span>Per room per night</span></em>
+                                <br> Double - 2 Guests
+                                <div class="tick-selected"> <span class="btn-check"> <i class="fa-custom-check green"></i><span>Included in trip</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="ttl-xxs">
+                        <ul>
+                            <li>Malaysia <small>2 Nights</small></li>
+                        </ul>
+                    </div>
+                    <div class="hotel-rate">
+                        <div class="hotel-img img-fit">
+                            <figure><img src="../resources/images/holidays/packages/itinerary/westin-hotel.jpg" alt=""></figure>
+                        </div>
+                        <div class="hotel-dsc type2"> <span class="hotel-name">Westin Hotel</span>
+                            <div class="tripadvisor-rating"> <small class="star-rating three-star"></small> <span class="rating-counter"> <i class="fa-custom-tripadvisor-logo"></i> <span class="tripadvisor-rating-counter four-rating"> <i class="fa-custom-trip-rating"></i> <i class="fa-custom-trip-rating"></i> <i class="fa-custom-trip-rating"></i> <i class="fa-custom-trip-rating"></i> <i class="fa-custom-trip-rating"></i> </span> </span>
+                            </div>
+                            <!-- 06Jun2018 starts -->
+                            <p class="overview-txt more-cont" data-count="100">The Westin Kuala Lumpur offers a fantastic location in the heart of Kuala Lumpur's Golden Triangle. In a contemporary tower in the lively Arts and Heritage district, this modern hotel with a chic vibe is a minute's walk from Bencoolen MRT Station.</p>
+                            <!-- 06Jun2018 end -->
+                            <div class="inclusions">
+                                <ul>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Wifi" class="fa-custom-wifi grey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Bar" class="fa-custom-icon-glass lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="xoxoxo" class="fa-custom-winter grey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Meal" class="fa-custom-restaurant lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Gym" class="fa-custom-dumbell grey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Cafe" class="fa-custom-cafe lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Room Services" class="fa-custom-room-service lightgrey"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" data-placement="bottom" data-toggle="tooltip" data-html="true" data-original-title="Swimming Pool" class="fa-custom-swim grey"></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="room-dsc"> <em class="upgrade-to-deluxe-hide">Standard Room - <span>Per room per night</span></em>
+                                <br> Double - 2 Guests
+                                <div class="tick-selected"> <span class="btn-check"> <i class="fa-custom-check green"></i><span>Included in trip</span> </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <a class="tab_drawer_heading" href="#tab-inclusions-sec1">Inclusions</a>
+        <div id="tab-inclusions-sec1" class="tab_content">
+
+           <div class="incl-details"> <b class="ttl-xxs">Inclusions</b>
+                <ul class="ico-list">
+                    <li><i class="fa-custom-plane "></i> <span>Cost of your round trip economy class excursion airfare.</span></li>
+                    <li><i class="fa-custom-percent"></i><span>Airport taxes. &amp;Govt. Sales tax on air Tickets.</span></li>
+                    <li><i class="fa-custom-bed "></i><span>Accommodation at the hotels mentioned or similar.</span></li>
+                    <li><i class="fa-custom-visa grey"></i><span>Malaysia &amp; Singapore visa charges.</span></li>
+                    <li><i class="fa-custom-umbrella "></i><span>Over-seas mediclaim Insurance.</span></li>
+                    <li><i class="fa-custom-flagman"></i><span>Services of Cox &amp; Kings tour manager. (Provided there are over 30 adult passengers travelling on the tour or Local Representative.)</span></li>
+                    <li><i class="fa-custom-cutlery "></i><span>Meals as mentioned in the itinerary.</span></li>
+                    <li><i class="fa-custom-bus"></i><span>Surface transportation as mentioned in the itinerary.</span></li>
+                    <li><i class="fa-custom-eye "></i><span>Coach tours, entrance fees, excursions, and sightseeing as specified in the itinerary.</span></li>
+                    <li><i class="fa-custom-tips"></i><span>Tips to drivers &amp; guides.</span></li>
+                </ul>
+                <br>
+               
+                <b class="ttl-xxs">Exclusions</b>
+                <ul class="ico-list">
+                    <li><i class="fa-custom-info-circle"></i><span>Optional &amp; Add-On tours unless mentioned otherwise.</span></li>
+                    <li><i class="fa-custom-dollar"></i><span>Cost of US $ 2,50,000 granted by the Reserve Bank of India under the Liberalised Remittance Scheme.</span></li>
+                    <li><i class="fa-custom-baggage"></i><span>Baggage handling fee charged by the operating airline for the excess check-in baggage.</span></li>
+                    <li><i class="fa-custom-percent"></i><span>Service Tax 9.00% on gross bill, effective 22nd January 2017.</span></li>
+                    <li><i class="fa-custom-percent"></i><span>GST when in force will be applicable.</span></li>
+                </ul>
+            </div>
+        </div>
+        <!--14Sep2018 End-->
+        <a class="tab_drawer_heading" href="#tab-price-sec1">Price</a>
+        <div id="tab-price-sec1" class="tab_content">
+            <div class="prcs-details">
+                <p>All rates are based on currents ROE USD 1 = INR 68.5. The rate of exchange prevailing on the day of payment will apply.</p>
+                <ul class="table-header prc-head-cont">
+                    <li class="ajaxform">
+                        <label class="txt-thin">Select Hub</label>
+                        <select class="selectHub">
+                            <option>Select</option>
+                            <option value="All" selected>All</option>
+                            <option value="Mumbai">Ex - Mumbai</option>
+                            <option value="Delhi">Ex - Delhi</option>
+                            <option value="Chennai">Ex - Chennai</option>
+                        </select>
+                    </li>
+                    <li>
+                        <span class="txt-thin">Valid From 14th Mar, 2018 to 30th Sep, 2018</span>
+                    </li>
+                </ul>
+                <div class="price-tbl">
+                    <div class="price-table-sec" id="ExMumbai">
+                        <div class="responsive-table">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th class="brek-up">Ex- Mumbai</th>
+                                        <th>Twin</th>
+                                        <th>Triple</th>
+                                        <th>Single</th>
+                                        <th>Child with bed</th>
+                                        <th>Child without bed</th>
+                                        <th>Infant</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Main Tour Price</td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i> 72,190</b><span>(<span class="amt-cont"><i class="fa-dollar"></i> 380</span> + <span class="amt-cont"><i class="fa-rupee"></i> 46,160</span>)</span>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i> 72,190</b><span>(<span class="amt-cont"><i class="fa-dollar"></i> 380</span> + <span class="amt-cont"><i class="fa-rupee"></i> 46,160</span>)</span>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i> 82,122</b><span>(<span class="amt-cont"><i class="fa-dollar"></i> 525</span> + <span class="amt-cont"><i class="fa-rupee"></i> 46,160</span>)</span>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i> 63,395</b><span>(<span class="amt-cont"><i class="fa-dollar"></i> 380</span> + <span class="amt-cont"><i class="fa-rupee"></i> 46,160</span>)</span>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i> 58,600</b><span>(<span class="amt-cont"><i class="fa-dollar"></i> 240</span> + <span class="amt-cont"><i class="fa-rupee"></i> 46,160</span>)</span>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i> 40,000</b><span>(<span class="amt-cont"><i class="fa-dollar"></i> 0</span> + <span class="amt-cont"><i class="fa-rupee"></i> 46,160</span>)</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dicount Offer</td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  10,000</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  10,000</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  10,000</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  8,000</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  8,000</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i> 0</b>
+                                        </td>
+                                    </tr>
+                                    <tr class="txt-red">
+                                        <td>Total in INR After Discount</td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  62,190</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  62,190</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  72,122</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  55,395</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  50,600</b>
+                                        </td>
+                                        <td>
+                                            <b><i class="fa fa-rupee"></i>  40,000</b>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            </p>
+        </div>
+    </div>
+</div>
+<script src="/golf/resources/js/form-elements.js"></script>

@@ -1,0 +1,534 @@
+<!-- 20Apr2018 starts -->
+<div class="details-section type-2">
+    <div id="HotelDetailSectionTabs" class="HrzTab sub-scroll-sect">
+        <a href="" class="fa-custom-close close-rt"></a>
+        <h5 class="lt-head">Change hotel in Singapore</h5>
+        <ul class="resp-tabs-list fixed-panel theme-blue tablist-carousel owl-carousel owl-theme sel-loc">
+            <li><a href="#Hoteltab-01">Delhi</a></li>
+            <li><a href="#Hoteltab-02">Agra</a></li>
+        </ul>
+
+        <div id="Hoteltab-01" class="HrzTab sub-scroll-panel">
+            <div class="top-tl-sec fixed-panel">
+                <h2 class="detail-tl">Lorem ipsum</h2>
+                <span class="star-rating four-star">
+                    </span> <span class="sperater-line">|</span>
+                <span class="room-type">Standard Room</span>
+                <i class="clear_0"></i>
+                <div class="destin-names">
+                    <p>Lorem ipsum, Delhi 110012.</p>
+                    <a href="tel:60326975555" class="call-num"><i class="fa-phone"></i> +011 6337 2882</a>
+                </div>
+            </div>
+            <ul class="resp-tabs-list fixed-panel tablist-carousel owl-carousel owl-theme r-tabs-nav owl-loaded owl-drag">
+                <li><a href="#tab-hotel-info-facility">Hotel Info &amp; Facilities</a></li>
+                <li><a href="#tab-photos">Photos</a></li>
+                <li><a href="#tab-map">Map</a></li>
+                <li><a href="#tab-room-types">Room Types</a></li>
+                <li><a href="#tab-reviews">Review</a></li>
+                <li><a href="#tab-booking-policy">Booking Policy</a></li>
+            </ul>
+            <div id="tab-hotel-info-facility" class="scrollable-panel">
+                <div class="scroll-container">
+                    <div class="photos-panel owl-singleItem">
+                        <div class="owl-carousel owl-theme slider-type">
+                            <div class="item">
+                                <figure>
+                                    <img src="/golf/resources/images/holidays/hotels/hotel-info-facilities/hotel-img-01.jpg" alt="">
+                                    <figcaption>
+                                        <span><i class="fa fa-ta-logo-sm"></i></span>
+                                        <span class="rating-circle">
+                                              <i class="fa-rating-circle-full-sm"></i>
+                                              <i class="fa-rating-circle-full-sm"></i>
+                                              <i class="fa-rating-circle-full-sm"></i>
+                                              <i class="fa-rating-circle-full-sm"></i>
+                                              <i class="fa-rating-circle-full-sm-half"></i>
+                                        </span>
+                                        <span class="review-txt">7175 reviews</span>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/golf/resources/images/holidays/hotels/hotel-info-facilities/hotel-img-01.jpg" alt="">
+                                    <figcaption>
+                                        <span><i class="fa fa-ta-logo-sm"></i></span>
+                                        <span class="rating-circle">
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                    </span>
+                                        <span class="review-txt">9175 reviews</span>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/golf/resources/images/holidays/hotels/hotel-info-facilities/hotel-img-01.jpg" alt="">
+                                    <figcaption>
+                                        <span><i class="fa fa-ta-logo-sm"></i></span>
+                                        <span class="rating-circle">
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm-half"></i>
+                                    </span>
+                                        <span class="review-txt">3175 reviews</span>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/golf/resources/images/holidays/hotels/hotel-info-facilities/hotel-img-01.jpg" alt="">
+                                    <figcaption>
+                                        <span><i class="fa fa-ta-logo-sm"></i></span>
+                                        <span class="rating-circle">
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm-half"></i>
+                                    </span>
+                                        <span class="review-txt">3175 reviews</span>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/golf/resources/images/holidays/hotels/hotel-info-facilities/hotel-img-01.jpg" alt="">
+                                    <figcaption>
+                                        <span><i class="fa fa-ta-logo-sm"></i></span>
+                                        <span class="rating-circle">
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm-half"></i>
+                                    </span>
+                                        <span class="review-txt">3175 reviews</span>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/golf/resources/images/holidays/hotels/hotel-info-facilities/hotel-img-01.jpg" alt="">
+                                    <figcaption>
+                                        <span><i class="fa fa-ta-logo-sm"></i></span>
+                                        <span class="rating-circle">
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm"></i>
+                                          <i class="fa-rating-circle-full-sm-half"></i>
+                                    </span>
+                                        <span class="review-txt">3175 reviews</span>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="owl-status"><span class="currentItem"><span class="result">1</span></span>
+                            
+                        </div>
+                    </div>
+                    <!--27July2018 starts-->
+                    <ul class="time-options">
+                        <li>
+                            <span>Check-in Time</span>
+                            <b>15:00 hrs</b>
+                        </li>
+                        <li>
+                            <span>Check-out Time</span>
+                            <b>12:00 hrs</b>
+                        </li>
+
+                    </ul>
+                    <!--24Aug2018 Start-->
+                    <div class="icon-listdata details">
+                        <ul>
+                            <li><i class="fa-custom-rooms"></i><span>No. of rooms - 450</span></li>
+                            <li><i class="fa-custom-floor"></i><span>Floors - 30</span></li>
+                        </ul>
+                    </div>
+                    <!--24Aug2018 End-->
+                    <!--27July2018 end-->
+                    <ul class="icon-listing count-three">
+                        <li><span><i class="fa-custom-wifi"></i> Wi Fi</span></li>
+                        <li><span><i class="fa-custom-icon-glass lightgrey"></i> Bar</span></li>
+                        <li><span><i class="fa-custom-winter"></i> Air Conditioner</span></li>
+                        <li class="disabled"><span><i class="fa-custom-hrs"></i> 24h Check-in</span></li>
+                        <li><span><i class="fa-custom-meal"></i> Restaurant</span></li>
+                        <li class="disabled"><span><i class="fa-custom-coffee"></i> Cafe</span></li>
+                        <li><span><i class="fa-custom-room-service lightgrey"></i> Room Service</span></li>
+                        <li><span><i class="fa-custom-chart"></i> Business Center</span></li>
+                        <li><span><i class="fa-custom-swim"></i> Pool</span></li>
+                        <li class="disabled"><span><i class="fa-custom-dumbell"></i> Gym</span></li>
+                        <li><span><i class="fa-custom-at"></i> Internet</span></li>
+                        <li><span><i class="fa-custom-lift"></i> Lift</span></li>
+                    </ul>
+                    <div class="detail-desc">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ut et tempor incididunt ut labore et dolore magna aliqua.</p>
+                    </div>
+                    <div class="btn-cont align-center btm-panel">
+                        <hr>
+                        <a href="#" class="txt-lnk txt-blue back-link ajax-btn btn-change-hotel" data-rel="changehotelsec-lt-panel"><i class="fa-angle-left"></i> Back to Hotel</a>
+                        <a class="btn btn-blue btn-sm">Add Hotel</a>
+                    </div>
+
+                </div>
+            </div>
+            <div id="tab-photos" class="scrollable-panel">
+                <div class="scroll-container">
+                    <div class="photos-panel">
+                        <div class="owl-carousel owl-theme photo-gallery-slider photo-gallery">
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/large/hotel-swimming-pool.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-02.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-03.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-04.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-05.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-06.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-07.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-08.jpg" alt="">
+                                    <figcaption>Swimming Pool, Bayview Hotel</figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="owl-status"><span class="currentItem"><span class="result"></span></span>
+                        </div>
+                        <div class="owl-carousel owl-theme photo-gallery-slider-thumb photo-gallery-thumb">
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/westin-hotel-tour.jpg" alt=""></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/gallery-img-02.jpg" alt=""></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/gallery-img-03.jpg" alt=""></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/gallery-img-04.jpg" alt=""></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/gallery-img-05.jpg" alt=""></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/gallery-img-06.jpg" alt=""></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/gallery-img-07.jpg" alt=""></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/gallery-img-08.jpg" alt=""></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tab-map" class="scrollable-panel">
+                <div class="scroll-container">
+                    <div class="map-panel map-opt">
+                        <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/map/westin-map.jpg" class="img-responsive float-left" alt="">
+                        <ul class="map-options sm-toggle-btns">
+                            <li class="hotels-opt">
+                                <a href="javascript:;"><i class="fa-triangle"></i> Your Hotel </a>
+                                <input type="checkbox" class="toggle-checkbox" name="Your Hotel" checked>
+                            </li>
+                            <li class="transport-opt">
+                                <a href="javascript:;"><i class="fa-transport"></i> Transport</a>
+                                <input type="checkbox" class="toggle-checkbox" name="Transport" checked>
+                            </li>
+
+                            <li class="sightseeing-opt">
+                                <a href="javascript:;"><i class="fa-eye"></i> Activities</a>
+                                <input type="checkbox" class="toggle-checkbox" name="Activities" checked>
+                            </li>
+                            <li class="shopping-opt">
+                                <a href="javascript:;"><i class="fa-circle"></i> Shopping</a>
+                                <input type="checkbox" class="toggle-checkbox" name="Shopping" checked>
+                            </li>
+                            <li class="nightlife-opt">
+                                <a href="javascript:;"><i class="fa-circle"></i> Nightlife</a>
+                                <input type="checkbox" class="toggle-checkbox" name="Nightlife" checked>
+                            </li>
+                        </ul>                       
+                    </div>
+                    <div class="map-itinerary">
+                        <div class="distance-calculator price-switch">Approximate Distance (from your hotel)
+                            <div class="sm-toggle-btns no-labels">
+                                <small class="ttl-price">Kms </small>
+                                <input type="checkbox" class="toggle-checkbox" name="price-toggle" checked>
+                                <small class="ttl-price">Miles</small>
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-xs-6 col-mob-12">
+                                <b class="tl-transport">Transport</b>
+                                <ul>
+                                    <li>By Rail - KL Sentral <span>6 miles</span></li>
+                                    <li>By Air - KL Intl. Airport <span>34 miles</span></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6 col-xs-6 col-mob-12">
+                                <b class="tl-sightseeing">Activities</b>
+                                <ul>
+                                    <li>Taman Dusun Bander <span>0.1 miles</span></li>
+                                    <li>Buddist Maha Vihar <span>0.4 miles</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tab-room-types" class="scrollable-panel">
+                <div class="scroll-container">
+                    <!--06July2018 starts-->
+                    <div class="photos-panel">
+                        <div class="owl-carousel owl-theme photo-gallery-slider photo-gallery">
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/large/hotel-room1.jpg" alt="">
+                                    <figcaption>Standard Room - With breakfast
+                                        <div><i class="fa fa-check"></i> Included in trip </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-02.jpg" alt="">
+                                    <figcaption>Standard Room - With breakfast
+                                        <div><i class="fa fa-check"></i> Included in trip </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-03.jpg" alt="">
+                                    <figcaption>Standard Room - With breakfast
+                                        <div><i class="fa fa-check"></i> Included in trip </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-04.jpg" alt="">
+                                    <figcaption>Standard Room - With breakfast
+                                        <div><i class="fa fa-check"></i> Included in trip </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-05.jpg" alt="">
+                                    <figcaption>Standard Room - With breakfast
+                                        <div><i class="fa fa-check"></i> Included in trip </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="item">
+                                <figure>
+                                    <img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/large/gallery-img-06.jpg" alt="">
+                                    <figcaption>Standard Room - With breakfast
+                                        <div><i class="fa fa-check"></i> Included in trip </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                        </div>
+                        <div class="owl-status"><span class="currentItem"><span class="result"></span></span>
+                        </div>
+                        <div class="owl-carousel owl-theme photo-gallery-slider-thumb photo-gallery-thumb">
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/room1.jpg" alt="room"></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/room2.jpg" alt="room"></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/room3.jpg" alt="room"></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/room4.jpg" alt="room"></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/room5.jpg" alt="room"></div>
+                            <div class="item"><img src="/in/en/resources/images/holidays/packages/package-01/hotels/malaysia/photos/thumb/room1.jpg" alt="room"></div>
+                        </div>
+                    </div>
+                    <!--06July2018 end-->
+                </div>
+            </div>
+            <div id="tab-reviews" class="scrollable-panel">
+                <div class="scroll-container">
+                    <div class="ta-review">
+                        <div class="ta-rating">
+                            <label>TripAdvisor traveller rating</label>
+                            <ul>
+                                <li><span class="green">4.5</span> / 5</li>
+                                <li class="rating-sec">
+                                    <i class="fa fa-ta-logo"></i>
+                                    <div class="rating-star-rev">
+                                        <span class="rating-circle">
+                                              <i class="fa-rating-circle-full"></i>
+                                              <i class="fa-rating-circle-full"></i>
+                                              <i class="fa-rating-circle-full"></i>
+                                              <i class="fa-rating-circle-full"></i>
+                                              <i class="fa-rating-circle-half"></i>
+                                        </span>
+                                        <span class="ttl-review">7175 reviews</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="what-to-expect">
+                            <label>What to expect</label>
+                            <ul>
+                                <li>
+                                    <span class="rating-circle">
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-half-sm-o"></i>
+                                    </span>
+                                    <div class="rating-category">
+                                        <span class="green">4.0</span> Rooms
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="rating-circle">
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-half-sm-o"></i>
+                                  </span>
+                                    <div class="rating-category">
+                                        <span class="green">4.0</span> Services
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="rating-circle">
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm-half"></i>
+                                  </span>
+                                    <div class="rating-category">
+                                        <span class="green">4.5</span> Value
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="rating-circle">
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm-half"></i>
+                                  </span>
+                                    <div class="rating-category">
+                                        <span class="green">4.5</span> Clenliness
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <ul class="ta-review-list">
+                    <li>
+                        <div class="tl-sec">
+                            <b>"Excellent Experience"</b>
+                            <ul class="rating-inline">
+                                <li><span class="green">4.5</span> / 5</li>
+                                <li>
+                                    <span><i class="fa fa-ta-logo-sm"></i></span>
+                                    <span class="rating-circle">
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm-half"></i>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                        <p>I recently stayed a night at the Westin KL - it’s a great location and the executive lounge facilities are amazing but the welcome received by two of the staff on duty is the reason I would like to mention Layla and Connie - Fantastic Service!</p>
+                        <p class="review-date">C Ramanathan - Mar 10, 2016</p>
+                    </li>
+                    <li>
+                        <div class="tl-sec">
+                            <b>"Price tag worth a second view"</b>
+                            <ul class="rating-inline">
+                                <li><span class="green">4</span> / 5</li>
+                                <li>
+                                    <span><i class="fa fa-ta-logo-sm"></i></span>
+                                    <span class="rating-circle">
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-half-sm-o"></i>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                        <p>I have spent both at the hotel and the residences. To be honest upon my first visit back in 2014 I have already fallen head over heels with the staffs mannerism. They are polite and for once a genuine smile on their faces instead of forced pretentious ones many have.</p>
+                        <p class="review-date">Sivanan - Mar 2, 2016</p>
+                    </li>
+                    <li>
+                        <div class="tl-sec">
+                            <b>"Great location - Best Hotel"</b>
+                            <ul class="rating-inline">
+                                <li><span class="green">4</span> / 5</li>
+                                <li>
+                                    <span><i class="fa fa-ta-logo-sm"></i></span>
+                                    <span class="rating-circle">
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-full-sm"></i>
+                                        <i class="fa-rating-circle-half-sm-o"></i>
+                                    </span>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p>Have stayed here many times over the past 8-9 yrs and the location is ideal. The rooms are a good size and were initially very impressive. Although they are starting to show slight signs of wear, there is nothing particularly off putting and we would return.</p>
+                        <p class="review-date">Aarin Mel - Feb 25, 2016</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="tab-booking-policy" class="scrollable-panel para-cont">
+            <div class="scroll-container">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,</p>
+                <p>Remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
+                <p>Remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing</p>
+                
+            </div>
+        </div>
+    </div>
+    <div id="Hoteltab-02" class="HrzTab sub-scroll-panel">
+        <div class="">
+            xoxoxoxoxoxoxxo xoxoxoxoxo oxox
+        </div>
+    </div>
+</div>
+</div>
+<!-- 20Apr2018 end -->

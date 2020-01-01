@@ -1,0 +1,1145 @@
+/* min-width:1299px:Starts*/
+@media screen and (min-width:1299px){
+.back-btn-wrap {left:calc(50% - 500px);}
+}
+/* min-width:1299px:Starts*/
+
+/* min-width:991px:Starts*/
+@media screen and (min-width:991px){
+ul.trip-detail-list.col-4,
+ul.trip-detail-list.col-3{width: 100%; max-width: none;}
+ul.trip-detail-list.col-4 > li:last-child,
+ul.trip-detail-list.col-3 > li:last-child{padding-right: 0;}
+
+ul.trip-detail-list.col-4 > li{width: 25%}
+ul.trip-detail-list.col-3 > li{width: 33.33%}
+/*29-01-2019*/
+.modal-type01 .modal-container .frm-pax-dtls .spinr-cont.type03 label { width: 175px; }
+/*29-01-2019*/
+}
+/* min-width:991px:Starts*/
+
+/* min-width:768px:Starts*/
+@media screen and (min-width:768px){
+.desktop-purpose { display:block;}
+.mobile-purpose { display:none;}
+
+.top-header,
+.back-btn-wrap, 
+.top-mid-sec, 
+.inner-top-strip { transition:.5s}
+.top-header.nav-up,
+.back-btn-wrap.nav-up {transform:translateY(-100px)}/*08-03-2019*/
+.top-header.nav-down,
+.back-btn-wrap.nav-down, 
+.inner-top-strip.fixedpos {transform:translateY(0)}
+}
+/* min-width:768px:Ends*/
+
+/* min-width:992px and max-width:1298px :Starts*/
+@media screen and (min-width:992px) and (max-width:1298px){
+.back-btn-wrap { left:140px; right:0; max-width:none; width:auto;} 
+}
+/* min-width:992px and max-width:1298px :Starts*/
+
+/* min-width:1024px and max-width:1199px ::Starts*/
+@media screen and (min-width:1024px) and (max-width:1199px){
+.bottom-sec.price-sec .price-info .offer-price .price { font-size:20px; }
+.bottom-sec.price-sec .price-info .starting-txt,
+.bottom-sec.price-sec .price-info .price-dtl { font-size:10px; line-height:1em; }
+.bottom-sec.price-sec .btn_readmore > .btn-primary { padding:4px 6px; }
+}
+/* min-width:1024px and max-width:1199px ::Starts*/
+
+/* min-width:992px and max-width:1199px ::Starts*/
+@media screen and (min-width:992px) and (max-width:1199px){
+.theme-01 .resp-tabs-list li { margin-right:2px; }
+}
+/* min-width:992px and max-width:1199px ::Starts*/
+
+/*min-width:991px and max-height:700px:Start*/
+@media screen and (min-width:991px) and (max-height:700px) {
+/*#mainNav{position: relative;height: 100%;}
+.nav ul{overflow: auto;overflow-x: hidden;position: absolute;top:0;bottom: 0;}
+.nav ul::-webkit-scrollbar-track{-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);	background-color: #F5F5F5;}
+.nav ul::-webkit-scrollbar{width: 6px;background-color: #F5F5F5;}
+.nav ul::-webkit-scrollbar-thumb{background-color: #0f74bb;}*//*29-01-2019*/
+}
+/*min-width:991px and max-height:700px:end*/
+
+/* min-width:992px and max-width:1024px ::Starts */
+@media screen and (min-width:992px) and (max-width:1024px) {
+.golf-event-sec .row { margin-right:-5px; margin-left:-5px;}    
+.golf-event-sec .row [class^="col"] {padding-left:2px; padding-right:2px;}
+
+.bottom-sec.price-sec .price-info .offer-price { position:static;}
+.bottom-sec.price-sec .price-info .offer-price .price { }
+.bottom-sec.price-sec .price-info .starting-txt,
+.bottom-sec.price-sec .price-info .price-dtl {font-size:10px; line-height:1em; display:block;}
+.golf-event-sec .thumb-sec .heading-tl {font-size:20px;}
+.bottom-sec.price-sec { padding:10px 0 5px; }
+.bottom-sec.price-sec .btn_readmore { text-align:right;}
+
+.form-thm > li .holiday-easy:before {left: 37px}
+.form-thm > li .holiday-moderate:before {left: 37px}
+.form-thm > li .holiday-active:before {left: 37px}
+.form-thm > li .holiday-packed:before {left: 37px}
+.form-thm > li .slider.slider-horizontal .slider-tick-label-container .slider-tick-label{font-size: 11px}
+}
+/* min-width:992px and max-width:1024px ::Starts */
+
+/* max-width:1299px*/
+@media screen and (max-width:1299px){
+.container{width:100%;}
+.cont-section .container.tbl-style{padding:30px 15px;}
+.container{padding-left:15px; padding-right:15px;}
+.getways-info{padding:0px;}
+.about-left-bg{width:65%;}
+.about-right-bg{width:35%;}
+.dest-th-tiles-wrap.deals-list{width:100%;}
+.main-slider-content{padding:40px 15px 40px 135px;}
+.other-package p {font-size:12px; line-height:17px;}
+.other-package figcaption .ttl-sm {font-size:14px;}    
+.banner2 .main-slider-content {width:80%;}
+}
+/* max-width:1299px:Ends*/
+
+/* max-width:1199px:Starts*/
+@media screen and (max-width:1199px){
+.ttl{font-size:40px; line-height:42px; padding-bottom:15px;}
+.dest-th-tiles .item .img-fit .offer-name {font-size:16px;}
+.about-left-bg{width:60%;}
+.about-right-bg{width:40%;}
+.dest-th-tiles-wrap.deals-list{padding-right:170px;}
+.grid-view li > .pkg-thumbnail .price-sec {max-width:140px; min-width:140px;}
+.grid-view li > .pkg-thumbnail .price-sec {max-width:140px; padding:10px 10px 60px 10px;}
+.grid-view li > .pkg-thumbnail .thumb-wrap .img-descr {width:calc(100% - 140px);}
+.pkg-listing.grid-view .pkg-thumbnail .pck-days > li{padding-right:8px;}
+.pkg-listing.grid-view .pkg-thumbnail .pck-days > li:after{right:2px;}
+.pkg-listing .pkg-thumbnail .pck-days > li{line-height:13px;}
+.grid-view .pkg-thumbnail .thumb-wrap {height:200px;}
+.search-filter-list li a{padding:8px 10px 4px;}
+.pkg-bar-list .packag-sec {min-width:225px; width:225px;}
+.ttl-xs {font-size:15px; line-height:18px;}
+.pkg-bar-list >li {font-size:12px;}
+.pkg-bar-list .actn-btn ul li a{padding-left:20px;}
+.pkg-bar .price-sec .price-info .offer-price .price {font-size:22px; line-height:22px;}
+.resp-tab-content {padding:15px;}
+.golf-courses-tab .select-club{margin-right:0px;}
+.table-border-list ul.tbl-style li strong{font-size:40px; line-height:42px; padding-bottom:0px;}
+.table-border-list .box{padding:25px 0;}
+.resp-tabs-list.theme-02 li {min-width:30px;}
+.trip-btm-packages .dest-th-tiles .item .img-fit{width:40%;}
+.trip-btm-packages .dest-th-tiles .item .pkg-info {width:60%;}
+.trip-btm-packages .item .pkg-pricing {font-size:17px;}
+.dest-th-tiles .item .pkg-ttl {font-size:14px;}
+body{font-size:12px;}
+p{font-size:12px; line-height:18px;}
+.check-list li{font-size:12px; line-height:18px; padding-bottom:8px;}
+.club-mid-info{padding-bottom:12px;}
+.club-mid-info p{line-height:22px;}
+.sort-top-sec {padding:0px 0 20px;}
+.inner-page-content {padding-bottom:220px;}
+.inner-page-content {padding-bottom:205px;}
+.photos-panel .item figcaption{font-size:12px;}
+.photos-panel .owl-status .currentItem .result{font-size:18px;}
+.photos-panel .owl-status .currentItem .result:before {font-size:16px; top:-2px;}
+.photos-panel .item figcaption{bottom:6px;}
+.sub-ttl {font-size:22px; line-height:24px; padding-bottom:10px;}
+.ttl-md{ font-size:23px; line-height:25px; padding-bottom:12px;}
+.ttl-sm{ font-size:22px; line-height:24px; padding-bottom:5px;}
+.ttl-xs{ font-size:16px; line-height:18px; padding-bottom:12px;}
+.ttl-xxs{ font-size:12px; line-height:15px; padding-bottom:5px;}
+.search-form form .search-input {font-size:12px;}
+.top-strip-links li a {padding:15px 15px;}
+.sort-top-sec .search-form form {width:280px;}
+.sort-top-sec .search-form form .search-input {padding-right:35px;}
+.sort-top-sec .search-form + .filter-links{padding-left:25px;}
+.filter-links-list li a {padding:14px 10px 12px;}
+.sort-top-sec .search-form{padding:8px 0 0;}
+.sort-top-sec .sort-sec {padding:8px 0 0;}
+.pkg-listing.list-view .pkg-thumbnail {padding:10px;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap .img-sec {width:250px;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap {padding-left:250px;}
+.pkg-listing.list-view .pkg-thumbnail > div.rht-sec {min-width:150px;}
+.pkg-listing.list-view .price-info .price {font-size:22px; line-height:22px;}
+.pkg-listing.list-view .price-info .price-dtl{display:block;} 
+.pkg-listing.list-view .price-info .price-dtl {font-size:12px; line-height:14px;}
+.pkg-listing.list-view .price-info{padding-bottom:12px;}
+.pkg-listing.list-view .rht-sec .btn.btn-lg {font-size:13px; padding:9px 15px 8px;}
+.pkg-listing.list-view .table-list ul li span strong {font-size:22px; line-height:24px;}
+.pkg-listing.list-view .lessons-info{font-size:11px;}
+.pkg-listing.list-view .coach-info .star-rating:before{font-size:14px;}
+.pkg-listing.list-view .course-equipment span {height:80px;}
+.pkg-listing.list-view .table-list ul li .days {height:80px;}
+.pkg-listing.list-view .table-list ul li em, .pkg-listing .course-equipment em{line-height:15px;}
+.pkg-listing.list-view .pkg-thumbnail .pck-days > li{padding-right:8px;}
+.pkg-listing.list-view .pkg-thumbnail .pck-days > li:after{right:2px; top:1px;}
+.inner-banner figure{height:300px;}
+.icon-nav-list { margin-left:10px; width:calc(100% - 10px);}
+.icon-nav-list .item a{width:100%;}
+.grid-view li > .pkg-thumbnail.type02 .inclusions ul li {padding-right:10px;}
+.bottom-blog figcaption b {width:60%; font-size:16px;}  
+.bottom-blog figcaption {width:81%;}
+
+/*Enquiry form start 30Oct2018*/
+.form-thm input[type="text"]{width: 178px;}
+.form-thm > li .form-rt .radio-inline.col-inline > li{width: 32%}
+.form-thm .input-group.spinner .input-group-btn > .btn{width: 32px}
+.form-thm .input-group.spinner{width: 103px;}
+.form-thm > li .form-rt label small{display: block}
+.flexible-date .radio-inline{margin-left: 15px}
+/*Enquiry form end 30Oct2018*/
+/* 27-02-2019 */    
+.golf-event-sec .thumb-sec .thumb-data {    padding-bottom: 70px;}   
+.bottom-sec.price-sec {padding: 10px;}    
+/* 27-02-2019 */
+    
+/*13-03-2019*/
+.form-block { padding-left: 45px; padding-right: 45px; }
+.error-content .oops-txt {font-size: 110px; line-height: 1.2em; padding-bottom:25px;}
+/*13-03-2019*/
+}
+/* max-width:1199px:Starts*/
+
+/* max-width:991px:Ends*/
+@media screen and (max-width:991px){
+/*.ttl{font-size:27px; line-height:30px; padding-bottom:15px;}*/
+.search-form-sec {max-width:100%; width:100%;}
+.search-form-sec .widget-form-elements .tags-where { width:calc(100% - 285px);}
+#destination-section .dest-th-tiles .item {width:33.333%;}
+#destination-section .dest-th-tiles-wrap .view-all i {display:table-cell;}
+#destination-section .dest-th-tiles-wrap .view-all span {display:table-cell; padding-left:5px;}
+.getways-info .btn{margin:10px 0 15px;}
+.btn.btn-lg {padding:8px 12px 4px;}
+.event-info .event-date, .event-info p{font-size:13px;}
+.event-info .event-date{padding-bottom:15px;}
+.golf-clinic-info {padding-right:15px;}
+.deals-list .dest-th-tiles{padding-top:0px;}
+.dest-th-tiles-wrap.deals-list{padding-right:0px;}
+.deals-list .view-all {position:relative; right:auto; bottom:auto; margin-top:10px;}
+.dest-th-tiles-wrap {padding-right:0px;}
+.dest-th-tiles-wrap .view-all { top:auto; bottom:100px;}
+.golf-clinic-info .view-all { top:auto; bottom:125px;}
+#destination-section .dest-th-tiles-wrap .view-all{width:auto; margin:10px 0 0;}
+.dest-th-tiles-wrap .view-all .custom-plus-icon {display:inline-block; margin:0px 5px 0 0;}
+.golf-clinic-info .dest-th-tiles-wrap{padding-right:0px;}
+.deals-list .dest-th-tiles{margin-left:-10px; margin-right:-10px;}
+.deals-list .dest-th-tiles .item { padding-left:10px; padding-right:10px;}
+.about-left-section {width:100%; display:block !important; padding:0 0 30px;}
+.about-right-section {width:100%;display:block !important;}
+.about-info {width:100%;}
+.about-right-section {padding:0;}
+.about-info figure{margin-bottom:8px;}
+.about-left-bg{width:100%;}
+.about-right-bg {width:100%;}
+.about-right-section {}
+.about-right-bg{}
+.about-left-section {margin:-30px -15px 0px -135px; padding:25px 15px 30px 135px;width:calc(100% + 150px);background:url(../images/about/about-us-left.jpg) left top no-repeat; background-size:cover;}
+.about-left-bg{display:none;}
+.view-reviews {padding:15px 0 0;}
+.footer-links > ul >li ul li a{font-size:12px;}
+.tab-list.theme-01 { margin:0 -5px;}
+.tab-list.theme-01 li {padding:0 5px 15px;}
+.tab-list.theme-01 li a .icon {width:70px; height:70px;}
+.golf-courses-right-sec {padding-left:15px;}
+.courses-list li a strong {font-size:15px; line-height:20px;}
+.logo-wrap{padding:10px 14px 5px;}
+.golf-clinic-info  .view-all {margin:10px 0 0;}
+.tab-list.theme-01 li a .icon i {font-size:40px;}
+.tab-list.theme-01 li a .icon i.fa-custom-japan {font-size:27px;}
+.search-left-info span{font-size:14px;}
+.event-left-section .img-fit {width:100%;}
+.event-left-section .event-info {width:100%; padding:15px 0 30px;}
+.event-left-section .img-fit figure {height:200px;}
+.event-list .item {padding:6px;}
+.event-right-section .box{padding:10px;}
+.mCSB_scrollTools{right:2px;}
+.cont-section-inner h6{font-size:12px;}
+.cont-section-inner .event-date{font-size:11px;line-height:13px; display:block;}
+.btn.btn-sm {padding:6px 5px 4px;}
+/* .event-list .item .event-schedule-info{padding-right:0px;}*/
+.event-list .item .event-schedule-info .border-list > li{font-size:11px;}
+.event-list .item{margin-top:10px;}
+.testimonial-info {padding-left:45px;}
+.testimonial-info:before {width:35px; background-size:100% auto;}
+.grid-view .pkg-thumbnail .thumb-wrap {height:300px;}
+.search-filter-list li a {font-size:11px; padding:8px 4px 4px; letter-spacing:-0.4px;}
+.search-filter-list li .select-dest > .styled-select .btn-group .btn.dropdown-toggle {font-size:11px; padding-right:15px; padding-left:5px;}
+.search-filter-list li .select-dest > .styled-select .btn-group .btn .caret {right:5px;}
+.search-filter-list li .select-dest > label {font-size:11px;}
+.search-filter-list li .select-dest {padding-left:20px;}
+.grid-view li > .pkg-thumbnail .thumb-wrap .img-descr .pkg-tl {font-size:14px;}
+.grid-view li > .pkg-thumbnail .inclusions ul li a{font-size:15px;}
+.grid-view li > .pkg-thumbnail .inclusions ul li .fa-custom-car {font-size:13px;}
+.grid-view li > .pkg-thumbnail .inclusions ul li .fa-custom-car {font-size:13px;}
+.grid-view li > .pkg-thumbnail .inclusions ul li .fa-custom-umbrella {font-size:15px;}
+.grid-view li > .pkg-thumbnail .inclusions ul li .fa-custom-bed {font-size:13px;}
+.pkg-thumbnail .offer-price .price{font-size:20px;line-height:20px;}
+.grid-view li > .pkg-thumbnail .price-sec .price-dtl{font-size:11px;}
+.grid-view li > .pkg-thumbnail .price-sec{min-width:120px; max-width:140px;}
+.grid-view .rht-sec .rounded-outline-btn{right:10px; bottom:10px;}
+.grid-view li > .pkg-thumbnail .thumb-wrap .img-descr{width:calc(100% - 120px);}
+.pkg-list .pkg-highlights li {font-size:10px; line-height:13px;}
+.club-hole-info >div {padding:15px;}
+.pkg-bar-left, .pkg-bar-right {width:100%; display:block;}
+.pkg-bar-right-tbl{width:100%;}
+.pkg-bar-list{width:100%;}
+.pkg-bar-list .packag-sec {width:66.6%;}
+.pkg-bar-list >li {padding-right:30px;}
+.pkg-bar-list >li:after {right:15px;}
+.pkg-bar-list .price-packag-sec {width:33.3%; padding-right:0;}
+.pkg-bar-list >li.actn-btn.col-2  { min-width:120px; padding-right:15px;}
+.pkg-bar-list .price-packag-sec:after {display:none;}
+.pkg-bar-list .price-sec .price-info  {float:right;}
+.pkg-bar-list .actn-btn {clear:both; margin-top:10px;}
+.pkg-bar-list .actn-btn.col-2 {clear:none;}
+.pkg-bar-right .book-now {float:right;}
+.pkg-bar-list >li.right-section {float:right; padding:10px 0 0;}
+.pkg-bar-right{padding-top:12px;}
+.club-facilities-info {padding-left:15px;padding-top:20px; margin-top:5px;}
+.club-facilities-info:before {width:calc(100% - 30px); height:1px; left:15px; right:15px;}
+.table-border-list ul.tbl-style li {padding:8px 10px;}
+.table-border-list ul.tbl-style li strong{font-size:22px; line-height:25px;}
+.table-border-list ul.tbl-style li span {font-size:11px;}
+.tab-page-ttl {font-size:20px; padding-bottom:0px;}
+.tab-page-no {font-size:25px;}
+.tab-page-ttl-wrap{padding-bottom:15px;}
+.yard-list{ padding:18px 0 28px;}
+.tab-page-sub-ttl {padding-bottom:8px;}
+.HrzTab.r-tabs .r-tabs-panel{padding-right:0px;}
+.resp-tabs-list.theme-02 li{margin-right:5px; min-width:26px; padding:6px 7px 4px; font-size:12px;}
+.resp-tabs-list.theme-02 li:last-child{margin-right:0px;}
+.trip-btm-packages .dest-th-tiles .item {margin-bottom:15px;}
+.trip-btm-packages .dest-th-tiles .item:last-child {margin-bottom:0px;}
+.trip-btm-packages .dest-th-tiles .item .img-fit {width:30%;}
+.trip-btm-packages .dest-th-tiles .item .pkg-info {width:70%;}
+.photos-panel .photo-gallery .owl-nav .owl-prev:before{font-size:30px;}
+.photos-panel .photo-gallery .owl-nav .owl-prev{margin:0px; padding:0px; left:5px;}
+.photos-panel .photo-gallery .owl-nav .owl-next{margin:0px; padding:0px;}
+.photos-panel .photo-gallery .owl-nav .owl-next:before{font-size:30px;}
+.photos-panel .photo-gallery .owl-nav .owl-next:before{top:3px;}
+.photos-panel .photo-gallery .owl-nav .owl-prev:before{position:relative; top:2px;}
+.photo-gallery-thumb .item{ margin:0px 2px;}
+.photo-gallery-thumb {padding:0 15px;}
+.photos-panel .photo-gallery-thumb .owl-nav .owl-prev, .photos-panel .photo-gallery-thumb .owl-nav .owl-next {width:15px; padding:4px 2px;}
+.list-view .pkg-thumbnail > div {display:inline-block;width:100%;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap .img-sec {width:210px;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap {padding-left:210px;}
+.pkg-listing.list-view .pkg-thumbnail .pck-days {padding-bottom:5px;}
+.list-view .pkg-thumbnail .thumb-wrap .img-descr {padding:0px 0 0 10px;}
+.pkg-listing.list-view .pkg-thumbnail > div.rht-sec {width:100%; padding:15px; background:#fbf8f8; margin-top:10px;}
+.sort-top-sec .search-form + .filter-links{float:left;clear:both; padding-left:0px; margin-top:10px;}
+.sort-top-sec .search-form + .filter-links + .sort-sec {}
+.filter-links-list li a{padding:10px 10px 9px;}
+.sort-top-sec .search-form + .filter-links + .sort-sec {padding-top:18px;}
+.icon-nav-list .item {padding:5px;}
+.icon-nav-list .item:after{ width:14px; height:10px;}
+.deals-list .view-all{bottom:auto; margin-top:20px;}
+.nav {height:100%;}
+.top-search-box {padding-left:45px;}
+.top-search-box .search-btn , .top-search-box .submit-btn{width:45px;}
+.icon-nav-list { margin-left:45px; width:calc(100% - 45px);}
+.top-search-box .search-close-btn {width:45px;}
+.top-search-box form input {padding-right:55px;}
+.top-search-box form input {font-size:20px;}
+.inner-top-strip .back-btn-wrap {position:relative; margin:-10px -15px 0; padding:6px 15px 7px; background:#334e6f; z-index:9; border-top:1px solid #45648a;}
+.pkg-bar-list{display:block;}
+.pkg-bar-list >li{display:block; float:left;}
+.back-btn-wrap + .pkg-bar{padding-top:16px;}
+.search-form-sec .widget-form-elements .search-btn {width:130px;}
+.search-form-sec .widget-form-elements .search-btn .btn {font-size:12px;}
+#destination-section .search-form {margin-right:0px;}
+.grid-view li > .pkg-thumbnail .inclusions ul li label {font-size:9px;}
+.grid-view li > .pkg-thumbnail .inclusions ul{padding-right:0px;}
+.grid-view li > .pkg-thumbnail.type02 .inclusions ul li{padding-right:6px; max-width:50px;}
+.search-filter.float-right {float:left !important; margin:0 0 10px;}
+.search-filter.float-right{clear:left;}
+.search-filter.float-right{width:100%;  max-width: none;}
+.search-form-sec.type02 .widget-form-elements .tags-where {width:100%;margin-bottom:10px;}
+.gallery-list .galwall-box .img-fit.img-wrap img {height:250px;}
+.distinations .gallery-list .galwall-box .figcaption .ttl-sm {padding-left:10px;}
+.distinations .gallery-list .galwall-box .figcaption li span {font-size:11px; font-size:9px; min-height:auto;}
+.photo-gallery.gal-album .item img { height:350px;}
+header .top-header .container > ul > li .dropdown-menu.theme-03.login-sec {transform:inherit !important; right:0px; top:25px !important;}    
+header .top-header .container > ul > li.login.show:before { left:calc(50% - 13px);} 
+.golf-courses-tab.details-sec { margin-top:5px;}
+.theme-01 .resp-tab-content {padding:18px 20px;}
+.other-package figcaption .ttl-sm {font-size:14px;padding-bottom:0px;}
+.other-package p { font-size:11px;}    
+.search-form-sec.type02 .widget-form-elements .tags-where {width:50%;}
+.banner2 .search-form-sec .widget-form-elements .search-btn {margin-left:3px; width:100px;}    
+.banner2 .main-slider-content {width:90%;}    
+.search-form-sec .text-core .text-wrap textarea {font-size:14px;}    
+.distinations .gallery-list .galwall-box .img-fit.img-wrap img {height:200px;}    
+.distinations .gallery-list .galwall-box .img-fit.img-wrap {height:200px;}       
+.deals-list.type02 .dest-th-tiles .item {padding:5px;margin-bottom:0px;}
+.back-btn-wrap {left:140px; width:auto; right:0;}
+
+/*** Enquiry Form start **/
+.form-content .radio-inline.col-1, .form-content .radio-inline.col-2, .form-content .radio-inline.col-3,.form-content .radio-inline.col-4,.form-content .radio-inline.col-5{width: 100%}
+.form-content .radio-inline li{display: inline-block; width: 49%}
+.form-content .radio-inline.type02 li{width: 100%}
+.form-thm > li .form-rt .radio-inline.col-inline > li{display: inline-block}
+.form-thm > li .form-rt .radio-inline.col-inline > li{width: 49%}
+.form-thm input[type="text"]{width: 100%}
+.flexible-date{ margin-bottom: 15px; margin-top: 38px}
+.form-thm .input-group-btn > .btn{width: 33px;}
+.form-thm .input-group.spinner{width: 100px}
+.tbl-style.typ2 > div input[type="text"]{width: 179px}
+.travel-members{margin-top: 15px}
+.file-upload{font-size: 11px;}
+/*** Enquiry Form End **/
+
+.filter-mob-toggle { display: block;}
+.filter-pannel-cont { padding: 0; margin: 0; }
+.search-result-filter-section + .search-filter.float-right { margin-top: -10px; }
+
+/*12-02-2019*/
+.form-des-details.custom-calender { width: 560px; margin-left: -380px; }
+/*12-02-2019*/
+    
+/*13-03-2019*/
+.form-block{padding: 30px;}
+.contact-block .phoneno {font-size: 20px;}
+.error-content .oops-txt {font-size: 100px;line-height: 90px;padding-bottom: 25px;}
+.error-content .error-txt {font-size: 16px;}
+.error-content > p {font-size: 16px;}
+/*13-03-2019*/
+}
+/* max-width:991px:Ends*/
+
+/* Min width 768 and max-width:991px ::Starts */
+@media screen and (min-width:768px) and (max-width:991px) {
+.golf-event-sec .row { margin-right:-5px; margin-left:-5px;}    
+.golf-event-sec .row [class^="col"] {padding-left:2px; padding-right:2px;}
+
+.bottom-sec.price-sec .price-info .offer-price { position:static;}
+.bottom-sec.price-sec .price-info .offer-price .price { font-size:18px; }
+.bottom-sec.price-sec .price-info .starting-txt,
+.bottom-sec.price-sec .price-info .price-dtl {font-size:10px; line-height:1em; display:block;}
+.golf-event-sec .thumb-sec .heading-tl {font-size:20px;}
+/* 27-02-2019 */ .bottom-sec.price-sec {padding: 10px;} /* 27-02-2019 */
+.bottom-sec.price-sec .btn_readmore { text-align:right;}
+.bottom-blog figcaption a.btn-primary {font-size:14px; padding:2px; width:97px; height:30px; }
+
+.our-experts  .row {margin-right:-5px; margin-left:-5px;}     
+.our-experts  .row [class^="col"] {padding-left:2px; padding-right:2px;}    
+.our-experts .thumb-data { padding:0 5px;}   
+.details-sec .thumb-data h2 {font-size:20px;}
+.about-desc .desc1 img {width:50%; }  
+.our-experts { margin-top:30px;} 
+
+.other-nav nav > ul.nav > li {margin-left:0px; margin-right:0px;}    
+.other-nav nav > ul.nav > li > a {padding:4px 0 4px 0px;}  
+.bottom-blog figcaption b {width:47%; font-size:11px;}    
+.dest-th-tiles .item .img-fit .offer-name {font-size:12px;}
+
+.back-btn-wrap .rounded-outline-btn { padding:3px 10px 3px 10px; }
+.top-header .container > ul > li > a { padding:5px 3px; padding-left:23px; font-size:10px;}
+.top-header .search-form form {width:140px;}
+.back-btn-wrap + header .search-form {margin-left:145px; margin-right:5px; }
+
+/*30Oct2018*/
+.form-thm > li .holiday-easy:before {left: 17px}
+.form-thm > li .holiday-moderate:before {left: 17px}
+.form-thm > li .holiday-active:before {left: 17px}
+.form-thm > li .holiday-packed:before {left: 17px}
+}
+/* Min width 768 and max-width:991px ::Ends */
+
+/* max-width:768px:Ends*/
+@media screen and (max-width:768px){
+.grid-view li > .pkg-thumbnail.type02 .inclusions ul li {padding-right:10px;}
+.grid-view li > .pkg-thumbnail .inclusions ul li label {font-size:7px;}
+.golf-event-sec .row > [class^="col"] {margin-bottom:15px;} 
+/* 27-02-2019 */ .golf-event-sec .thumb-sec .img1 {max-height: inherit;} /* 27-02-2019 */   
+}
+/* max-width:768px:Ends*/
+
+/* max-width:767px:Start*/
+@media screen and (max-width:767px){
+.offer-sec{width:100%;}
+/*.ttl{font-size:28px; line-height:30px;}*/
+.main-slider-content .ttl{padding-bottom:5vh;}
+.main-slider-content {padding:40px 15px 40px 15px}
+.offer-sec .offer-content {padding-right:90px;}
+.offer-sec .offer-content .btn{width:80px;right:0px;}
+.search-form-sec .widget-form-elements .tags-where{width:calc(100% - 108px);}
+.search-form-sec .widget-form-elements .search-btn{width:100%; padding-top: 23px;}
+.search-form-sec .widget-form-elements .search-btn .btn { width: auto; font-size: 11px; padding: 9px 18px;}
+.logo-wrap a {width:50px;}
+.logo-wrap{padding:8px 5px 3px;}
+.navigation-wrap {width:120px; left:-120px;}
+.cont-section.parallax-window {padding-left:0px; min-height: calc(100vh - 90px); padding-top: 90px;}/*08-03-2019*/
+.img-fit.img-wrap figure img {width:100%; object-fit:cover;}
+.dest-th-tiles .item .img-fit .offer-name {padding:5px 10px 3px;}
+.deals-list .dest-th-tiles .item .img-fit {height:250px;}
+.dest-th-tiles .item .img-fit .figcaption {padding:0 10px 12px;}
+.deals-list .dest-th-tiles .item {margin-bottom:15px;}
+.deals-list .view-all {margin-top:0px;}
+footer{width:100%; left:0px;}
+.social-links label {font-size:12px; padding-right:5px;}
+.top-header {width:calc(100% - 60px);}
+.logo-wrap{position:fixed; left:0px; top:0px;}
+.top-header {padding:26px 45px 25px 0;}
+.top-header ul li a span {display:none;}
+.top-header .container > ul > li > a > i {position:relative;}
+.top-header .container > ul > li > a > i {width:25px; height:25px; font-size:16px; line-height:24px; left:auto; top:auto;}
+.top-header ul li a > .fa-custom-envelope-open:before {font-size:13px; top:-1px;}
+.top-header ul li a > .fa-custom-social:before {font-size:14px; top:-1.5px;}
+.top-header .container > ul > li > a > span > .author-img > i{width:25px; height:25px; font-size:16px; line-height:24px; left:auto; top:auto; position:relative;}
+header .top-header .container > ul > li.login span {display:block;}
+header .top-header .container > ul > li.login .login-txt {display:none;}
+.top-header ul li a{padding:0px;}
+.top-header ul li {padding-right:7px;}
+.search-form {margin-right:15px;}
+.top-header ul li:last-child {padding-right:0;}
+.search-form-sec {width:100%;}
+.cont-section .container.tbl-style{padding:25px 15px; height: calc(100vh - 90px);}/*08-03-2019*/
+#destination-section .dest-th-tiles-wrap .view-all i {display:table-cell;}
+#destination-section .dest-th-tiles-wrap .view-all span {display:table-cell;}
+.view-all i {font-size:32px;}
+.view-all span{padding-left:5px;}
+.footer-links > ul >li{ width:auto; padding-right:25px;}
+.footer-links > ul >li:last-child{padding-right:0px;}
+.custom-tab-btn {/*display:block; margin:0 0 15px;*/}
+.custom-tab-btn a{display:block;background:#ffde17; font-size:16px; font-weight:700; text-align:left; padding:5px 30px 4px 10px; color:#000; position:relative;}
+/*.tab-list.mobile {display:none;}
+.tab-list.theme-01 { position:absolute; left:0px; right:0px; top:32px; background:rgba(0, 0, 0, 0.8); z-index:9;  border:1px solid #ffde17; margin:0px;}
+.tab-list.theme-01 li {width:100%; text-align:left; padding:7px 5px 4px; border-bottom:1px solid #ffde17;}
+.tab-list.theme-01 li a {text-align:left;}
+.tab-list.theme-01 li a .icon { width:40px; height:40px; margin-bottom:4px; float:left; text-align:center; margin:0 5px 0 0;}
+.tab-list.theme-01 li a .icon i { font-size:25px;}
+.tab-list.theme-01 li a .icon i.fa-custom-japan {font-size:17px;}
+.tab-list.theme-01 li a strong{font-size:12px; padding:8px 0 2px;}
+.tab-list.theme-01 li a em{font-size:10px; padding-bottom:6px;}*/
+.tab-list.theme-01 li {width:50%; display: none;} 
+.tab-list.theme-01 li:first-child,
+.tab-list.theme-01 li:first-child + li,
+.tab-list.theme-01 li:first-child + li + li,
+.tab-list.theme-01 li:first-child + li + li + li { display: block;} 
+.tab-list.theme-01 li a .icon { width: 130px; height: 130px; }
+.tab-list.theme-01 li a .icon i { font-size: 70px; }
+.golf-courses-right-sec { display: none;}
+.golf-clinic-info p, .about-info, .testimonial-info, .cont-section-inner h5 { text-align: center;}
+.dest-th-tiles .item .img-fit .figcaption .golf-type, .dest-th-tiles .item .img-fit .figcaption .price-info {display: none;}
+.dest-th-tiles .item .img-fit .figcaption p { font-size: 10px; }
+.about-info figure, .testimonial-wrap .item figure { width: 90px; height: 90px; margin: 0 auto 15px;}
+.testimonial-info { padding: 0; }
+.testimonial-info:before { display: none; }
+.cont-section-inner h5 { padding-bottom: 4px; }
+
+.custom-tab-btn a:after {content:"\f101"; position:absolute; right:10px; top:1px; font-size:20px;}
+.custom-tab-btn a.active:after {transform:rotate(90deg); top:2px;}
+.golf-courses-left-sec .search-form {width:100%; margin-bottom:20px;}
+.ttl {padding-bottom:10px; text-align: center;}
+.deals-list .view-all{min-width:10px;}
+.toggleMenu {display:block;}
+.navigation-wrap {transition:ease-in-out 0.4s all; padding-top:95px; background:rgba(255,255,255,1);/*overflow:scroll;*/}/*08-03-2019*/
+.navigation-wrap.open {left:0px;}
+.inner-page-content {padding-left:0px; padding-top:90px;}
+.tab-list-wrap{position:relative;}
+.search-form-sec {margin-bottom:5vh;}
+.main-slider-content {padding-top:105px;}
+.event-left-section{padding-right:15px; width:60%;}
+.event-right-section{width:40%;}
+header { /*background:#334e6f; height:80px; background:rgba(255,255,255, 0.92); */  background:rgba(255,255,255, 0.5); height:90px; position:fixed; width:100%; top:0;}
+.header.header-sm,
+.header.header-sm .top-header { background: #334e6f; }
+.top-header .container > ul > li > a > i, 
+.top-header .container > ul > li > a > span > .author-img > i { color: #fff; background: #414042; }
+.toggleMenu span { background: #414042;  }
+
+.header-sm .top-header .container > ul > li > a > i, 
+.header-sm .top-header .container > ul > li > a > span > .author-img > i,    
+.inner-pg .top-header .container > ul > li > a > i, 
+.inner-pg .top-header .container > ul > li > a > span > .author-img > i { color: #414042; background: #fff; }
+.header-sm .toggleMenu span,
+.inner-pg .toggleMenu span { background: #fff;  }
+
+.top-header {/*background:#334e6f;*/ }
+.top-header ul {padding-top:4px;}
+.chat-window-wrap {bottom:15px; right:15px;}
+.chat-window-wrap .chat-btn{font-size:30px; line-height:30px;}
+.chat-window-wrap .chat-btn:after { width:20px; height:20px;margin-left:-15px;margin-top:-10px;}
+.pkg-listing.grid-view > li{width:50%; float:left;}
+.grid-view .pkg-thumbnail .thumb-wrap{padding-left:1px;}
+.powered-by {width:100%;}
+.powered-by > span{padding-bottom:3px;}
+.footer-links {padding-bottom:14px;}
+.inner-page-content{padding-bottom:210px;}
+.sort-top-sec{padding:0px 0px 20px;}
+.search-filter-btn{display:block;}    
+.search-filter-list {float:none; border-radius:0px; display:none;}
+.search-filter-list li{float:none; border-top:1px solid #f3efef;}
+.search-filter.float-right .search-filter-list li {float:none;}
+.search-filter-list li .select-dest > .styled-select .btn-group .btn.dropdown-toggle {border-radius:0px;}
+.search-filter-list li .select-dest:after {display:block; clear:both; content:"";}
+.search-filter-list li .select-dest {padding-left:0px;}
+.search-filter-list > li > a {padding:8px 20px 4px 10px ; position:relative; font-size:12px;}
+.search-filter-list > li > a:after {content:"\f105"; position:absolute; right:10px; top:4px; font-size:15px;}
+.search-result-filter-section {display:block;}
+.search-filter-list li .select-dest {padding:0 10px;}
+.search-filter-list li .select-dest > .styled-select .btn-group .btn.dropdown-toggle , .search-filter-list li .select-dest > label {font-size:12px;}
+.search-filter-btn{display:block; background:#fff; color:#0f74bb; font-size:15px; padding:6px 10px 4px; border-radius:0px; font-weight:700; position:relative;}
+.search-filter-btn:after { content:"\f101"; position:absolute; right:10px; top:0px; font-size:22px;}
+.search-filter-btn.active:after {  transform:rotate(90deg);}
+.search-left-info span{font-size:13px;}
+.itinerary-lt-panel, #lt-panels {display:inline-block;position:relative;width:100%;}
+#HorizontalTab.HrzTab {padding-left:0px !important;}
+.HrzTab .resp-tabs-list{ display:none !important;}
+.HrzTab.r-tabs .r-tabs-panel{ float:none !important;; margin:10px 0; display:none;}
+.HrzTab.child-tab { padding:0 10px;}
+.HrzTab.child-tab .r-tabs-accordion-title > a{ border:0; border-bottom:2px solid #59699d}
+.HrzTab.child-tab .r-tabs-panel{ /* background:rgba(246, 244, 232, 0.77)*/; padding:10px;}
+.HrzTab.child-tab .r-tabs-accordion-title.r-tabs-state-active a{ background:none; border-bottom-color:#555; color:#555}
+.r-tabs .r-tabs-accordion-title.r-tabs-state-active a{ position:relative; background:#0a3381; color:#fff;}
+.r-tabs .r-tabs-accordion-title > a .fa-custom-plane::before{background-image:url(../images/common/icons/fa-custom-plane-white1.png);} /* 22May2018*/
+.r-tabs .r-tabs-accordion-title a:after{ content:"\f054";position:absolute;right:10px;top:0;font-size:15px;line-height:35px;font-weight:normal;}
+.r-tabs .r-tabs-accordion-title.r-tabs-state-active a:after{content:"\f078"}
+.r-tabs .r-tabs-accordion-title{ display:block; margin-bottom:5px; clear:both;}
+.r-tabs .r-tabs-accordion-title > a{ font-weight:600; display:block; padding:9px 10px 6px; font-size:14px; position:relative;background:#007bff; color:#fff;}
+/* * Right Section ::Ends **/
+
+h2.resp-accordion.hor_1 {background:#007bff !important;}
+.golf-courses-tab .select-club{margin:0;}
+.resp-tab-content {clear:both;}
+.sub-ttl {font-size:20px; line-height:22px; padding-bottom:10px;}
+.ttl-md{ font-size:21px; line-height:23px; padding-bottom:12px;}
+.ttl-sm{ font-size:20px; line-height:22px; padding-bottom:5px;}
+.ttl-xs{ font-size:14px; line-height:16px; padding-bottom:12px;}
+.table-border-list .box{padding:10px 0; margin-bottom:15px;}
+.club-top-info ul li{font-size:12px;}
+.club-top-info{padding-bottom:12px; margin-bottom:18px;}
+.club-facilities-info { padding-top:18px; margin-top:3px;}
+.club-mid-info{padding-bottom:6px; margin-bottom:20px;}
+h2.resp-accordion.hor_1.resp-tab-active {background:#0a3381 !important;}
+h2.resp-accordion {background:#007bff !important; color:#fff !important; padding:8px 10px 6px;}
+h2.resp-accordion span.resp-arrow{top:0px; right:-5px;}
+h2.resp-accordion.resp-tab-active span.resp-arrow {top:4px; right:3px;}
+.styled-select .btn-group .btn.dropdown-toggle{font-size:12px;}
+h2.resp-accordion.resp-tab-active {background:#0a3381 !important;}
+.yard-list li{padding:8px 10px 6px;}
+.tab-page-ttl-wrap .tab-page-no{float:none;}
+.tab-page-ttl-wrap .tab-page-ttl{float:none;}
+.tab-page-ttl{font-size:17px; line-height:20px; display:block;}
+.tab-page-ttl-wrap{padding-bottom:8px;}
+.tab-page-no small{font-size:11px;}
+.tab-page-no{font-size:20px;}
+.hole-gallery ul li{width:78px;}
+h2.resp-accordion.hor_1{float:none;}
+.two-clm-page {padding-bottom:20px;}
+.golf-courses-tab{padding-bottom:20px;}
+
+.pkg-bar-list >li:last-child{width:100px;}
+.pkg-bar-list .packag-sec{width:calc(100% - 250px);min-width:100px;}
+.pkg-bar-list .price-packag-sec {width:250px;}
+.tbl-list-wrap.pkg-bar-list .packag-sec{width:calc(100% - 250px);min-width:100px;}
+.pkg-bar-list .actn-btn-sec ul li{font-size:11px;}
+.breadcrumb{padding:10px 0 5px;}
+.pkg-bar .price-sec .price-info .offer-price .price{font-size:20px;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap .img-sec {width:180px;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap {padding-left:180px;}
+.pkg-listing.list-view .pkg-thumbnail {margin-bottom:15px;}
+.pkg-listing.list-view > li {padding-bottom:0px;}
+.top-strip-links {margin:0px;}
+.top-strip-links li a {padding:10px 10px;font-size:12px;}
+.filter-links-list li a { padding:11px 5px 9px;}
+.sort-top-sec .sort-sec{font-size:11px;}
+.inner-banner figure {height:250px;}
+.pkg-bar-list .table-border-list ul.tbl-style li { padding:3px 10px;}
+.logo-wrap{background:#fff; padding:4px 4px 0px;}
+.logo-wrap a {width:70px;}
+.main-slider .img-fit{height:100vh; min-height:400px;}
+#destination-section .dest-th-tiles-wrap .view-all{width:130px;}
+.nav ul li a.active::before, .nav ul li a.active::after { background-color:rgba(254,246,19,0.25);}
+.courses-list {padding-top:0px;}
+.offer-sec-wrap {padding:0 15px;}
+.main-slider-content {padding-bottom:0px;}
+
+.other-nav { margin-top:0px;}    
+.other-nav .navbar {display:none;} 
+.aside-btn { display:block !important;}
+.aside-btn a:before {content:"\f107"; width:11px; height:18px; line-height:18px; display:inline-block; right:22px; top:50%; position:absolute; font-size:2em; margin-top:-9px; text-align:center;}   
+.align1 {margin-left:0; display:block; float:none !important; width:100%;}    
+.our-experts [class^="col"] {margin-bottom:15px;}
+.top-search-box form input {font-size:16px;} 
+header .top-header .container > ul > li.login.show:before { left:calc(50% - 0px);}
+.top-header .container > ul > li > a > .fa-custom-envelope-open:before {font-size:13px;}
+.top-header .container > ul > li > a > .fa-custom-social:before {font-size:13px;}
+.top-header .container > ul > li > a{padding-left:5px;}
+.top-header .container > ul > li{padding-right:5px;}
+.golf-clinic-inner-info {width:100%;}
+.about-right-section{padding:25px 0 0 ;}
+#destination-section .search-form{margin-top:0px; width:100%;}
+.golf-courses-right-sec .styled-select .btn-group .btn{font-size:16px;}
+.golf-courses-right-sec .styled-select {margin-top:15px;}
+#destination-section .search-form form .search-input  {font-size:14px;}
+.golf-courses-left-sec .search-form form .search-input{font-size:14px;}
+.btn-outline-white {font-size:12px;}
+.search-filter.float-right .search-filter-list li{padding:0px;}
+.rounded-outline-btn{padding-left:12px; padding-right:12px;}
+.grid-view li > .pkg-thumbnail .price-sec .price-dtl{font-size:10px;}
+.grid-view li > .pkg-thumbnail .thumb-wrap .img-descr {width:calc(100% - 105px);}
+.grid-view li > .pkg-thumbnail .price-sec { min-width:105px; max-width:105px;}
+.grid-view li > .pkg-thumbnail.type02 .inclusions ul li{padding-right:5px;}
+.grid-view li > .pkg-thumbnail.type02 .inclusions ul li{max-width:70px;}
+.gallery-list-de li {width:50%;}
+.distinations.typ-2 .gallery-list.sec li {width:50%;}
+.gal-view.gal-album .photo-gallery-thumb .owl-item img {height:40px; min-height:40px;}
+.gal-view.gal-album .photo-gallery-thumb .play-btn img {width:20px;height:20px; min-width:20px;}    
+.bank-search-li .search-listing {display:none;}
+.banner2 .owl-carousel .owl-item img {height:250px;}    
+.theme-01 .resp-tab-content {padding:18px 20px;}    
+.banner2 .main-slider-content { width:75%;}   
+.banner2 .search-form-sec .widget-form-elements .search-btn {margin-left:3px; width:100px;}    
+.search-form-sec.type02 .widget-form-elements .tags-where {width:40%;}    
+header .top-header .container > ul > li .dropdown-menu.theme-03.login-sec {transform:inherit !important; right:0px; top:33px !important;}    
+header .top-header .container > ul > li.login.show:before { left:calc(50% - 13px);}   
+.bottom-blog figcaption {padding:5px 10px;}    
+.bottom-blog figcaption span {font-size:12px; width:56%; font-size:12px; width:60%; padding-right:5px; }
+.bottom-blog figcaption a.btn-primary {font-size:14px; padding:2px; width:97px; height:30px; }
+.bottom-blog figcaption a span {font-size:14px; padding:2px;width:auto; }
+.inner-banner figure { height:200px;}       
+.search-result-filter-section.type02 .search-filter {min-width:113px;}
+.country-code   {margin-bottom:10px;}
+.contact-us-sec .rcb-shadow-form .submit-btn-grp {padding-top:0px;}
+.contact-us-sec .right-sec {border-left:0px; padding-left:0; padding-right:0px;}
+.contact-us-sec .left-sec  {padding-left:0; padding-right:0px;}
+
+.banner2.event-sec figcaption { top:auto; bottom:40px; }
+.banner2.event-sec .thumb-wrap { width:100%; padding-left:105px; max-width:90%; margin:0 auto; min-height:inherit; }
+.banner2.event-sec .thumb-wrap .img-sec {  width:95px; height:95px;}
+.banner2.event-sec .thumb-wrap .pck-details h5.ttl-xs { font-size:13px; }
+.banner2.event-sec .thumb-wrap .pck-details span.sub-text { font-size:10px; padding-bottom:5px; }
+.banner2.event-sec .thumb-wrap .pck-details p { font-size:11px; line-height:1em; }
+.owl-theme .owl-dots { bottom:10px; }
+.pkg-bar-list .packag-sec { width:calc(100% - 185px);}
+.pkg-bar-list .price-packag-sec {width:185px;}
+.inner-top-strip.fixedpos {width:100%; left:0px;}
+.pkg-bar-list .actn-btn ul li a {font-size:11px;}
+.pkg-bar-list >li {padding-right:18px;}
+.pkg-bar-list >li:after {right:10px; top:0px; bottom:0px;}
+.pkg-bar-list >li:last-child  {width:auto;}
+.pkg-bar ul.pkg-bar-list li .btn  {font-size:12px; padding:6px 8px 4px;}
+.inner-top-strip.fixedpos{position:relative; z-index:9;}
+.dest-th-tiles .item .img-fit .offer-name {font-size:12px;}    
+.deals-list.type02 .dest-th-tiles .item {}
+.inner-top-strip + .main-content .breadcrumb { padding-top: 0; }
+.breadcrumb + .sort-top-sec { padding-top: 0; }
+.pkg-list .ttl-sm { padding-bottom: 5px; }
+.pkg-listing { padding-bottom: 10px; }
+.pkg-listing.grid-view { margin-top: 0; }
+.pkg-listing.grid-view > li, .golf-event-sec, .sort-top-sec { padding-bottom: 5px; }
+.golf-event-sec .row > [class^="col"], .pkg-listing.list-view .pkg-thumbnail { margin-bottom: 5px; }
+.btns-wrap.type02 { margin-bottom: 20px; }
+
+#home-section .owl-theme .owl-nav.disabled+.owl-dots { left: 0; }
+.dest-th-tiles .item .img-fit { height: 162px; }
+.getways-info { text-align: center;}
+.getways-info .img-fit { width: 210px; height: 120px; /*float: none;*/ }
+.getways-info .img-fit figure { height: 120px; } 
+.inclusions, .view-all, .getways-info .img-fit { margin: 0 auto; }
+.event-left-section .box { text-align: center;}
+.event-info .btn { position: relative; }
+
+/** Enqiory form 30Oct2018 start*/
+.popup-box.type05{width: 100%}
+.app-status-form [class^="col-"]{padding-bottom: 30px}
+.app-status-form .pop-divider{padding-top: 30px}
+.vert-seprter {width: 100%; height: inherit; text-align: center; bottom: -20px; }
+.vert-seprter span{position: relative;}
+.vert-seprter:after {height: 1px; width: 100%; left: 0px; right: 0px; top: 15px; z-index: 0;  margin: 0px auto;}
+.popup-box .common-popup-cont .vert-seprter{top: inherit}
+
+#request-info-popup .common-popup-cont .row-md > div:first-child{padding-right: 10px;}
+#request-info-popup .common-popup-cont .row-md > div:last-child{padding-left: 10px}
+
+.popup-box .common-popup-cont [class^="col"]{padding-bottom: 0px}
+.passenger-input .styled-select .btn-group .btn.dropdown-toggle{margin-bottom: 15px}
+.popup-box.type05 .pop-tl h2{font-size: 18px}
+.app-status-form .time-left-txt{position: static; display: block; text-align: right; margin-top: 10px}
+.popup-box .common-popup-cont .btn-cont .btn + .btn{margin-right: 0px}
+
+.row-md{margin: 0px -15px}
+.row-md > [class^="col"]{padding-left: 15px;padding-right: 15px;}
+.form-content.form-thm > li{display: block}
+.form-content.form-thm > li:after{width: 100%; left: 0px}
+.form-content.form-thm > li > * {display: block; width: 100% !important}
+.form-content.form-thm > li > label{padding: 12px 25px}
+.form-content.form-thm .or-divider:before{bottom: inherit; left: 0px; right: 0px; text-align: center; top: 15px}
+.form-content.form-thm .or-divider{padding-left: 10px; padding-top: 40px}
+.form-content.form-thm > li .form-rt .radio-inline.col-5 > li{/* width: 49% */}
+.form-content.form-thm > li > .form-rt [class^="col-"]{margin-bottom: 10px}
+.form-content.form-thm .btn-group.sm{width: 100%}
+.client-dtls li + li{margin-left: 0px}
+.form-content .radio-inline.type02.trvl li{margin-right: 0px}
+
+.form-content.form-thm > li .holiday-easy:before {display: block;content: " ";height: 50px;width: 50px;background: url(../images/common/icon-easy.png) top center no-repeat;position: absolute;top: -50px;left:5px;}
+.form-content.form-thm > li .holiday-moderate:before {display: block;content: " ";height: 50px;width: 50px;background: url(../images/common/icon-moderate.png) top center no-repeat;position: absolute;top: -50px;left:5px;}
+.form-content.form-thm > li .holiday-active:before {display: block;content: " ";height: 50px;width: 50px;background: url(../images/common/icon-active.png) top center no-repeat;position: absolute;top: -50px;left:5px;}
+.form-content.form-thm > li .holiday-packed:before {display: block;content: " ";height: 50px;width: 50px;background: url(../images/common/icon-packed.png) top center no-repeat;position: absolute;top: -50px;left:5px;}
+.form-content .radio-inline li{width:100%; display: block;}
+.form-content.form-thm > li .form-rt .radio-inline.col-inline > li {width: 100%;}
+.vert-divider:after {width:100%; height:1px; top:20px;}
+.vert-divider:before {margin:0 auto;left:45%;}
+.sample-share .row-md {margin-left: 0px;margin-right: 0px;}
+.sample-share .row-md > [class^="col"] {padding-left: 0px;padding-right: 0px;}
+.vert-divider label{padding-top: 40px;}
+.form-content.form-thm > li .form-rt .radio-inline.col-5 > li{width: 100%}
+.tbl-style.typ2 > div.contact-dtls{ display: block; width: auto;}
+.form-thm > li .slider.slider-horizontal .slider-tick-label-container .slider-tick-label{ font-size: 0}
+.form-content .radio-inline.col-1 {width: 100%;vertical-align: top;margin-left: 0;}
+.form-content .radio-inline.col-2 {width: 100%;vertical-align: top;margin-left: 0;}
+.form-content .radio-inline.col-3 {width: 100%;vertical-align: top;margin-left: 0;}
+.form-content .radio-inline.col-4 {width: 100%;vertical-align: top; margin-left: 0;}
+.form-content .radio-inline.col-5 {width: 100%;vertical-align: top; margin-left: 0;}
+.or-dvdr.left{text-align: center}
+.flexible-date{margin: 0px;}
+.form-thm  .row-grid-md .col-md-1 > label{display: none}
+.travel-members{margin-top: 0px}
+.flexible-date .radio-inline{margin: 0px;text-align: center}
+.row-sm.row-grid > [class^="col"]{padding: 0px}
+/** Enqiory form 30Oct2018 End*/
+/* 29-01-2019 */
+.filter-mob-toggle, .search-filter-list,
+.filter-data-cont .filter-data, .fitler-selections, .sort-top-sec.type-02 > div.fitler-selections { display: none;}
+.filter-pannel-cont .search-filter-list li a { padding-left: 15px; padding-right: 15px; }
+.sort-top-sec.type-02 > div,
+.sort-top-sec.type-02 > div .tbl-style > div { display: block;}
+.sort-top-sec.type-02 .tbl-style > div + div { padding-left:0; padding-top:5px;} 
+.search-filter-btn,
+.search-filter-btn:hover { color: #0f74bb }  
+.search-filter-list > li > a:after { right: auto; top: auto; margin-left: 5px;line-height: normal; }
+.filter-pannel-cont > ul { padding: 0; }
+.filter-pannel-cont > ul > li > a.active:after { content: "\f107"; right: auto; left: auto; top: auto; bottom: auto; width: auto; }
+.filter-pannel-cont > ul > li > a.active:before { display: none;} 
+.top-header .container > ul > li .styled-select { padding-top: 5px; padding-bottom: 3px; }
+.top-header .container > ul > li > a { padding-left: 0px; padding-right: 0; }
+
+.luxury-cata-select > form{display: block}
+.luxury-cata-select > form .radio-inline .styled-radio{left: 19px}
+/*.luxury-cata-select > form .radio-inline .price > span {width: 100%;}*/
+.luxury-cata-select > form .radio-inline.selected .price > span > .price-figures::before {top: 3px !important;}
+.luxury-cata-select > form .radio-inline {display: block; width: 100%;padding: 5px 17px 5px 50px; border-bottom: 1px solid #ddd}
+.luxury-cata-select > form .radio-inline:last-child{border-bottom: 0px}
+.luxury-cata-select label::after {content: "";position: absolute; width: 32px; height: 21px;bottom: -40px; left: 0;z-index: 1;left: 50%;margin-left: -16px; display: none}
+.luxury-cata-select > form .radio-inline + .radio-inline{border-left: 0px}
+.luxury-cata-select.col-five > form .radio-inline,.luxury-cata-select.col-four > form .radio-inline{width: 100%;}
+.luxury-cata-select > form .radio-inline .price { display: inline-block; width: 100%;  }
+.HrzTab.r-tabs .r-tabs-panel .ttl-xxs { padding: 8px 0 4px; }
+/* 29-01-2019 */
+.modal-type01.type02 {min-width: 90%; width: 96%; position: fixed; left: 10px;  right: 10px;} 
+.back-btn-wrap {left: 90px;}  
+.top-header ul li.currency-dropdown a span {display: inline-block;}     
+.dropdown-menu.sub-menu.currency {min-width: 90% !important; width: 95% !important; position: fixed !important; top: 60px !important; left: 10px !important; right: 10px !important;
+    transform:none !important;}    
+
+/*12-02-2019*/
+.form-des-details.custom-calender { width: 344px; margin-left: 0; left: calc(0% - 235px );}
+.custom-calender {width:100%;display: none;max-height:inherit;position: relative;margin-top: 0;border-top: 1px solid #000096;border-bottom: 1px solid #000096;border-right: 1px solid #ccc;border-left: 1px solid #ccc; top: 0}
+.custom-calender .month-selector .m-or {left: 45%;top: -20px;}
+.custom-calender .dummy {display: block;vertical-align: top;max-height: 300px;width: 100%;}
+.custom-calender .month-selector {display: block;width: auto;vertical-align: top;color: #fff;position: relative;border-left: 0px;text-align: center;border-top: 1px solid #ccc;margin-top: 20px;padding:15px 0px;}
+.custom-calender .month-selector .or-text{ top: -22px; left: 50%; margin-left: -19px;}
+.custom-calender .month-selector ul {text-align: center;display: inline-block;margin: auto;}
+.custom-calender .ui-widget.ui-widget-content{ width: 100% !important}
+.custom-calender .custom_datepicker_wrap,
+.time-selector{ width: 100%; display: block; padding-right: 0;}
+.time-selector{ margin-top: 20px;}
+.time-selector .item > a{ text-align: center}
+.custom-calender .custom_datepicker_wrap  .head-tl{ padding: 0 10px;}    
+.search-sec .form-sec .widget-form-elements .month-selector li{ display: inline-block; width: 25% !important}
+.custom-calender .prev-year{ left: 0} 
+.custom-calender .next-year{ right: 0}
+.custom-calender .year-picker-title .month-carousel{ max-width: 310px; margin: 0 auto}
+.custom-calender .year-picker-title .month-carousel.owl-theme .owl-nav{ padding-left: 28px; padding-right: 30px;}
+.custom-mob-tbl .table > tbody > tr > td[data-label]:before{width: 55%; font-size: 12px; font-weight: 600}
+.ttl { font-size: 1.8em; line-height: 1.2em; }
+/*12-02-2019*/
+} 
+/* max-width:767px:End*/
+
+/* max-width:599px:End*/
+@media screen and (max-width:599px){
+.inner-page-content {padding-bottom:300px;}
+body {font-size:12px;}
+/* 27-02-2019 */ p { font-size:11px; line-height:1.4em;} /* 27-02-2019 */
+#more-section .container.tbl-style{padding-bottom:305px;}
+.footer-btm-sec {text-align:center; padding:10px 0 7px;}
+.copyright{padding:0 0 5px;}
+.social-links {float:none; display:inline-block;}
+.footer-links > ul >li ul li a{padding:2px 0;}
+.footer-links > ul >li ul li {padding-bottom:2px;}
+.powered-by {width:100%;}
+.powered-by > span{padding-bottom:3px;}
+.footer-top-sec {padding:10px 0;}
+/*.ttl {font-size:25px; line-height:27px;}*/
+.deals-list .dest-th-tiles .item{width:50%;}
+.event-info .event-date, .event-info p{font-size:12px;}
+.event-info .event-date {padding-bottom:8px;}
+.event-left-section {width:100%; display:block !important; padding-right:0px; margin-bottom:15px;}
+.event-right-section {width:100%; display:block !important;}
+.event-left-section .img-fit {width:35%;}
+.event-left-section .event-info {width:65%; padding:0px 0 30px 10px;}
+.event-left-section .img-fit figure {height:220px;}
+.pkg-listing.grid-view > li {width:100%;}
+.grid-view .pkg-thumbnail .thumb-wrap{height:250px;}
+.top-header .search-form form {width:150px;}
+.grid-view li > .pkg-thumbnail .inclusions span{position:relative; top:4px;}
+.search-right-info{float:left; padding-bottom:12px;}
+.search-left-info {padding-right:12px;}/*27-02-2019*/
+.club-hole-info {display:block;}
+.club-hole-info > div {display:block; width:100%;}
+.club-hole-info .club-hole-info-left {border-bottom:none;}
+.club-hole-info .club-hole-info-right {border-left:1px solid #efefef;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap .img-sec {width:100%; position:relative; padding-bottom:12px;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap .img-sec figure {position:relative; height:250px;}
+.pkg-listing.list-view .pkg-thumbnail .thumb-wrap {padding-left: 0;}
+.list-view .pkg-thumbnail .thumb-wrap .img-descr {display:block;}
+.list-view .pkg-thumbnail .thumb-wrap .img-descr {padding-left:0px;}
+.sort-top-sec .search-form{float:none; width:100%; padding-bottom:10px;}
+.sort-top-sec .search-form + .filter-links{float:none; width:100%; padding-left:0px;} 
+.sort-top-sec .search-form form {width:100%;}
+.sort-top-sec .sort-sec .filter-search-panel-toggle{padding-right:5px;}
+.sort-option-list ul li{padding-right:6px; margin-right:6px;}
+.filter-links-list{font-size:11px;}
+.sort-top-sec .sort-sec .filter-search-panel-toggle{font-size:11px;}
+.sort-top-sec .search-form + .filter-links + .sort-sec{padding-top:9px;}
+.top-strip-links li a {font-size:11px;}
+.top-strip-links li{padding:0px;}
+.club-mid-info .img-sec {height:250px !important;}
+.deals-list .view-all{position:absolute; right:0px; bottom:120px;}
+.event-list .mCustomScrollBox .mCSB_scrollTools .mCSB_buttonUp{display:block;}
+.event-list .mCustomScrollBox{padding-right:20px;}
+.event-list {height:210px;}
+.mCSB_scrollTools {right:4px;}
+.event-list .mCustomScrollBox .mCSB_scrollTools .mCSB_buttonUp ,.event-list .mCSB_scrollTools .mCSB_buttonDown{display:block !important; text-align:center;}
+.event-list .mCSB_scrollTools .mCSB_draggerContainer {margin:20px 0px;}
+.event-list .item .event-schedule-info{padding-right:8px;}
+.event-list .item .event-schedule-info .btn {position:absolute; top:50%; margin-top:-14px;}
+/* 27-02-2019 */.heading-tl {font-size:16px;}    
+        
+/* 27-02-2019 */
+.photo-gallery.gal-album .item img {height:200px;}    
+.theme-01 .resp-tab-content {padding:18px 10px;}        
+h2.resp-accordion {margin-bottom:4px;}
+.bottom-sec.price-sec .btn_readmore .btn-primary {font-size:11px; padding:8px 6px 6px}  
+.banner2 .main-slider-content .ttl { font-size:22px;}    
+header .top-header .container > ul > li .dropdown-menu.theme-03.login-sec {transform:inherit !important; right:0px; top:33px !important;}    
+header .top-header .container > ul > li.login.show:before {left:calc(50% - 13px);}    
+.banner2.deals figure.img-wrap figcaption .heading-tl {font-size:20px;}
+.banner2.deals figure.img-wrap figcaption .sub-text {font-size:18px;}    
+.listing .dest-th-tiles-wrap.deals-list li {margin-bottom:10px;} 
+.deals-list.type02 .dest-th-tiles .item {margin-bottom:5px; padding:5px}    
+.back-btn-wrap {display:none}
+.custom-field.tags-where .text-core .text-wrap .text-tags {display:none;}
+
+/*29-01-2019*/
+.pkg-tl.txt-lg { font-size: 14px; width: calc(100% - 100px); }
+.tour-type-icon span, .right-sec .pck-details .tour-type, .pkg-tl.txt-lg .tour-type-icon span { font-size: 9px; }
+.fa-custom-for-single.pink:before, .individual .tour-type .tour-type-icon:before, .tour-type .tour-type-icon:before { background-size: contain; background-position: center; width: 8px; }
+.photo-gallery .item figure { height: 200px; } 
+.photo-gallery-thumb .owl-item img { min-height: 50px; height: 50px; }
+.slider-content { padding: 10px; font-size: 12px; }
+.photo-gallery-thumb { margin-top: 5px; }
+.testimonial-details p.txt { font-size: 1em; line-height: 1.3em; margin-bottom: 5px; }
+.event-details .ttl-sm, .event-details .ttl-xs { padding-top: 5px; padding-bottom: 2px; }
+ul.map-options { top: 60px; }
+.pkg-bar-list .actn-btn { margin: 0; }
+.pkg-bar-list .actn-btn-sec ul li { display: inline-block; float: left; margin: 0; padding: 0;}
+.pkg-bar-list .actn-btn ul li a { display: inline-block; padding: 0; text-align: center;}
+.pkg-bar-list .actn-btn ul li a i { position: static; display: block; margin: 0 auto; }
+.pkg-bar-list .actn-btn ul li a > span { display: block; line-height: 1em; max-width: 60px;}
+.pkg-bar .price-sec .price-info .price-dtl { position: relative; top: -6px;}
+.dropdown-menu.sub-menu.currency {height: 74vh; overflow: auto;}
+.dropdown-menu.sub-menu.currency {min-width: 90% !important; width: 95% !important; position: fixed !important; top: 51px !important; left: 10px !important; right: 10px !important;
+    transform:none !important;} 
+header .top-header .container > ul > li.currency-dropdown.show:before { margin-top: 17px;}    
+header .top-header .container > ul > li.currency-dropdown {top: 6px; position: relative;}       
+/*29-01-2019*/
+/* 27-02-2019 */    
+.tour-sec .col-sm-4+.col-sm-4:before {left: 0; top: -9px; height: 1px; width: 100%; border-bottom: 1px dashed #bdbdbd;}    
+/* 27-02-2019 */    
+}
+/* max-width:599px:End*/
+
+/* max-width:479px:Starts*/
+@media screen and (max-width:479px){
+/*.ttl {font-size:22px; line-height:24px;}
+.search-form-sec .widget-form-elements .tags-where{width:100%;}
+.search-form-sec .text-core .text-wrap textarea {border-bottom:none;}
+.search-form-sec .widget-form-elements .travel-date {width:100%;}*/
+
+.search-form-sec .text-core .text-wrap textarea { font-size: 11px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
+.search-form-sec .widget-form-elements .tags-where { width: calc(100% - 108px) }
+.search-form-sec .widget-form-elements .travel-date { width: 108px; }
+.search-form-sec .widget-form-elements .custom-field input,
+.search-form-sec .text-core .text-wrap textarea { padding-left:3px; padding-right: 22px; }
+.search-form-sec .widget-form-elements .travel-date .form-des-element:after { font-size: 12px; right: 3px; top: 0; margin-top: 0; line-height: 37px; }
+#destination-section .ttl { width: 100%; text-align: center;}
+#destination-section .dest-th-tiles .item{width:50%; padding-top: 8px; padding-bottom: 8px;}
+
+.offer-sec >div {display:block;}
+.offer-sec .offer-pricing {width:100%; border-bottom:1px solid #fff; border-right:none; padding:0 0 8px; margin-bottom:10px; text-align:center; font-size:15px; line-height:17px;}
+.offer-sec .offer-pricing span{font-size:22px; padding-bottom:0px;}
+.offer-sec .offer-content {padding-left:0px;}
+.offer-sec .offer-content p {font-size:15px;}
+.getways-info .img-fit{ width:calc(38% - 10px);}
+.getways-info .pkg-info {width:62%;}
+/*.inclusions ul li {font-size:20px;}*/
+.getways-info .pkg-info {font-size:11px;}
+.event-left-section .img-fit {width:130px;}
+.event-left-section .event-info { width:calc(100% - 130px);}
+.event-left-section .img-fit figure {height:170px;}
+#golf-clinic-section .dest-th-tiles .item {width:50%;}
+.dest-th-tiles .item .img-fit .offer-name {font-size:13px;}
+.deals-list .dest-th-tiles .item .img-fit {height:200px;}
+.footer-links > ul >li{width:50%;}
+.footer-links > ul >li:nth-child(2n){padding-right:0px;}
+#more-section .container.tbl-style{padding-bottom:375px;}
+.offer-sec .offer-content {padding-right:0px; text-align:center;}
+.offer-sec .offer-content .btn{position:relative; left:auto; top:auto; margin:0px;}
+.offer-sec .offer-content p {margin:0 0 6px;}
+.inner-page-content{padding-bottom:375px;}
+.grid-view li > .pkg-thumbnail .thumb-wrap .img-descr .pkg-tl{font-size:12px;}
+.inner-pg .top-header {padding:6px 45px 15px 10px; min-height: 90px;}/*08-03-2019*/
+.search-form {margin-right:0px;}
+.top-header .search-form {margin-top:5px;}
+.pkg-bar-list{display:block;}
+.pkg-bar-list .packag-sec{width:100%; padding-right:0px;padding-bottom:5px; margin-bottom:5px;}
+.pkg-bar-list .packag-sec{display:inline-block;}
+.pkg-bar-list .packag-sec:after{left:0px; right:auto; width:100%; height:1px; bottom:0px; top:auto;}
+.pkg-bar .price-sec .price-info .price-dtl{font-size:10px;}
+.club-top-info ul li{min-width:100px;}
+.check-list.two-cols li{width:100%; margin:0px;}
+.check-list.two-cols{margin:0px;}
+.table-border-list ul.tbl-style li strong{font-size:14px; line-height:18px;}
+.table-border-list ul.tbl-style li span{font-size:9px;}
+.table-border-list ul.tbl-style li { padding:5px;}
+.table-border-list ul.tbl-style li small {font-size:10px; line-height:12px; display:block;}
+.trip-btm-packages .dest-th-tiles .item .img-fit {width:38%;}
+.trip-btm-packages .dest-th-tiles .item .pkg-info {width:62%; padding-left:10px;}
+.lessons-info >div {display:inline-block; width:49%}
+.lessons-info >.table-list {width:100%;}
+.pkg-listing.list-view .table-list ul li .days {height:auto;}
+.table-list ul {width:100%; padding:0 0 10px;}
+.filter-links-list{width:100%; display:table;}
+.filter-links-list li{float:none; display:table-cell; text-align:center;}
+.top-strip-links{width:100%; padding:8px 0;}
+.top-strip-links > li{width:50%;}
+.top-strip-links > li > a{ padding:4px 10px;}
+.sort-top-sec .filter-links {width:100%;}
+.tbl-bdr-list-wrap .packag-sec{margin-bottom:0px;}
+.tbl-list-wrap.pkg-bar-list .packag-sec {width:100%;}
+.tbl-list-wrap.pkg-bar-list .packag-sec{margin-bottom:0px;}
+.top-header .search-form form{width:165px;}
+.main-slider .img-fit{min-height:500px;}
+.main-slider-content .ttl{padding-bottom:3vh;}
+.search-form-sec{margin-bottom:3vh;}
+.golf-clinic-info .view-all{position:relative; bottom:auto;}
+.deals-list .view-all{ bottom:100px;}
+.main-slider-content {bottom:200px;}
+.city-section ul {min-width:49%; margin-bottom:15px;}  
+.gallery-list-de li {width:100%;}
+.distinations.typ-2 .gallery-list.sec li {width:100%;} 
+.distinations.typ-2 .gallery-list.sec li .figcaption li {width:24%;} 
+.pkg-bar-list .price-packag-sec {width:auto;}
+.pkg-bar-list .price-packag-sec {width:calc(100% - 120px); padding-right:20px;}
+.pkg-bar-list .price-packag-sec:after{display:block;}
+.pkg-bar-list .actn-btn{clear:none; padding-right:0px;}
+.pkg-bar-list .actn-btn{width:120px;}
+.pkg-bar-list .actn-btn:after{display:none;}
+.pkg-bar .price-sec .price-info .old-price .price{font-size:12px;}
+.pkg-bar .price-sec .price-info .offer-price .price{font-size:15px;}
+.pkg-bar-list >li.actn-btn.col-2{clear:both;}
+.pkg-bar-list .price-sec .price-info{float:none;}
+.pkg-bar .price-sec .price-info .save-price{font-size:10px;}
+.search-form-sec.type02 .widget-form-elements .tags-where { width:76%; display:block !important; text-align:center; margin:0 auto 10px; }
+.bottom-blog figcaption b {width:47%; font-size:11px;}
+
+.getways-info .img-fit{width:calc(100% - 10px);}
+.getways-info .pkg-info{width:100%; padding:10px 0 0;}
+.event-left-section .img-fit {width:100%;}
+.event-left-section .event-info {width:100%;padding:10px 0;}
+
+/*29-01-2019*/
+.filter-inner-list ul.prc-sld-list,
+ul.prc-sld-list > li { display: block; }
+.filter-data .filter-inner-list > ul.prc-sld-list > li { margin: 0; }
+.filter-pannel-cont > ul + .filter-data-cont, .filter-data .filter-inner-list .lnk-close { margin: 0; }
+.range-sec {width: 100%; }
+.pkg-bar-list .price-packag-sec .price-sec {margin: auto; text-align: center;}  
+/*29-01-2019*/
+    
+/*13-03-2019*/
+.error-content .oops-txt {font-size: 100px;line-height: 90px;padding-bottom: 25px;}
+.error-content .error-txt {font-size: 16px;}
+.error-content > p {font-size: 15px;}
+.form-block{padding: 30px;}
+.contact-block .phoneno {font-size: 20px;}
+/*13-03-2019*/
+}
+/* max-width:479px:Ends*/
+
+/* max-width:379px:Starts*/
+@media screen and (max-width:379px){
+.dest-th-tiles .item .img-fit .offer-name { padding:5px 5px 3px; font-size:12px;}
+/*.getways-info .img-fit figure{height:100px;}*/
+.hole-gallery ul li {width:76px;}
+.trip-btm-packages .dest-th-tiles .item .img-fit {width:100%;}
+.trip-btm-packages .dest-th-tiles .item .pkg-info {width:100%; padding:10px 0 50px;}
+.trip-btm-packages .dest-th-tiles .item .pkg-info .btn{left:0px;}
+.trip-btm-packages .dest-th-tiles .item .img-fit{height:150px;}
+.grid-view li > .pkg-thumbnail.type02 .inclusions ul li {max-width:55px;}
+}
+/* max-width:379px:Ends*/
+
+/* max-width:374px:Starts*/
+@media screen and (max-width:374px){
+/*12-02-2019*/
+.form-des-details.custom-calender { width: 290px; margin-left: 0; left: calc(0% - 182px); }
+/*12-02-2019*/
+/*27-02-2019*/
+.inner-page-content > .top-mid-sec { z-index: 2; position: relative; }  
+.inner-page-content > .top-mid-sec + .banner2 { z-index: 1; }  
+.inner-pg .top-header { min-height: 90px; }
+.golf-event-sec .thumb-sec .img1 {height: 130px; position: relative; overflow: hidden;}
+.golf-event-sec .thumb-sec .img1 > a { height: 130px; display: inline-block; width: 100%;}
+.golf-event-sec .thumb-sec .img1 img {display: block; object-fit: cover; width: 100%; height: 100%;}
+.golf-event-sec .thumb-sec .thumb-data p {font-size: 11px; line-height: 1.4em;}  
+.golf-event-sec .thumb-sec .img1:before {bottom: -37px;}   
+.golf-event-sec .thumb-sec .thumb-data {margin-top: 4px; padding: 0 4px; padding-bottom: 36px;}  
+.bottom-sec.price-sec { padding:4px; width:calc(100% - 8px); left:4px; } 
+.bottom-sec.price-sec .price-info .offer-price .price {font-size: 18px;}
+.search-result-filter-section.type02 .search-left-info { float: none; vertical-align: middle;}
+.search-result-filter-section.type02 .search-filter { min-width: inherit; position: relative; }
+.search-result-filter-section.type02 .search-filter > .search-filter-list { position: absolute; right: 0; min-width: 115px; }
+.search-filter-btn { font-size: 12px; padding: 3px 24px 3px 4px; }
+.search-filter-btn:after { font-size: 1em; line-height: 1em; top: calc(50% - 0.5em); }
+.search-left-info { padding: 0; }
+.search-left-info span { font-size: 11px; line-height: 1.2em; display: block;}
+.search-filter-list li .select-dest > .styled-select .btn-group .btn.dropdown-toggle, 
+.search-filter-list li .select-dest > label { font-size: 11px; }
+.search-filter-list li .select-dest { padding: 0 4px; }
+.search-filter-list li .select-dest > .styled-select > .btn-group { max-width: 55px;}
+.search-filter-list li .select-dest > .styled-select > .btn-group > .dropdown-toggle {  }
+.search-filter-list li .select-dest > .styled-select > .btn-group > .dropdown-toggle > .filter-option { display: block; width: 100%; overflow: hidden; white-space: normal; text-overflow: ellipsis;}
+.search-filter-list li .select-dest > .styled-select > .btn-group .dropdown-menu { min-width: 75px; }
+.search-filter-list li .select-dest > .styled-select > .btn-group .dropdown-menu li a { font-size: 11px; padding: 4px 6px 4px; }
+.banner2 .owl-carousel .owl-nav.disabled { display: none !important;}
+.banner2.event-sec figcaption .heading-tl { font-size: 14px; }
+.banner2.event-sec .thumb-wrap { padding-left: 55px; max-width: none;}
+.banner2.event-sec .thumb-wrap .img-sec { width: 45px; height: 45px; }
+.banner2.event-sec .thumb-wrap .pck-details h5.ttl-xs { font-size:12px; padding-bottom: 2px; }
+.banner2.event-sec .thumb-wrap .pck-details span.sub-text { padding-bottom:2px; }
+.banner2.event-sec .thumb-wrap .pck-details p { line-height: 1.2em; margin-bottom: 0.5em;}
+.banner2.event-sec .thumb-wrap .pck-details .btn-primary { font-size: 11px; padding: 3px 6px 3px; }
+
+.banner2 .owl-carousel .owl-item figure.img-fit.img-wrap > img { position: absolute; left: 0; top: 0; right: 0; height: 100%;}
+.banner2.event-sec figcaption { position: static; padding: 0 0 30px 0;}
+.banner2.event-sec .owl-theme .owl-dots { margin: 0; bottom: 5px; }
+/*27-02-2019*/
+}
+/* max-width:374px:Ends*/
