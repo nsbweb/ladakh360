@@ -4615,5 +4615,9 @@ body.holidays .nav-holidays { background:rgba(0,0,0,0.1); }
 .itinerary-list{list-style:none;padding:0;margin:0 0 20px 0;width:100%;}
 .itinerary-list li{list-style:none;padding:0;margin:0 0 8px 0;width:100%;padding-left:60px;position:relative;}
 .itinerary-list li > b{font-weight:400;color:#0e0e0e;position:absolute;left:0;top:0;min-width:60px;}
+
+.top-mid-sec.type03 { position: absolute; left:0; bottom:0; width:100%; }
+.top-mid-sec.type03 .inner-top-strip { background:rgba(0,0,0,0.2); }
+.top-mid-sec.type03 .inner-top-strip:before { background:none; }
 /* Detail Page */
 /* Theme */
