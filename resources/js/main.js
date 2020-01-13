@@ -400,7 +400,7 @@ function syncPositionSingle(el) {
                       if (jQuery().owlCarousel) {
                         OwlElement.each(function(){
 							if($(this).hasClass('single-item')){
-								$(this).owlCarousel({items:1, slideSpeed:20000,paginationSpeed:20000, dotsSpeed:1000, nav:false, autoplay:false, dots:true, loop:false,responsiveRefreshRate:20000})
+								$(this).owlCarousel({items:1, nav:false, autoplay:true, dots:false, loop:false,responsiveRefreshRate:20000})
 							}
                         });
                     }                    
@@ -2194,7 +2194,7 @@ var initSimpleScrollBar = function() {
 var initInnerPageContent = function() {
     $('.inner-page-content').each(function(){
         var headerHeight = $(this).parents('body').find('.top-header').outerHeight();
-        $(this).css({paddingTop:headerHeight})
+     //   $(this).css({paddingTop:headerHeight})
     });
 }
 /*Custom Scrollbar : Ends */
