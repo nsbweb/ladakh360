@@ -4727,4 +4727,6 @@ body.holidays .nav-holidays { background:rgba(0,0,0,0.1); }
 .pkg-details.type03 .btn-white:hover span,
 .pkg-details.type03 .btn-white:focus span { color: #fff; }
 /* Detail Page */
+
+.dest-th-tiles .item a.img-fit:before { display: none; }
 /* Theme */
