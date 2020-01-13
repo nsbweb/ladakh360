@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Ladakh360</title>
+<!-- header css and script starts -->
+<!-- Custom styles for this template -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="XXX XXXX XX">
+<meta name="msapplication-TileImage" content="resources/images/icons/icon-144x144.png">
+<meta name="msapplication-TileColor" content="#2F3BA2">	
+<link rel="apple-touch-icon" href="resources/images/icons/icon-152x152.png">
+
+<link href="resources/css/plugin.css" rel="stylesheet" type="text/css" media="all" /><!-- bootstrap.min.css + icons.css + plugin.css -->
+
+<!-- Custom styles for this template -->
+<link href="https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
+<link href="resources/css/style.css" rel="stylesheet">
+<link href="resources/css/media.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="resources/js/ie/html5shiv.js"></script>
+  <script src="resources/js/ie/respond.min.js"></script>
+<![endif]-->
+<!-- header css and script ends -->
+</head>
+
+<body>
+<!-- header starts -->
+<header class="header">
+    <div class="top-header">
+        <div class="container">
+        <ul>
+            <!-- <li><a href="#" class=""><i class="fa-search"></i><span>Search</span></a></li> -->
+            <li><a href="tel:18002660082" class="ph-no tel-disabled tel-disable"><i class="fa-phone"></i><span>98192 98 192</span></a></li>
+            <li><a href="mailto:contact@ladakh360.com" class=""><i class="fa-envelope"></i><span>contact@ladakh360.com</span></a></li>
+            <li><a href="#send-enquiry-popup" class="popup-inline btn btn-secondary"><span>Request Callback</span></a></li>
+        </ul>
+        <!-- <div class="search-form">
+            <form action="#">
+                <input type="text" placeholder="Search" class="search-input">
+                <a href="#" class="submit-btn"></a>
+            </form>
+        </div>
+        <span class="clear"></span> -->
+        </div>
+    </div>
+    <div class="navigation-wrap">
+        <div class="logo-wrap"><a href="index.html" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
+        <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
+        <nav class="nav" id="mainNav">
+            <ul>
+                <li class="nav-item nav-home"><a class="nav-link js-scroll-trigger" href="#home-section"><span>Home</span></a></li>
+                <li class="nav-item nav-holidays"><a class="nav-link js-scroll-trigger" href="#Holidays"><span>Holidays</span></a></li>
+                <li class="nav-item nav-activities"><a class="nav-link js-scroll-trigger" href="#Activities"><span>Activities</span></a></li>
+                <li class="nav-item nav-offers"><a class="nav-link js-scroll-trigger" href="#Offers"><span>Offers</span></a></li>
+                <li class="nav-item nav-travelguide"><a class="nav-link js-scroll-trigger" href="#TravelGuide"><span>Travel Guide</span></a></li>
+                <li class="nav-item nav-gallery"><a class="nav-link js-scroll-trigger" href="#Gallery"><span>Gallery</span></a></li>
+                <li class="nav-item dropdown more-dropdown">
+                    <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
+                    <ul class="dropdown-menu">
+                        <li class="nav-about-us"><a href="#"><span>About Us</span></a></li>
+                        <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
+                        <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
+                        <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
+                        <li class="nav-pp"><a href="#">Privacy Policy</a></li>
+                        <li class="nav-disclaimer"><a href="#">Disclaimer</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<div id="WebsitePreloader"></div>
+<!-- header ends -->
+
+<section id="home-section" class="cont-section">
+    <div class="owl-carousel owl-theme single-item main-slider">
+        <div class="item">
+            <figure class="img-fit img-wrap" >
+                <img src="resources/images/home-banner.jpg" alt="">
+            </figure> 
+        </div>
+        <div class="item">
+            <figure class="img-fit img-wrap animated" data-animation="fadeInRight" data-animation-delay="300">
+                <img src="resources/images/home-banner.jpg" alt="">
+            </figure>
+        </div>
+        <div class="item">
+            <figure class="img-fit img-wrap animated" data-animation="fadeInRight" data-animation-delay="300">
+                <img src="resources/images/home-banner.jpg" alt="">
+            </figure>
+        </div>
+    </div>
+    <div class="offer-sec-wrap">
+        <div class="offer-sec">
+            <div class="offer-content">
+                <h2>Adventure Travel Holidays with #Ladakh360</h2>
+                <!-- <div class="offer-pricing">
+                    <span>7 Days / 6 Nights @</span>
+                    <span><i class="fa-rupee"></i>32,999*</span>
+                    <em>per person </em>
+                </div> -->
+                <a href="#" class="btn btn-primary"><span>Explore</span></a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- <div class="main-slider-content">
+        <div class="main-slider-content-wrap">
+            <div class="main-slider-content-in">
+            <h2 class="ttl">Adventure Travel Holidays with #Ladakh360</h2>
+            <div class="search-form-sec">
+                <form>
+                    <ul class="widget-form-elements">
+                        <li class="custom-field tags-where">
+                            <textarea name="destination" id="holidayTags" class="AutoCompleteTags" placeholder="Search your holidays, activities"></textarea>
+                        </li>
+                        <li class="search-btn"><a href="search-results.html" class="btn btn-black"><span>Search Holidays</span></a></li>
+                    </ul>
+                </form>
+
+            </div>
+            </div>
+        </div>
+    </div> -->
+</section>
+
+<section id="Holidays" class="cont-section parallax-window" data-parallax="scroll" data-image-src="resources/images/holidays-banner.jpg">
+    <div class="container tbl-style">
+       <div class="cont-section-inner">
+           <div class="row">
+                <div class="col-xl-6 offset-xl-6 offset-md-0 offset-lg-5 col-lg-7">
+                <div class="getways-info">
+                    <h3 class="ttl">Holidays in Leh Ladakh</h3>
+                    <p>Holiday trips are as much about the journey as they are about the destination. A Ladakh 360 tour, on the other hand, cherishes the spirit of exploration and welcomes the chance of getting lost,which in turn is an opportunity to find your way back. </p>
+                    <div class="getways-pkg-info">
+                        <h5 class="sub-ttl">Tops of Ladakh</h5>
+                        <a class="img-fit img-wrap" href="#">
+                            <figure>
+                                <img src="resources/images/golf-in-shrinagar.jpg" alt="">
+                            </figure>
+                        </a>
+                        <div class="pkg-info">
+                            <ul class="border-list">
+                                <li>10 Days</li>
+                                <li>9 Nights</li>
+                            </ul>
+                            <p>Srinagar - Kargil - Leh - Nubra - Pangong - Tsomoriri - Manali</p>
+                            <div class="price-info">
+                                <div class="offer-price">
+                                    <span class="price"><span class="amt"><i class="fa-rupee"></i>34,000 *</span> </span>
+                                </div>
+                                <span class="price-dtl">per person</span>
+                            </div>
+                        </div>                    
+                        <span class="clear"></span>
+                        <a href="#" class="btn btn-lg btn-primary book-now"><span>Book Now</span></a>
+                        <a href="holidays.html" class="view-all"><i class="fa-custom-plus-o"></i> <span>View More Holidays</span></a>
+                    </div>
+                </div>
+                <span class="clear"></span>
+               </div>
+           </div>
+        </div>
+    </div>
+</section>
+<section id="Activities" class="cont-section parallax-window" data-parallax="scroll" data-image-src="resources/images/activities-banner.jpg">    
+    <div class="container tbl-style">
+        <div class="cont-section-inner">
+            <h3 class="ttl">Activities in Leh Ladakh</h3>
+            <div class="search-form">
+                <form action="#">
+                    <input type="text" placeholder="Search for country, city" class="search-input">
+                    <a href="#" class="submit-btn"></a>
+                </form>
+            </div>
+            <span class="clear"></span>
+            <div class="dest-th-tiles-wrap">
+                <ul class="dest-th-tiles count-five">
+                    <li class="item">
+                        <a href="destinations/india.html" class="item-link">
+                            <div class="img-fit img-wrap">
+                                <figure><img src="resources/images/destinations-thumb/india.jpg" alt=""></figure> 
+                                <span class="hover-sec"><i class="hover-icon"></i></span>
+                            </div>
+                            <div class="item-info">
+                                <span class="pkg-ttl">Biking</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a href="#"  class="item-link">
+                            <div class="img-fit img-wrap">
+                                <figure><img src="resources/images/destinations-thumb/europe.jpg" alt=""></figure> 
+                                <span class="hover-sec"><i class="hover-icon"></i></span>
+                            </div>
+                            <div class="item-info">
+                                <span class="pkg-ttl">Monastery</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a href="#" class="item-link">
+                            <div class="img-fit img-wrap">
+                                <figure><img src="resources/images/destinations-thumb/australia.jpg" alt=""></figure> 
+                                <span class="hover-sec"><i class="hover-icon"></i></span>
+                            </div>
+                            <div class="item-info">
+                                <span class="pkg-ttl">Nature</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a href="#" class="item-link">
+                            <div class="img-fit img-wrap">
+                                <figure><img src="resources/images/destinations-thumb/dubai.jpg" alt=""></figure> 
+                                <span class="hover-sec"><i class="hover-icon"></i></span>
+                            </div>
+                            <div class="item-info">
+                                <span class="pkg-ttl">Cultural</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a href="#" class="item-link">
+                            <div class="img-fit img-wrap">
+                                <figure><img src="resources/images/destinations-thumb/abu-dhabi.jpg" alt=""></figure> 
+                                <span class="hover-sec"><i class="hover-icon"></i></span>
+                            </div>
+                            <div class="item-info">
+                                <span class="pkg-ttl">Lake</span>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <span class="clear"></span>
+                <!-- <a href="#" class="view-all"><i class="fa-custom-plus-o"></i><span>View all Holidays</span></a> -->
+            </div>
+        </div>
+    </div>
+</section>
+ <section id="Offers" class="cont-section parallax-window" data-parallax="scroll" data-image-src="resources/images/offers-banner.jpg">
+    <div class="container tbl-style">
+        <div class="cont-section-inner event-left-section">
+            <h3 class="ttl">Special Offer for Leh Ladakh</h3>
+            <div class="box">
+                <h5 class="offer"><i class="fa-rupee"></i> 3000 off</h5>
+                <div class="img-fit img-wrap">
+                    <figure><img src="resources/images/event.jpg" alt=""></figure>
+                </div>
+                <div class="event-info">
+                    <h5>Ladakh  Special</h5>
+                    <ul class="border-list">
+                        <li>8 Days / 7 Nights</li>
+                    </ul>
+                    <p>Leh, Alchi, Pangong, Nubra Valley, Khardong La</p>
+                    <div class="price-info">
+                        <span>Starting from</span>
+                        <div class="offer-price">
+                            <span class="price old"><span class="amt"><i class="fa-rupee"></i>35,975*</span> </span>
+                            <span class="price"><span class="amt"><i class="fa-rupee"></i>32,975*</span> </span>
+                            <span class="price-dtl">per person</span>
+                        </div>
+                        <!-- <span class="price-dtl">per person</span> -->
+                    </div>
+                    <a href="/golf/events/events-details.html" class="btn btn-primary"><span>Explore</span></a>
+                </div>
+                <span class="clear"></span>
+            </div>
+        </div>
+        <div class="cont-section-inner event-right-section"></div>
+    </div>
+</section>
+<section id="TravelGuide" class="cont-section parallax-window" data-parallax="scroll" data-image-src="resources/images/travelGuide-banner.jpg">
+    <div class="container tbl-style">
+        <div class="cont-section-inner">
+            <h3 class="ttl">Travel Guide</h3>
+        </div>
+    </div>
+</section>
+<section id="Gallery" class="cont-section parallax-window" data-parallax="scroll" data-image-src="resources/images/gallery-banner.jpg">
+    <div class="container tbl-style">
+        <div class="cont-section-inner">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 golf-clinic-info">
+                    <h3 class="ttl">Discover Visual Journey of Leh Ladakh</h3>
+                    <div class="dest-th-tiles-wrap deals-list">
+                        <ul class="dest-th-tiles row">
+                            <li class="item col-sm-4 col-xs-6">
+                                <a href="#" class="img-fit img-wrap">
+                                    <figure><img src="resources/images/deal-01.jpg" alt=""></figure> 
+                                    <!-- <div class="figcaption">
+                                        <p>Outstanding Golf Journeys, Mega Discounts, Gimmick Free GST</p>
+                                        <span class="btn btn-primary"><span>Explore</span></span>
+                                    </div> -->
+                                    <!-- <span class="offer-name">Oh My God Offer!</span> -->
+                                </a>
+                            </li>
+                            <li class="item col-sm-4 col-xs-6">
+                                <a href="#" class="img-fit img-wrap">
+                                    <figure><img src="resources/images/deal-02.jpg" alt=""></figure> 
+                                    <!-- <div class="figcaption">
+                                        <p>Outstanding Golf Journeys, Mega Discounts, Gimmick Free GST</p>
+                                        <span class="btn btn-primary"><span>Explore</span></span>
+                                    </div> -->
+                                    <!-- <span class="offer-name">Upto <span><i class="fa fa-rupee"></i> 2500</span> OFF</span> -->
+                                </a>
+                            </li>
+                            <li class="item col-sm-4 col-xs-6">
+                                <a href="#" class="img-fit img-wrap">
+                                    <figure><img src="resources/images/deal-03.jpg" alt=""></figure> 
+                                    <!-- <div class="figcaption">
+                                        <p>Get upto 30% Cashback on group journeys!</p>
+                                        <span class="btn btn-primary"><span>Explore</span></span>
+                                    </div> -->
+                                    <!-- <span class="offer-name">30% Cashback</span> -->
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="clear"></span>
+                        <a href="#" class="btn btn-primary view-all"><span>View more</span></a>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="about-section" class="cont-section parallax-window">
+    <div class="about-left-bg cont-section parallax-window" data-parallax="scroll" data-image-src="resources/images/about-us-left.jpg"></div>
+    <div class="about-right-bg cont-section parallax-window" data-parallax="scroll" data-image-src="resources/images/about-us-right.jpg"></div>
+    <span class="clear"></span>
+     <div class="container tbl-style">
+         <div class="cont-section-inner about-left-section">
+             <div class="about-info">
+                 <h3 class="ttl">About Us</h3>
+                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </p>
+                 <a href="#" class="btn btn-primary"><span>Know More</span></a>
+             </div>
+         </div>
+         <div class="cont-section-inner about-right-section">
+             <div class="about-info">
+                 <h3 class="ttl">Why Us </h3>
+                 <ul class="tickList">
+                    <li>Best Price Guaranteed</li>
+                    <li>Curated and Wide Variety of Trips</li>
+                    <li>Excellent Value for Money</li>
+                    <li>High Quality Service</li>
+                 </ul>
+             </div>
+         </div>
+    </div>
+</section>
+
+
+<!-- FOOTER starts -->
+
+<!-- Send Enquiry Popup :: Starts -->
+<div class="popup-box zoom-anim-dialog mfp-hide type05" id="send-enquiry-popup" >
+    <div class="popup-in">
+        <div class="pop-tl">
+            <h2>I'm Interested</h2> 
+        </div>       
+        <div class="common-popup-cont form-theme2">
+            <form action='#' method="POST"  name="book-now-popup" class="app-status-form" id="SendEnquiryPopup">
+            <input type="hidden" name="_token" value="OYnGa7Cr73sPXbNUZMoqDK1cjH5YgRPNhT7pL26j" />
+            <input type="hidden" name="tableLink" value='amhi_travelekar_rcb' />
+            <input type="hidden" name="config_type" value='quicksearch' />
+            <input type="hidden" name="ProductCode" value="Amhi Travelekar" />
+            <input type="hidden" name="ProductDivision" value="Amhi Travelekar" />
+            <div class="row row-md">
+                <div class="col-md-3 col-sm-3 col-xs-3">
+                    <select class="" name="Title">
+                        <option value="Mr" selected="selected">Mr.</option>
+                        <option value="Mrs">Mrs.</option>
+                        <option value="Ms">Ms.</option>
+                        <option value="Miss">Miss.</option>
+                    </select>
+                </div>
+                <div class="col-sm-4 col-mobi-12">
+                    <div class="custom-field">
+                        <div class="holder">
+                            <span>First Name<sup>*</sup></span>
+                        </div>
+                        <input class="" type="text" name="trav[0][firstname]" id="firstname-0">
+                    </div>
+                </div>
+                <div class="col-sm-5 col-mobi-12">
+                    <div class="custom-field">
+                        <div class="holder">
+                            <span>Last Name<sup>*</sup></span>
+                        </div>
+                    <input class="" type="text" name="trav[0][firstname]" id="lastname-0">
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-3 custom-field">
+                        <div class="holder">
+                            <span>+91</span>
+                        </div>
+                        <input type="text" name="countryCode"> 
+
+                    </div>
+                <div class="col-md-9 col-sm-9 col-xs-9 col-mobi-12">
+                    <div class="custom-field">
+                        <div class="holder">
+                            <span>Mobile No.<sup>*</sup> <i>(Must be reachable)</i></span>
+                        </div>
+                    <input class="" type="text" name="trav[0][phone_num]" id="phone_num-0" value="" maxlength="15">
+                    </div>
+                </div>
+                <div class="col-sm-12 col-mobi-12">
+                    <div class="custom-field">
+                        <div class="holder">
+                            <span>Email<sup>*</sup> <i>(Must be contactable)</i></span>
+                        </div>
+                    <input class="" type="email" name="trav[0][email]" id="email-0" value="">
+                    </div>
+                </div>
+                <div class="col-sm-12 col-mobi-12">
+                     <div class="custom-field">
+                        <textarea rows="6" name="trav[0][special_requirements]" id="spe_req" placeholder="Any special request and expectations"></textarea>
+                     </div>
+                </div>
+                <div class="col-md-7 col-sm-7 col-xs-7">
+                    <span class="captcha-code-sec">
+                        <img id="captchaimg2" src="http://dev.gaurav-yatra.uat.cnkweb.com/common/html-captcha/captcha_code_file.php?rand=mgh5b5" alt="">
+                        <a href="javascript:void(0)" class="refresh-captcha" onclick="refresh_captcha(2);"><i class="fa fa-repeat" ></i></a>
+                        <input type="hidden" name="captacha_confirmation" value="mgh5b5" id="captacha_confirmation2" name="captacha_confirmation"/>
+                    </span>
+                </div>
+                <div class="col-md-5 col-sm-5 col-xs-5 custom-field">
+                    <div class="holder">
+                        <span>Enter Code Here</span>
+                    </div>
+                    <input type="text" name="captcha" id="captcha2">
+                </div>
+                <div class="col-sm-12 col-mobi-12">
+                    <div class="capcha type02">
+                        <div class="switch-field">
+                            <div class="btn-cont">
+                                <a href="#" class="btn btn-blue">Submit</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    </div>
+</div>
+<!-- Send Enquiry Popup :: Starts -->
+
+<footer>
+    <div class="footer-top-sec">
+        <div class="container">
+            <div class="row">
+            <div class="col-lg-12 col-sm-12">
+                <div class="footer-links">
+                    <ul class="count-five">
+                        <li>
+                            <ul>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Holidays</a></li>
+                                <li><a href="#">Activities</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul>
+                                <li><a href="#">Offers</a></li>
+                                <li><a href="#">Travel Guide</a></li>
+                                <li><a href="#">Gallery</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Why Us</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul>
+                                <li><a href="#">Terms and Conditions</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Disclaimer</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul class="action-links">
+                                <li><a href="tel:18002660082" class="ph-no tel-disabled tel-disable"><i class="fa-phone"></i><span>98192 98 192</span></a></li>
+                                <li><a href="mailto:contact@ladakh360.com" class=""><i class="fa-envelope"></i><span>contact@ladakh360.com</span></a></li>
+                                <li><a href="#" class="btn btn-secondary"><span>Request Callback</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <span class="clear"></span>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-btm-sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <span class="copyright">© Copyright Ladakh360.</span>
+                </div>
+                <!-- <div class="col-sm-6">
+                    <div class="social-links">
+                        <label>Connect with us: </label>
+                        <ul>
+                            <li><a href="#" class="g-plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                            <li><a href="#" class="facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                            <li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        </ul>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <!-- <div class="chat-window-wrap">
+        <a href="#" class="chat-btn"></a>
+    </div> -->
+</footer>
+<span class="totop"><a href="#"><i class="fa fa-chevron-up"></i></a></span>
+
+<script src="resources/js/plugins.js"></script>
+<script src="resources/js/form-elements.js"></script>
+<script src="resources/js/main.js"></script>
+<!-- FOOTER ends -->  
+</body>
+</html>
