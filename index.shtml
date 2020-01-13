@@ -54,7 +54,7 @@
         </div>
     </div>
     <div class="navigation-wrap">
-        <div class="logo-wrap"><a href="index.html" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
+        <div class="logo-wrap"><a href="index.shtml" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
         <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
         <nav class="nav" id="mainNav">
             <ul>
@@ -124,7 +124,7 @@
                         <li class="custom-field tags-where">
                             <textarea name="destination" id="holidayTags" class="AutoCompleteTags" placeholder="Search your holidays, activities"></textarea>
                         </li>
-                        <li class="search-btn"><a href="search-results.html" class="btn btn-black"><span>Search Holidays</span></a></li>
+                        <li class="search-btn"><a href="search-results.shtml" class="btn btn-black"><span>Search Holidays</span></a></li>
                     </ul>
                 </form>
 
@@ -164,7 +164,7 @@
                         </div>                    
                         <span class="clear"></span>
                         <a href="#" class="btn btn-lg btn-primary book-now"><span>Book Now</span></a>
-                        <a href="holidays.html" class="view-all"><i class="fa-custom-plus-o"></i> <span>View More Holidays</span></a>
+                        <a href="holidays.shtml" class="view-all"><i class="fa-custom-plus-o"></i> <span>View More Holidays</span></a>
                     </div>
                 </div>
                 <span class="clear"></span>
@@ -187,7 +187,7 @@
             <div class="dest-th-tiles-wrap">
                 <ul class="dest-th-tiles count-five">
                     <li class="item">
-                        <a href="destinations/india.html" class="item-link">
+                        <a href="#" class="item-link">
                             <div class="img-fit img-wrap">
                                 <figure><img src="resources/images/destinations-thumb/india.jpg" alt=""></figure> 
                                 <span class="hover-sec"><i class="hover-icon"></i></span>
@@ -272,7 +272,7 @@
                         </div>
                         <!-- <span class="price-dtl">per person</span> -->
                     </div>
-                    <a href="/golf/events/events-details.html" class="btn btn-primary"><span>Explore</span></a>
+                    <a href="#" class="btn btn-primary"><span>Explore</span></a>
                 </div>
                 <span class="clear"></span>
             </div>

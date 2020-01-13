@@ -56,7 +56,7 @@
             </div>
         </div>
         <div class="navigation-wrap">
-            <div class="logo-wrap"><a href="index.html" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
+            <div class="logo-wrap"><a href="index.shtml" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
             <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
             <nav class="nav" id="mainNav">
                 <ul>
@@ -158,8 +158,8 @@
             <div class="container">
                 <div class="top-cont">
                     <ol class="breadcrumb animated" data-animation="fadeInUp" data-animation-delay="300">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="holidays.html">Holidays</a></li>
+                        <li class="breadcrumb-item"><a href="index.shtml">Home</a></li>
+                        <li class="breadcrumb-item"><a href="holidays.shtml">Holidays</a></li>
                         <li class="breadcrumb-item active">Ladakh Nature Trip</li>
                     </ol>
                 </div>
