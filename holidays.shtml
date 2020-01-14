@@ -106,10 +106,10 @@
                 </div>
                 
                 <div class="pkg-list listing">
-                    <h3 class="ttl-sm animated" data-animation="fadeInUp" data-animation-delay="300">
-                        Trending Holiday Trips in Leh Ladakh<br>
-                        <small>Adventure lies here. Choose from our most trending holidays trips. Get talked about!</small>
-                    </h3>
+                    <div class="highlight-sec animated" data-animation="fadeInUp" data-animation-delay="300">
+                        <h1 class="ttl-sm"> Trending Holiday Trips in Leh Ladakh</h3>
+                        <p>Adventure lies here. Choose from our most trending holidays trips. Get talked about!</p>
+                    </div>
                     <ul class="row row-sm no-list pkg-listing theme-02 grid-view">
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="300">
                             <a href="holiday-details.shtml" class="pkg-thumbnail type03">
@@ -127,7 +127,7 @@
                                                 <p>Manali - Serchu - Leh - Pangong - Nubra - Kargil - Srinagar</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i> 32,999 *</span></span>
                                                 </div>
@@ -154,7 +154,7 @@
                                                 <p>Leh - Nubra - Pangkong - Tsomoriri</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i>27,999 *</span></span>
                                                 </div>
@@ -181,7 +181,7 @@
                                                 <p>Leh - Nubra - Pangkong</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i>14,999 *</span></span>
                                                 </div>
@@ -208,7 +208,7 @@
                                                 <p>Manali - Serchu - Leh - Pangong - Nubra - Kargil - Srinagar</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i> 32,999 *</span></span>
                                                 </div>
@@ -235,7 +235,7 @@
                                                 <p>Leh - Nubra - Pangkong - Tsomoriri</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i>27,999 *</span></span>
                                                 </div>
@@ -262,7 +262,7 @@
                                                 <p>Leh - Nubra - Pangkong</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i>14,999 *</span></span>
                                                 </div>
@@ -289,7 +289,7 @@
                                                 <p>Manali - Serchu - Leh - Pangong - Nubra - Kargil - Srinagar</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i> 32,999 *</span></span>
                                                 </div>
@@ -316,7 +316,7 @@
                                                 <p>Leh - Nubra - Pangkong - Tsomoriri</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i>27,999 *</span></span>
                                                 </div>
@@ -343,7 +343,7 @@
                                                 <p>Leh - Nubra - Pangkong</p>
                                             </div>
                                             <div class="price-info">
-                                                <span class="price-dtl">starting from</span>
+                                                <span class="price-dtl">Starting from</span>
                                                 <div class="offer-price">
                                                     <span class="price"><span class="amt"><i class="fa-rupee"></i>14,999 *</span></span>
                                                 </div>

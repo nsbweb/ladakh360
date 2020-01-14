@@ -766,9 +766,9 @@ $('.filter-search-panel-toggle').click(function(e) {
 });
 
 /*mcustomScrollbar*/
-$('.event-list').mCustomScrollbar({
-    scrollButtons:{enable:true}
-});
+// $('.event-list').mCustomScrollbar({
+//     scrollButtons:{enable:true}
+// });
 /*mcustomScrollbar*/
 
 
@@ -2174,18 +2174,18 @@ var initSimpleScrollBar = function() {
     initNavigationBar();
     //$('.navigation-wrap > .nav').simplebar();
     
-    $('.navigation-wrap > .nav').mCustomScrollbar({
-        autoHideScrollbar: true,
-        scrollButtons:{
-            enable:true
-        },
-        advanced:{
-            updateOnBrowserResize:true,
-            updateOnContentResize:false, 
-            autoExpandHorizontalScroll:false,
-            autoScrollOnFocus:true
-        }
-    });
+    // $('.navigation-wrap > .nav').mCustomScrollbar({
+    //     autoHideScrollbar: true,
+    //     scrollButtons:{
+    //         enable:true
+    //     },
+    //     advanced:{
+    //         updateOnBrowserResize:true,
+    //         updateOnContentResize:false, 
+    //         autoExpandHorizontalScroll:false,
+    //         autoScrollOnFocus:true
+    //     }
+    // });
     
 }
 /*Custom Scrollbar : Ends */
@@ -2352,3 +2352,47 @@ $(document).on("click",".share-tooltip a", function(e) {
 });
 /* Share Custom Functionality : Ends */
 /****27-02-2019****/
+
+
+
+(function () {
+  'use strict';
+  document.documentElement.className = 'fallback';
+  var css_href = 'https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap';
+  var localStorageSupported = function() {
+    try {
+      localStorage.setItem('test', 'test');
+      localStorage.removeItem('test');
+      return true;
+    } catch(e) {
+      return false;
+    }
+  }
+
+  if (localStorageSupported() && localStorage.spdemowebFonts) {
+    injectRawStyle(localStorage.getItem('spdemowebFonts'));
+  } else {
+    window.onload = function() {
+      injectFontsStylesheet();
+    }
+  }
+
+  function injectFontsStylesheet() {
+    var xhr = new XMLHttpRequest();
+      xhr.open('GET', css_href, true);
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+          injectRawStyle(xhr.responseText);
+          localStorage.setItem('spdemowebFonts', xhr.responseText);
+        }
+      }
+    xhr.send();
+  }
+
+  function injectRawStyle(text) {
+    var style = document.createElement('style');
+    style.innerHTML = text;
+    document.getElementsByTagName('head')[0].appendChild(style);
+    document.documentElement.className = 'webFont';
+  }
+}());

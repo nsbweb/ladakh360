@@ -232,59 +232,75 @@
                             <div id="tab-Itinerary">
                                 <h2>Itinerary in Detail</h2>
                                 <div id="full-itinerary" style="display: block;">
-                                    <ul class="days-list">
-                                        <li class="animated" data-animation="fadeInUp" data-animation-delay="300"><span class="day-name">Day 1</span>
-                                            <ul class="ico-list">
-                                                <li><b class="destin-name">Arrive Leh - Shanti Stupa, Leh Palace & Central Asian Museum</b>
-                                                    <ul>
-                                                        <li><i class="fa-custom-bus "></i></li>
-                                                        <li><i class="fa-custom-bed "></i></li>
-                                                        <li><i class="fa-custom-cutlery "></i></li>
+                                    <div class="content-wrap">
+                                        <div class="content-sec">
+                                            <ul class="days-list">
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="300">
+                                                    <span class="day-name">Day 1</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Arrive Leh - Shanti Stupa, Leh Palace & Central Asian Museum</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                                <li><i class="fa-eye"></i></li>
+                                                                <li><i class="fa-custom-bed"></i></li>
+                                                            </ul>
+                                                            <p>Leh by flight, you will meet our representative at airport and transfer to Hotel, traditional welcome at the hotel with  Khataks and welcome tea and coffee. Full day rest to get acclimatized to the high altitude of 3524 Meters (11,500 ft). Later in the evening visit Shanti Stupa and Leh Bazar for orientation.</p>
+                                                        </li>
+                                                        <li><b>Meals</b> - Tea / Coffee, Dinner</li>
+                                                        <li>Overnight at hotel.</li>
                                                     </ul>
-                                                    <p>Leh by flight, you will meet our representative at airport and transfer to Hotel, traditional welcome at the hotel with  Khataks and welcome tea and coffee. Full day rest to get acclimatized to the high altitude of 3524 Meters (11,500 ft). Later in the evening visit Shanti Stupa and Leh Bazar for orientation.</p>
                                                 </li>
-                                                <li><b>Meals</b> - Tea / Coffee, Dinner</li>
-                                                <li>Overnight at hotel.</li>
-                                            </ul>
-                                        </li>
-                                        <li class="animated" data-animation="fadeInUp" data-animation-delay="400"><span class="day-name">Day 2</span>
-                                            <ul class="ico-list">
-                                                <li><b class="destin-name">Leh Nature Tour - Sangam, Magnetic Hill, Gurduwara Pathar Sahaib</b>
-                                                    <ul>
-                                                        <li><i class="fa-custom-bus "></i></li>
-                                                        <li><i class="fa-custom-bed "></i></li>
-                                                        <li><i class="fa-custom-cutlery "></i></li>
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="400"><span class="day-name">Day 2</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Leh Nature Tour - Sangam, Magnetic Hill, Gurduwara Pathar Sahaib</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                                <li><i class="fa-eye"></i></li>
+                                                                <li><i class="fa-custom-bed"></i></li>
+                                                            </ul>
+                                                            <p>After breakfast, drive towards east of ladakh on Srinagar- Leh Highway (NH1) to visit Sangam which is the confluence of 02 Rivers Indus River and Zanskar River than on the way back visit Magnetic Hill ( the hill that defies the gravity) and later to 12th  Century  Gurduwara Pather Sahib. Evening free to explore the market. </p>
+                                                        </li>
+                                                        <li><b>Meals</b> - Breafast, Dinner</li>
+                                                        <li>Overnight at hotel.</li>
                                                     </ul>
-                                                    <p>After breakfast, drive towards east of ladakh on Srinagar- Leh Highway (NH1) to visit Sangam which is the confluence of 02 Rivers Indus River and Zanskar River than on the way back visit Magnetic Hill ( the hill that defies the gravity) and later to 12th  Century  Gurduwara Pather Sahib. Evening free to explore the market. </p>
                                                 </li>
-                                                <li><b>Meals</b> - Breafast, Dinner</li>
-                                                <li>Overnight at hotel.</li>
-                                            </ul>
-                                        </li>
-                                        <li class="animated" data-animation="fadeInUp" data-animation-delay="500"><span class="day-name">Day 3</span>
-                                            <ul class="ico-list">
-                                                <li><b class="destin-name">Leh - Pangong - Leh (300 Kms)</b>
-                                                    <ul>
-                                                        <li><i class="fa-custom-bus "></i></li>
-                                                        <li><i class="fa-custom-bed "></i></li>
-                                                        <li><i class="fa-custom-cutlery "></i></li>
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="500"><span class="day-name">Day 3</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Leh - Pangong - Leh (300 Kms)</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                                <li><i class="fa-eye"></i></li>
+                                                                <li><i class="fa-custom-bed"></i></li>
+                                                            </ul>
+                                                            <p>After breakfast, drive towards east of ladakh on Srinagar- Leh Highway (NH1) to visit Sangam which is the confluence of 02 Rivers Indus River and Zanskar River than on the way back visit Magnetic Hill ( the hill that defies the gravity) and later to 12th  Century  Gurduwara Pather Sahib. Evening free to explore the market. </p></li>
+                                                        <li><b>Meals</b> - Breafast, Dinner</li>
+                                                        <li>Overnight at hotel.</li>
                                                     </ul>
-                                                    <p>After breakfast, drive towards east of ladakh on Srinagar- Leh Highway (NH1) to visit Sangam which is the confluence of 02 Rivers Indus River and Zanskar River than on the way back visit Magnetic Hill ( the hill that defies the gravity) and later to 12th  Century  Gurduwara Pather Sahib. Evening free to explore the market. </p></li>
-                                                <li><b>Meals</b> - Breafast, Dinner</li>
-                                                <li>Overnight at hotel.</li>
-                                            </ul>
-                                        </li>
-                                        <li class="animated" data-animation="fadeInUp" data-animation-delay="600"><span class="day-name">Day 4</span>
-                                            <ul class="ico-list">
-                                                <li><b class="destin-name">Tour Ends</b>
-                                                    <ul>
-                                                        <li><i class="fa-custom-cutlery"></i></li>
+                                                </li>
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="600"><span class="day-name">Day 4</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Tour Ends</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                            </ul>
+                                                            <p>After early breakfast transfer to Kushok Bakula Leh airport for the return flight. Tour concludes.</p></li>
+                                                        <li><b>Meals</b> - Breafast</li>
                                                     </ul>
-                                                    <p>After early breakfast transfer to Kushok Bakula Leh airport for the return flight. Tour concludes.</p></li>
-                                                <li><b>Meals</b> - Breafast</li>
+                                                </li>
                                             </ul>
-                                        </li>
-                                    </ul>
+                                        </div>                                 
+                                        <div class="itinerary-imgs img-fit">
+                                            <figure><img src="resources/images/holiday/details/itinerary-img-01.jpg" alt="">
+                                            <!-- <figcaption>Qutub Minar, Delhi</figcaption> -->
+                                            </figure>
+                                            <figure><img src="resources/images/holiday/details/itinerary-img-02.jpg" alt="">
+                                            <!-- <figcaption>Qutub Minar, Delhi</figcaption> -->
+                                            </figure>
+                                            <figure><img src="resources/images/holiday/details/itinerary-img-03.jpg" alt="">
+                                            <!-- <figcaption>Qutub Minar, Delhi</figcaption> -->
+                                            </figure>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div id="tab-Dates-Prices">                                
@@ -367,7 +383,18 @@
                                 <p>Proin dignissim faucibus odio sollicitudin sagittis. Phasellus aliquet, erat vitae mollis consectetur, enim lectus ornare libero, et porta mi dui eu tellus. Morbi lobortis, elit at euismod porta, magna lacus mattis massa, a lacinia ligula risus et lectus. Sed et aliquam ligula. Nunc venenatis orci magna, quis facilisis sem porta non. Nunc sodales arcu in consectetur malesuada. Maecenas varius justo lacus, scelerisque viverra tellus luctus eu. Nam imperdiet ultricies suscipit. Ut urna mauris, eleifend quis lacinia non, mollis id libero. Praesent pharetra viverra ipsum at posuere. Quisque commodo tortor nec hendrerit faucibus. Fusce convallis urna et vehicula tincidunt. Duis sed vehicula justo, eu placerat nisi. Donec facilisis augue non turpis semper, eget condimentum mauris malesuada. Nunc in dignissim mi, sed laoreet felis.</p>
                             </div>
                             <div id="tab-Terms-Conditions">
-                                <p>Proin dignissim faucibus odio sollicitudin sagittis. Phasellus aliquet, erat vitae mollis consectetur, enim lectus ornare libero, et porta mi dui eu tellus. Morbi lobortis, elit at euismod porta, magna lacus mattis massa, a lacinia ligula risus et lectus. Sed et aliquam ligula. Nunc venenatis orci magna, quis facilisis sem porta non. Nunc sodales arcu in consectetur malesuada. Maecenas varius justo lacus, scelerisque viverra tellus luctus eu. Nam imperdiet ultricies suscipit. Ut urna mauris, eleifend quis lacinia non, mollis id libero. Praesent pharetra viverra ipsum at posuere. Quisque commodo tortor nec hendrerit faucibus. Fusce convallis urna et vehicula tincidunt. Duis sed vehicula justo, eu placerat nisi. Donec facilisis augue non turpis semper, eget condimentum mauris malesuada. Nunc in dignissim mi, sed laoreet felis.</p>
+                                <div class="row">
+                                    <div class="col-sm-12 animated" data-animation="fadeInUp" data-animation-delay="300">
+                                        <h2>Terms & Conditions</h2>             
+                                        <h4>Cancellation Policy:</h4>
+                                        <ul class="list-circle-o m-0">
+                                            <li>15 Days prior to date of arrival - 25% of the total bill will be charged.</li>
+                                            <li>14 Days to 08 Days prior to date of arrival – 50% of the total bill will be charged.</li>
+                                            <li>07 Days less prior to date of arrival – 100% of the total bill will be charged.</li>
+                                        </ul>                                    
+                                        <p>All the arrangements for the tour are preplanned and prepaid. In case of not completion of the tour due to any reason whatsoever there will not be any refund for any unutilized services. Any extra expense due any alteration has to be paid extra</p>
+                                    </div>
+                                </div>
                             </div>                
                         </div>
                     </div>

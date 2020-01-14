@@ -16,6 +16,7 @@ ul.trip-detail-list.col-3 > li{width: 33.33%}
 
 .modal-type01 .modal-container .frm-pax-dtls .spinr-cont.type03 label { width: 175px; }
 
+.dest-th-tiles .item .img-fit { height: 19.4vh; }
 }
 /* min-width:991px:Starts*/
 
@@ -33,6 +34,8 @@ ul.trip-detail-list.col-3 > li{width: 33.33%}
 .top-header.nav-down,
 .back-btn-wrap.nav-down, 
 .inner-top-strip.fixedpos {transform:translateY(0)}
+
+.dest-th-tiles .item .img-fit { height: 19.4vh; }
 }
 /* min-width:768px:Ends*/
 
@@ -191,6 +194,7 @@ p{font-size:12px; line-height:18px;}
 .bottom-sec.price-sec {padding: 10px;}    
 .form-block { padding-left: 45px; padding-right: 45px; }
 .error-content .oops-txt {font-size: 110px; line-height: 1.2em; padding-bottom:25px;}
+body, p {font-size:12px; line-height:normal;}
 }
 /* max-width:1199px:Starts*/
 
@@ -394,6 +398,10 @@ header .top-header .container > ul > li.login.show:before { left:calc(50% - 13px
 .dest-th-tiles .item .img-fit { height: 115px; }
 .deals-list .dest-th-tiles {width: calc(100% + 20px);  }
 .deals-list .dest-th-tiles .item .img-fit { height: 210px; }
+.getways-pkg-info .btn, 
+.event-info .btn, 
+.deals-list .view-all, 
+.cont-section .btn-primary { padding-top: 0; padding-bottom: 0;}
 }
 /* max-width:991px:Ends*/
 
@@ -832,6 +840,7 @@ header { height: 98px; }
 .search-form-sec .widget-form-elements .search-btn .btn { font-size: 12px; padding: 5px 15px; }
 .footer-links > ul.count-five >li { width: auto; padding-right: 25px; }
 footer { position: static; /*position: -webkit-sticky; position: sticky;bottom: 0; */} 
+.tickList { text-align: left; }
 } 
 /* max-width:767px:End*/
 
@@ -932,6 +941,7 @@ header .top-header .container > ul > li.currency-dropdown {top: 6px; position: r
 .dest-th-tiles.count-five > li.item { width: 50%; padding-top:5px; padding-bottom: 5px; }
 .nav ul li a { font-size: 13px; padding: 12px 18px;}
 
+body, p { font-size:12px;} 
 }
 /* max-width:599px:End*/
 
@@ -1040,8 +1050,9 @@ ul.prc-sld-list > li { display: block; }
 
 .search-form-sec .widget-form-elements .tags-where { width:100%; }
 .deals-list .view-all { bottom: auto; }
-.footer-links > ul.count-five >li { width:50%; }
+.footer-links > ul.count-five >li { width:100%; text-align: center; padding:0 }
 .deals-list .dest-th-tiles .item .img-fit { height: 150px; }
+body, .getways-info .pkg-info { font-size: 12px; }
 }
 /* max-width:479px:Ends*/
 

@@ -21,7 +21,6 @@
 <link href="resources/css/plugin.css" rel="stylesheet" type="text/css" media="all" /><!-- bootstrap.min.css + icons.css + plugin.css -->
 
 <!-- Custom styles for this template -->
-<link href="https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
 <link href="resources/css/style.css" rel="stylesheet">
 <link href="resources/css/media.css" rel="stylesheet">
 
@@ -54,7 +53,7 @@
         </div>
     </div>
     <div class="navigation-wrap">
-        <div class="logo-wrap"><a href="index.shtml" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
+        <div class="logo-wrap"><a href="index.shtml" class="logo"><img src="resources/images/common/logo .png" alt=""></a></div>
         <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
         <nav class="nav" id="mainNav">
             <ul>
@@ -138,7 +137,7 @@
     <div class="container tbl-style">
        <div class="cont-section-inner">
            <div class="row">
-                <div class="col-xl-6 offset-xl-6 offset-md-0 offset-lg-5 col-lg-7">
+                <div class="col-xl-7 offset-xl-5 offset-md-0 offset-lg-5 col-lg-7">
                 <div class="getways-info">
                     <h3 class="ttl">Holidays in Leh Ladakh</h3>
                     <p>Holiday trips are as much about the journey as they are about the destination. A Ladakh 360 tour, on the other hand, cherishes the spirit of exploration and welcomes the chance of getting lost,which in turn is an opportunity to find your way back. </p>
@@ -163,7 +162,7 @@
                             </div>
                         </div>                    
                         <span class="clear"></span>
-                        <a href="#" class="btn btn-lg btn-primary book-now"><span>Book Now</span></a>
+                        <a href="#" class="btn btn-lg btn-primary book-now"><span>Explore</span></a>
                         <a href="holidays.shtml" class="view-all"><i class="fa-custom-plus-o"></i> <span>View More Holidays</span></a>
                     </div>
                 </div>
