@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>Ladakh360 :: Holiday Details</title>
+	<!-- header css and script starts -->
+    <!-- Custom styles for this template -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="XXX XXXX XX">
+    <meta name="msapplication-TileImage" content="resources/images/icons/icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#2F3BA2">	
+    <link rel="apple-touch-icon" href="../resources/images/icons/icon-152x152.png">
+
+    <link href="../resources/css/plugin.css" rel="stylesheet" type="text/css" media="all" /><!-- bootstrap.min.css + icons.css + plugin.css -->
+
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
+    <link href="../resources/css/style.css" rel="stylesheet">
+    <link href="../resources/css/media.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="resources/js/ie/html5shiv.js"></script>
+    <script src="resources/js/ie/respond.min.js"></script>
+    <![endif]-->
+    <!-- header css and script ends -->
+</head>
+
+<body class="inner-pg holidays">
+    <!-- header starts -->
+    <header class="header">
+        <div class="top-header">
+            <div class="container">
+            <ul>
+                <!-- <li><a href="#"><i class="fa-search"></i><span>Search</span></a></li> -->
+                <li><a href="tel:18002660082" class="ph-no tel-disabled tel-disable"><i class="fa-phone"></i><span>98192 98 192</span></a></li>
+                <li><a href="mailto:contact@ladakh360.com" class=""><i class="fa-envelope"></i><span>contact@ladakh360.com</span></a></li>
+                <li><a href="#send-enquiry-popup" class="popup-inline btn btn-secondary"><span>Request Callback</span></a></li>
+            </ul>
+            <!-- <div class="search-form">
+                <form action="#">
+                    <input type="text" placeholder="Search" class="search-input">
+                    <a href="#" class="submit-btn"></a>
+                </form>
+            </div>
+            <span class="clear"></span> -->
+            </div>
+        </div>
+        <div class="navigation-wrap">
+            <div class="logo-wrap"><a href="../index.shtml" class="logo"><img src="../resources/images/common/logo.png" alt=""></a></div>
+            <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
+            <nav class="nav" id="mainNav">
+                <ul>
+                    <li class="nav-item nav-home"><a class="nav-link js-scroll-trigger" href="#home-section"><span>Home</span></a></li>
+                    <li class="nav-item nav-holidays"><a class="nav-link js-scroll-trigger" href="#Holidays"><span>Holidays</span></a></li>
+                    <li class="nav-item nav-activities"><a class="nav-link js-scroll-trigger" href="#Activities"><span>Activities</span></a></li>
+                    <li class="nav-item nav-offers"><a class="nav-link js-scroll-trigger" href="#Offers"><span>Offers</span></a></li>
+                    <li class="nav-item nav-travelguide"><a class="nav-link js-scroll-trigger" href="#TravelGuide"><span>Travel Guide</span></a></li>
+                    <li class="nav-item nav-gallery"><a class="nav-link js-scroll-trigger" href="#Gallery"><span>Gallery</span></a></li>
+                    <li class="nav-item dropdown more-dropdown">
+                        <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-about-us"><a href="#"><span>About Us</span></a></li>
+                            <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
+                            <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
+                            <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
+                            <li class="nav-pp"><a href="#">Privacy Policy</a></li>
+                            <li class="nav-disclaimer"><a href="#">Disclaimer</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div id="WebsitePreloader"></div>
+    <!-- header ends -->
+    
+    <!-- Main Content :: Starts -->
+    <div class="inner-page-content">
+        <section class="banner2">
+            <div class="owl-carousel owl-theme single-item">
+                <div class="item">
+                    <figure class="img-fit img-wrap">
+                        <img src="../resources/images/getway-banner2.jpg" alt="">
+                    </figure> 
+                </div>
+            </div>
+            <div class="top-mid-sec type03">
+                <div class="inner-top-strip">
+                    <div class="container">
+                        <div class="pkg-bar">
+                            <ul class="pkg-bar-list">
+                                <li class="packag-sec">
+                                    <div class="packag-sec-cont pck-details dtl-pg">
+                                        <h5 class="ttl-xs pkg-tl">Ladakh Nature Trip</h5>
+                                        <ul class="border-list">
+                                            <li>4 Days / 3 Nights</li> 
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="actn-btn">
+                                    <div class="actn-btn-sec">Leh - Pangong</div>
+                                </li>
+                                <li class="price-packag-sec">
+                                    <div class="price-sec">
+                                        <div class="price-info details">
+                                            <div class="offer-price">
+                                                <span class="starting-txt">Starting from</span>
+                                                <div class="price-cont">
+                                                    <span class="price"><i class='fa-rupee'></i><span class="amt">17,800</span></span>
+                                                    <!-- <div class="tool-tip info">
+                                                        <div class="tooltip-cont " style="display: none;">
+                                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+                                                            <a href="#" class="btn-close"></a>
+                                                        </div>
+                                                    </div>    -->
+                                                    <span class="price-dtl">per person</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>          
+                                </li>
+                                <li class="actn-btn">
+                                    <div class="actn-btn-sec">
+                                        <ul>
+                                            <li class="down-itiner-sec">
+                                                <a href="#" class="lt-side"><i class="fa-custom-download-ltiner-o"></i><span>Download Itinerary</span></a>
+                                            </li>
+                        
+                                            <li class="share-tooltip">
+                                                <a href="#" class="share"><i class="fa-custom-share-alt"></i><span>Share</span></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="right-section">
+                                    <div class="btn-wrap send-enquiry">
+                                        <a href="#" class="btn btn-anim btn-white"><span>Send Enquiry</span></a>
+                                    </div>             
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>       
+        
+        <div class="main-content">
+            <div class="container">
+                <div class="top-cont">
+                    <ol class="breadcrumb animated" data-animation="fadeInUp" data-animation-delay="300">
+                        <li class="breadcrumb-item"><a href="../index.shtml">Home</a></li>
+                        <li class="breadcrumb-item"><a href="../holidays.shtml">Holidays</a></li>
+                        <li class="breadcrumb-item active">Ladakh Nature Trip</li>
+                    </ol>
+                </div>
+
+                <div class="customize-sec">
+                    <div class="pck-details pkg-details type03">
+                        <div class="row">
+                            <div class="col-md-5 animated" data-animation="fadeInUp" data-animation-delay="300">
+                                <p>Lorem ipsum Lorem ipsumLorem ipsumLorem ipsum Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsum Lorem ipsum Lorem ipsumLorem ipsumLorem ipsum</p>
+                            </div>
+                            <div class="col-md-7 animated" data-animation="fadeInUp" data-animation-delay="400">
+                                <div class="luxury-cata-select">
+                                    <form>
+                                        <label class="radio-inline selected">
+                                            <input class="" type="radio" name="price" checked>
+                                            <small>Deluxe</small>
+                                            <b class="price normal-prz"><span><em class="price-figures old-price"><i class="fa-inr"></i> 17,800</em></span> <span><span>per person twin sharing</span></span></b>
+                                        </label>
+                                        <label class="radio-inline">
+                                            <input type="radio" name="price">
+                                            <small>Luxury</small>
+                                            <b class="price"><span><em class="price-figures"><i class="fa-inr"></i> 23,800</em></span> <span><span>per person twin sharing</span></span></b>
+                                        </label>
+                                        <label class="radio-inline">
+                                            <input type="radio" name="price">
+                                            <small>Premium</small>
+                                            <b class="price"><span><em class="price-figures"><i class="fa-inr"></i> 26,700</em></span> <span><span>per person twin sharing</span></span></b>
+                                        </label>
+                                    </form>
+                                </div> 
+                            </div>                        
+                        </div>
+
+                        <div id="horizontalTab">
+                            <ul class="animated" data-animation="fadeInUp" data-animation-delay="500">
+                                <li><a href="#tab-Overview">Overview</a></li>
+                                <li><a href="#tab-Itinerary">Itinerary</a></li>
+                                <li><a href="#tab-Dates-Prices">Dates & Prices</a></li>
+                                <li><a href="#tab-Hotels">Hotels</a></li>
+                                <li><a href="#tab-Inclusions-Exclusions">Inclusions / Exclusions</a></li>
+                                <li><a href="#tab-Activities">Activities</a></li>
+                                <li><a href="#tab-Terms-Conditions">Terms & Conditions</a></li>
+                            </ul>
+                    
+                            <div id="tab-Overview">
+                                <div class="row">
+                                    <div class="col-sm-8 animated" data-animation="fadeInUp" data-animation-delay="300">
+                                        <h2>Trip Highlights</h2>
+                                        <ul class="list-circle-o">
+                                            <li>Visit Shanti Stupa and Leh Bazar</li>
+                                            <li>Visit Sangam, Magnetic Hill, Gurduwara Pathar Sahaib</li>
+                                            <li>Visit Pangong Lake, situated at the height of 4350 meters (14270 ft) in the Changthang region of Leh district.</li>
+                                        </ul>                                    
+                                        <h2>Itinerary in Brief</h2>
+                                        <ul class="itinerary-list">
+                                            <li><b>Day 01 :</b> Arrive Leh</li>
+                                            <li><b>Day 02 :</b> Leh Sightseeing</li>
+                                            <li><b>Day 03 :</b> Leh - Pangong - Leh (300 Kms)</li>
+                                            <li><b>Day 04 :</b> Depart Leh</li>
+                                        </ul>
+                                        <a href="#" class="btn btn-anim btn-white"><span>View Itinerary</span></a>
+                                    </div>
+                                    <div class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="400">
+                                        <div class="map-sec">
+                                            <img src="../resources/images/holiday/map/map-img-01.jpg" alt="" title="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tab-Itinerary">
+                                <h2>Itinerary in Detail</h2>
+                                <div id="full-itinerary" style="display: block;">
+                                    <div class="content-wrap">
+                                        <div class="content-sec">
+                                            <ul class="days-list">
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="300">
+                                                    <span class="day-name">Day 1</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Arrive Leh - Shanti Stupa, Leh Palace & Central Asian Museum</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                                <li><i class="fa-eye"></i></li>
+                                                                <li><i class="fa-custom-bed"></i></li>
+                                                            </ul>
+                                                            <p>Leh by flight, you will meet our representative at airport and transfer to Hotel, traditional welcome at the hotel with  Khataks and welcome tea and coffee. Full day rest to get acclimatized to the high altitude of 3524 Meters (11,500 ft). Later in the evening visit Shanti Stupa and Leh Bazar for orientation.</p>
+                                                        </li>
+                                                        <li><b>Meals</b> - Tea / Coffee, Dinner</li>
+                                                        <li>Overnight at hotel.</li>
+                                                    </ul>
+                                                </li>
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="400"><span class="day-name">Day 2</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Leh Nature Tour - Sangam, Magnetic Hill, Gurduwara Pathar Sahaib</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                                <li><i class="fa-eye"></i></li>
+                                                                <li><i class="fa-custom-bed"></i></li>
+                                                            </ul>
+                                                            <p>After breakfast, drive towards east of ladakh on Srinagar- Leh Highway (NH1) to visit Sangam which is the confluence of 02 Rivers Indus River and Zanskar River than on the way back visit Magnetic Hill ( the hill that defies the gravity) and later to 12th  Century  Gurduwara Pather Sahib. Evening free to explore the market. </p>
+                                                        </li>
+                                                        <li><b>Meals</b> - Breafast, Dinner</li>
+                                                        <li>Overnight at hotel.</li>
+                                                    </ul>
+                                                </li>
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="500"><span class="day-name">Day 3</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Leh - Pangong - Leh (300 Kms)</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                                <li><i class="fa-eye"></i></li>
+                                                                <li><i class="fa-custom-bed"></i></li>
+                                                            </ul>
+                                                            <p>After breakfast, drive towards east of ladakh on Srinagar- Leh Highway (NH1) to visit Sangam which is the confluence of 02 Rivers Indus River and Zanskar River than on the way back visit Magnetic Hill ( the hill that defies the gravity) and later to 12th  Century  Gurduwara Pather Sahib. Evening free to explore the market. </p></li>
+                                                        <li><b>Meals</b> - Breafast, Dinner</li>
+                                                        <li>Overnight at hotel.</li>
+                                                    </ul>
+                                                </li>
+                                                <li class="animated" data-animation="fadeInUp" data-animation-delay="600"><span class="day-name">Day 4</span>
+                                                    <ul class="day-desc-list">
+                                                        <li><b class="destin-name">Tour Ends</b>
+                                                            <ul class="ico-list">
+                                                                <li><i class="fa-custom-cutlery"></i></li>
+                                                            </ul>
+                                                            <p>After early breakfast transfer to Kushok Bakula Leh airport for the return flight. Tour concludes.</p></li>
+                                                        <li><b>Meals</b> - Breafast</li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>                                 
+                                        <div class="itinerary-imgs img-fit">
+                                            <figure><img src="../resources/images/holiday/details/itinerary-img-01.jpg" alt="">
+                                            <!-- <figcaption>Qutub Minar, Delhi</figcaption> -->
+                                            </figure>
+                                            <figure><img src="../resources/images/holiday/details/itinerary-img-02.jpg" alt="">
+                                            <!-- <figcaption>Qutub Minar, Delhi</figcaption> -->
+                                            </figure>
+                                            <figure><img src="../resources/images/holiday/details/itinerary-img-03.jpg" alt="">
+                                            <!-- <figcaption>Qutub Minar, Delhi</figcaption> -->
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tab-Dates-Prices" class="date-price-sec">
+                                <h2 class="animated" data-animation="fadeInUp" data-animation-delay="300">Dates & Prices</span></h2>
+                                <p class="highlight-txt animated" data-animation="fadeInUp" data-animation-delay="400">Cost Per Person on Twin / Double Sharing Basis. Prices are valid till 30 September 2020</p>
+                                <div class="table-responsive animated" data-animation="fadeInUp" data-animation-delay="500">
+                                    <table class="table table-bordered ouline-0">
+                                        <thead>
+                                            <tr class="last">
+                                                <th class="text-left">No. of  Pax</th>
+                                                <th class="text-center">Deluxe</th>
+                                                <th class="text-center">Luxury</th>
+                                                <th class="text-center">Premium</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="td-heading first_col" title="No. of  Pax">Min 01 Pax</td>
+                                                <td class="text-center" title="Deluxe"><i class="icon-rupee"></i> 31,100</td>
+                                                <td class="text-center" title="Luxury"><i class="icon-rupee"></i> 46,900</td>
+                                                <td class="text-center" title="Premium"><i class="icon-rupee"></i> 47,500</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="td-heading first_col" title="No. of  Pax">Min 02 Pax (per person)</td>
+                                                <td class="text-center" title="Deluxe"><i class="icon-rupee"></i> 17,800</td>
+                                                <td class="text-center" title="Luxury"><i class="icon-rupee"></i> 23,800</td>
+                                                <td class="text-center" title="Premium"><i class="icon-rupee"></i> 26,700</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="td-heading first_col" title="No. of  Pax">Min 04 Pax (per person)</td>
+                                                <td class="text-center" title="Deluxe"><i class="icon-rupee"></i> 12,600</td>
+                                                <td class="text-center" title="Luxury"><i class="icon-rupee"></i> 14,600</td>
+                                                <td class="text-center" title="Premium"><i class="icon-rupee"></i> 20,400</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="td-heading first_col" title="No. of  Pax">Min 06 Pax (per person)</td>
+                                                <td class="text-center" title="Deluxe"><i class="icon-rupee"></i> 11,600</td>
+                                                <td class="text-center" title="Luxury"><i class="icon-rupee"></i> 13,500</td>
+                                                <td class="text-center" title="Premium"><i class="icon-rupee"></i> 19,400</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="td-heading first_col" title="No. of  Pax">Child Above 05 to12 years Without Bed</td>
+                                                <td class="text-center" title="Deluxe"><i class="icon-rupee"></i> 3,267</td>
+                                                <td class="text-center" title="Luxury"><i class="icon-rupee"></i> 3,690</td>
+                                                <td class="text-center" title="Premium"><i class="icon-rupee"></i> 6,237</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="td-heading first_col" title="No. of  Pax">2nd Child Above 05 to 12 years without Bed</td>
+                                                <td class="text-center" title="Deluxe"><i class="icon-rupee"></i> 2,750</td>
+                                                <td class="text-center" title="Luxury"><i class="icon-rupee"></i> 2,950</td>
+                                                <td class="text-center" title="Premium"><i class="icon-rupee"></i> 5,610</td>
+                                            </tr>
+                                            <tr class="last">
+                                                <td class="td-heading first_col" title="No. of  Pax">Extra Bed Above 12 Years</td>
+                                                <td class="text-center" title="Deluxe"><i class="icon-rupee"></i> 7,084</td>
+                                                <td class="text-center" title="Luxury"><i class="icon-rupee"></i> 7,680</td>
+                                                <td class="text-center" title="Premium"><i class="icon-rupee"></i> 13,860</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="animated" data-animation="fadeInUp" data-animation-delay="600">
+                                    <h4 class="m-0">Payment Terms :</h4>
+                                    <ul class="list-circle-o m-0">
+                                        <li>25% advance at the time of booking confirmation.</li>
+                                        <li>75% balance 15 days prior to the travel date.</li>
+                                        <li>In case the booking is made within 15 days of travel, 100% advance is required at the time of confirmation.</li>
+                                    </ul>
+                                    <h4 class="m-0">Child Policy :</h4 class="m-0">
+                                    <ul class="list-circle-o m-0">
+                                        <li>Children below 5 years of age are allowed to stay free with parents without extra bed.</li>
+                                        <li>Children between 5 – 12 years have to take an extra bed at the prescribed rate.</li>
+                                        <li>2nd child between 5 – 12 years sharing parent’s bed have to pay extra as per the prescribed rate.</li>
+                                    </ul>
+                                    <p>All Indian tourists are required to carry valid Photo IDs issued by any govt. institution, for the innerline permits. Children accompanying the parents are required to carry date of birth certificate.  Non submission of the above documents will result in denial of  entry to the restricted areas in Ladakh.</p>
+                                </div>
+                            </div>
+                            <div id="tab-Hotels">
+                                <h2 class="animated" data-animation="fadeInUp" data-animation-delay="300">Hotels</span></h2>
+                                    <div class="parentHorizontalTab_1 theme-04 type02">
+                                        <ul class="resp-tabs-list hor_1 animated" data-animation="fadeInUp" data-animation-delay="400">
+                                            <li><span>Deluxe</span></li>
+                                            <li><span>Luxury</span></li>
+                                            <li><span>Premium</span></li> 
+                                        </ul>
+                                        <div class="resp-tabs-container hor_1">
+                                            <div class="tab-container resp-tab-content-active">
+                                                <div class="hotel-data"> 
+                                                    <div class="hotel-content animated" data-animation="fadeInUp" data-animation-delay="300">
+                                                        <h3>Leh - 3 Nights</h3>
+                                                        <h4>Deluxe Hotel - Chonjor Residency Leh or similar</h4>
+                                                        <p>Old Road, Leh, Ladakh, Jammu and Kashmir 194101</p>
+                                                        <p><b>Chonjor Residency Leh</b>, has exquisite rooms on board reflecting chic and modern-day interiors with a Ladakhi twist. With enhanced open space and soothing neutral tones woven with rich, colourful shades, the hotel offers modern technology and comfort along with traditional hospitality that one may look forward to with a touch of personal care.</p>
+                                                    </div>
+                                                    
+                                                    <div class="hotel-img img-fit animated" data-animation="fadeInUp" data-animation-delay="400">
+                                                        <div class="singleItemSlider">
+                                                            <div class="owl-carousel owl-theme hotel-single-item">
+                                                                <div>
+                                                                    <figure><img src="../resources/images/holiday/details/hotels/hotel-img-01.jpg" alt="">
+                                                                        <figcaption class="itinerary-tit">Chonjor Residency Leh</figcaption>
+                                                                    </figure>
+                                                                </div>
+                                                                <div>
+                                                                    <figure><img src="../resources/images/holiday/details/hotels/hotel-img-01.jpg" alt="">
+                                                                        <figcaption class="itinerary-tit">X0 0 XXX 000 </figcaption>
+                                                                    </figure>
+                                                                </div>
+                                                                <div>
+                                                                    <figure><img src="../resources/images/holiday/details/hotels/hotel-img-01.jpg" alt="">
+                                                                        <figcaption class="itinerary-tit">X0 0 XXX 000 </figcaption>
+                                                                    </figure>
+                                                                </div>
+                                                                <div>
+                                                                    <figure><img src="../resources/images/holiday/details/hotels/hotel-img-01.jpg" alt="">
+                                                                        <figcaption class="itinerary-tit">X0 0 XXX 000 </figcaption>
+                                                                    </figure>
+                                                                </div>
+                                                            </div>
+                                                            <div class="owlStatus"><span class="currentItem"><span class="result">1</span></span> / <span class="owlItems"><span class="result">4</span></span></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tab-container">Data Not Available</div>
+                                            <div class="tab-container">Data Not Available</div>
+                                        </div>
+                                    </div>
+                            </div>
+                            <div id="tab-Inclusions-Exclusions">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <h2 class="animated" data-animation="fadeInUp" data-animation-delay="300">Inclusions</span></h2>
+                                        <ul class="list-circle-o animated" data-animation="fadeInUp" data-animation-delay="400">
+                                            <li>Twin/ Double Sharing Accommodation in the specified hotel on AP Basis (Breakfast, Lunch & Dinner)</li>
+                                            <li>Transfers & sightseeing as mentioned in the itinerary by Non-A/c Private Vehicle.</li>
+                                            <li>Assistance on arrival.</li>
+                                            <li>All current applicable taxes.</li>
+                                            <li>Airport Pickup and Drop by Private Vehicle.</li>
+                                            <li>Inner line Permits</li>
+                                            <li>Ladakh entry fee</li>
+                                        </ul>   
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <h2 class="animated" data-animation="fadeInUp" data-animation-delay="300">Exclusions</span></h2>
+                                        <ul class="list-circle-o animated" data-animation="fadeInUp" data-animation-delay="500">
+                                            <li>Airfare/ Train fare</li>
+                                            <li>Any meals other than those mentioned.</li>
+                                            <li>Any portage at Airport and Hotels tips, Laundry, Mineral water, Telephone charges and all items of personal nature, meals and  drinks not  specified in the inclusions.</li>
+                                            <li>Any services not specifically mentioned in the inclusions.</li>
+                                            <li>Entrance to the monuments.</li>
+                                            <li>Tour Escort Services</li>
+                                            <li>Any Medical or Health Insurance</li>
+                                        </ul>   
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tab-Activities">
+                                <h2 class="animated" data-animation="fadeInUp" data-animation-delay="300">Activities</span></h2>
+                                <ul class="days-list-hotel type02">
+                                    <li class="selected animated" data-animation="fadeInUp" data-animation-delay="300">
+                                        <div class="content-wrap">
+                                            <div class="ttl-xxs">
+                                                <ul>
+                                                    <li><b>Leh</b> <small>Day 1</small></li>
+                                                </ul>
+                                            </div>
+                                            <div class="hotel-rate">
+                                                <div class="hotel-img img-fit">
+                                                    <figure><img src="../resources/images/holiday/details/activity/activity-img-01.jpg" alt=""></figure>
+                                                </div>
+                                                <div class="hotel-dsc"> 
+                                                    <div class="hotel-name">
+                                                        <h3>Shanti Stupa</h3>
+                                                        <span class="tick-selected"><span class="btn-check"> <i class="fa-custom-check green"></i><span>Included in trip</span> </span></span>
+                                                    </div>
+                                                    <p class="overview-txt">Lorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  Ipsum. <!--<span><a href="#" class="btn-readmore" data-label="mallaca">view details</a></span>--></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="animated" data-animation="fadeInUp" data-animation-delay="300">
+                                        <div class="content-wrap">
+                                            <div class="ttl-xxs">
+                                                <ul>
+                                                    <li><b>Leh</b> <small>Day 1</small></li>
+                                                </ul>
+                                            </div>
+                                            <div class="hotel-rate">
+                                                <div class="hotel-img img-fit">
+                                                    <figure><img src="../resources/images/holiday/details/activity/activity-img-02.jpg" alt=""></figure>
+                                                </div>
+                                                <div class="hotel-dsc"> 
+                                                    <div class="hotel-name">
+                                                        <h3>Leh Palace</h3> 
+                                                        <span class="tick-selected"> <span class="btn-check"> <i class="fa-custom-check green"></i><span>Included in trip</span> </span></span>
+                                                    </div>
+                                                    <p class="overview-txt">Lorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  Ipsum. <!--<span><a href="#" class="btn-readmore" data-label="mallaca">view details</a></span>--></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="animated" data-animation="fadeInUp" data-animation-delay="300">
+                                        <div class="content-wrap">
+                                            <div class="ttl-xxs">
+                                                <ul>
+                                                    <li><b>Leh</b> <small>Day 1</small></li>
+                                                </ul>
+                                            </div>
+                                            <div class="hotel-rate">
+                                                <div class="hotel-img img-fit"></div>
+                                                <div class="hotel-dsc"> 
+                                                    <div class="hotel-name">
+                                                        <h3>Central Asian Museum</h3>
+                                                        <span class="tick-selected"> <span class="btn-check"> <i class="fa-custom-check green"></i><span>Included in trip</span> </span></span>
+                                                    </div>
+                                                    <p class="overview-txt">Lorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  IpsumLorem Ipsum Lorem  Ipsum. <!--<span><a href="#" class="btn-readmore" data-label="mallaca">view details</a></span>--></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div id="tab-Terms-Conditions">
+                                <div class="row">
+                                    <div class="col-sm-12 animated" data-animation="fadeInUp" data-animation-delay="300">
+                                        <h2>Terms & Conditions</h2>             
+                                        <h4>Cancellation Policy:</h4>
+                                        <ul class="list-circle-o m-0">
+                                            <li>15 Days prior to date of arrival - 25% of the total bill will be charged.</li>
+                                            <li>14 Days to 08 Days prior to date of arrival – 50% of the total bill will be charged.</li>
+                                            <li>07 Days less prior to date of arrival – 100% of the total bill will be charged.</li>
+                                        </ul>                                    
+                                        <p>All the arrangements for the tour are preplanned and prepaid. In case of not completion of the tour due to any reason whatsoever there will not be any refund for any unutilized services. Any extra expense due any alteration has to be paid extra</p>
+                                    </div>
+                                </div>
+                            </div>                
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <!-- Main Content ends -->
+    
+	<!-- FOOTER starts -->
+    <!-- Send Enquiry Popup :: Starts -->
+    <div class="popup-box zoom-anim-dialog mfp-hide type05" id="send-enquiry-popup" >
+        <div class="popup-in">
+            <div class="pop-tl">
+                <h2>I'm Interested</h2> 
+            </div>       
+            <div class="common-popup-cont form-theme2">
+                <form action='#' method="POST"  name="book-now-popup" class="app-status-form" id="SendEnquiryPopup">
+                <input type="hidden" name="_token" value="OYnGa7Cr73sPXbNUZMoqDK1cjH5YgRPNhT7pL26j" />
+                <input type="hidden" name="tableLink" value='amhi_travelekar_rcb' />
+                <input type="hidden" name="config_type" value='quicksearch' />
+                <input type="hidden" name="ProductCode" value="Amhi Travelekar" />
+                <input type="hidden" name="ProductDivision" value="Amhi Travelekar" />
+                <div class="row row-md">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <select class="" name="Title">
+                            <option value="Mr" selected="selected">Mr.</option>
+                            <option value="Mrs">Mrs.</option>
+                            <option value="Ms">Ms.</option>
+                            <option value="Miss">Miss.</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-4 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>First Name<sup>*</sup></span>
+                            </div>
+                            <input class="" type="text" name="trav[0][firstname]" id="firstname-0">
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>Last Name<sup>*</sup></span>
+                            </div>
+                        <input class="" type="text" name="trav[0][firstname]" id="lastname-0">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-3 custom-field">
+                            <div class="holder">
+                                <span>+91</span>
+                            </div>
+                            <input type="text" name="countryCode"> 
+
+                        </div>
+                    <div class="col-md-9 col-sm-9 col-xs-9 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>Mobile No.<sup>*</sup> <i>(Must be reachable)</i></span>
+                            </div>
+                        <input class="" type="text" name="trav[0][phone_num]" id="phone_num-0" value="" maxlength="15">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>Email<sup>*</sup> <i>(Must be contactable)</i></span>
+                            </div>
+                        <input class="" type="email" name="trav[0][email]" id="email-0" value="">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-mobi-12">
+                        <div class="custom-field">
+                            <textarea rows="6" name="trav[0][special_requirements]" id="spe_req" placeholder="Any special request and expectations"></textarea>
+                        </div>
+                    </div>
+                    <div class="col-md-7 col-sm-7 col-xs-7">
+                        <span class="captcha-code-sec">
+                            <img id="captchaimg2" src="http://dev.gaurav-yatra.uat.cnkweb.com/common/html-captcha/captcha_code_file.php?rand=mgh5b5" alt="">
+                            <a href="javascript:void(0)" class="refresh-captcha" onclick="refresh_captcha(2);"><i class="fa fa-repeat" ></i></a>
+                            <input type="hidden" name="captacha_confirmation" value="mgh5b5" id="captacha_confirmation2" name="captacha_confirmation"/>
+                        </span>
+                    </div>
+                    <div class="col-md-5 col-sm-5 col-xs-5 custom-field">
+                        <div class="holder">
+                            <span>Enter Code Here</span>
+                        </div>
+                        <input type="text" name="captcha" id="captcha2">
+                    </div>
+                    <div class="col-sm-12 col-mobi-12">
+                        <div class="capcha type02">
+                            <div class="switch-field">
+                                <div class="btn-cont">
+                                    <a href="#" class="btn btn-blue">Submit</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        </div>
+    </div>
+    <!-- Send Enquiry Popup :: Starts -->
+
+    <footer>
+        <div class="footer-top-sec">
+            <div class="container">
+                <div class="row">
+                <div class="col-lg-12 col-sm-12">
+                    <div class="footer-links">
+                        <ul class="count-five">
+                            <li>
+                                <ul>
+                                    <li><a href="#"></a>Home</a></li>
+                                    <li><a href="#">Holidays</a></li>
+                                    <li><a href="#">Activities</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li><a href="#">Offers</a></li>
+                                    <li><a href="#">Travel Guide</a></li>
+                                    <li><a href="#">Gallery</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">Why Us</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li><a href="#">Terms and Conditions</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Disclaimer</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul class="action-links">
+                                    <li><a href="tel:18002660082" class="ph-no tel-disabled tel-disable"><i class="fa-phone"></i><span>98192 98 192</span></a></li>
+                                    <li><a href="mailto:contact@ladakh360.com" class=""><i class="fa-envelope"></i><span>contact@ladakh360.com</span></a></li>
+                                    <li><a href="#" class="btn btn-secondary"><span>Request Callback</span></a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <span class="clear"></span>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-btm-sec">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <span class="copyright">© Copyright Ladakh360.</span>
+                    </div>
+                    <!-- <div class="col-sm-6">
+                        <div class="social-links">
+                            <label>Connect with us: </label>
+                            <ul>
+                                <li><a href="#" class="g-plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                <li><a href="#" class="facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                                <li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        <!-- <div class="chat-window-wrap">
+            <a href="#" class="chat-btn"></a>
+        </div> -->
+    </footer>
+    <span class="totop"><a href="#"><i class="fa fa-chevron-up"></i></a></span>
+
+    <script src="../resources/js/plugins.js"></script>
+    <script src="../resources/js/form-elements.js"></script>
+    <script src="../resources/js/main.js"></script>
+
+    <script type="text/javascript">
+    var $tabs = $('#horizontalTab');
+    $tabs.responsiveTabs({
+        rotate: false,
+        startCollapsed: 'accordion',
+        collapsible: 'accordion',
+        setHash: false,
+        //disabled: [3,4],
+        activate: function(e, tab) {
+            $('.info').html('Tab <strong>' + tab.id + '</strong> activated!');
+        },
+        activateState: function(e, state) {
+            //console.log(state);
+            $('.info').html('Switched from <strong>' + state.oldState + '</strong> state to <strong>' + state.newState + '</strong> state!');
+        }
+    });
+    </script>
+    <!-- FOOTER ends -->
+
+</body>
+</html>

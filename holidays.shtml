@@ -41,10 +41,10 @@
         <div class="top-header">
             <div class="container">
             <ul>
-                <li><a href="#send-enquiry-popup" class="popup-inline"><i class="fa-search"></i><span>Search</span></a></li>
+                <!-- <li><a href="#"><i class="fa-search"></i><span>Search</span></a></li> -->
                 <li><a href="tel:18002660082" class="ph-no tel-disabled tel-disable"><i class="fa-phone"></i><span>98192 98 192</span></a></li>
                 <li><a href="mailto:contact@ladakh360.com" class=""><i class="fa-envelope"></i><span>contact@ladakh360.com</span></a></li>
-                <li><a href="#" class="btn btn-secondary"><span>Request Callback</span></a></li>
+                <li><a href="#send-enquiry-popup" class="popup-inline btn btn-secondary"><span>Request Callback</span></a></li>
             </ul>
             <!-- <div class="search-form">
                 <form action="#">

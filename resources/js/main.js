@@ -404,6 +404,9 @@ function syncPositionSingle(el) {
 							}
                         });
                     }                    
+                    if($(this).hasClass('hotel-single-item')){
+                        $(this).owlCarousel({items:1, nav:true, autoplay:false, dots:false, loop:false,responsiveRefreshRate:20000})
+                    }                     
                     if($(this).hasClass('tablist-carousel')){
                         $(this).owlCarousel({autoWidth:true, margin:5,navText:[ , ],slideSpeed:20000,nav:true, autoplay:false, dots:false, loop:false, responsiveRefreshRate:200})
                     }                    
@@ -1700,15 +1703,18 @@ $("#modalCustomizeTrip").each(function(){
 
 var initFixedPkgBar = function () {
     var fixedmidsec = $('.top-mid-sec'),
-        DivOffset = fixedmidsec.offset().top, //27Jul2018
+        tpHeader = $('.top-header').outerHeight();
+        DivOffset = fixedmidsec.offset().top - tpHeader, //27Jul2018
         pkgBarHgt = $('.inner-top-strip').outerHeight(); // 08may2018
     $(window).scroll(function () {
         if ($(this).scrollTop() > DivOffset) {
             $('.inner-top-strip').addClass('fixedpos');
-            $('.inner-top-strip').parent('.top-mid-sec').css('min-height', pkgBarHgt); // 08may2018
+            $('.inner-top-strip').css({'top':tpHeader}); // 08may2018
+            $('.inner-top-strip').parent('.top-mid-sec').css({'min-height': pkgBarHgt}); // 08may2018
         } else {
             $('.inner-top-strip').removeClass('fixedpos');
-            $('.inner-top-strip').parent('.top-mid-sec').css('min-height', 'inherit'); // 08may2018
+            $('.inner-top-strip').css({'top': 'auto'}); // 08may2018
+            $('.inner-top-strip').parent('.top-mid-sec').css({'min-height': 'inherit'}); // 08may2018
         }
     });
 }

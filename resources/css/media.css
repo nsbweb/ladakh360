@@ -195,6 +195,7 @@ p{font-size:12px; line-height:18px;}
 .form-block { padding-left: 45px; padding-right: 45px; }
 .error-content .oops-txt {font-size: 110px; line-height: 1.2em; padding-bottom:25px;}
 body, p {font-size:12px; line-height:normal;}
+.ttl-xxs { font-size: 1em;; }
 }
 /* max-width:1199px:Starts*/
 
@@ -392,8 +393,6 @@ header .top-header .container > ul > li.login.show:before { left:calc(50% - 13px
 .error-content .error-txt {font-size: 16px;}
 .error-content > p {font-size: 16px;}
 
-
-
 .search-form-sec .widget-form-elements .tags-where { width:calc(100% - 130px);}
 .dest-th-tiles .item .img-fit { height: 115px; }
 .deals-list .dest-th-tiles {width: calc(100% + 20px);  }
@@ -402,6 +401,21 @@ header .top-header .container > ul > li.login.show:before { left:calc(50% - 13px
 .event-info .btn, 
 .deals-list .view-all, 
 .cont-section .btn-primary { padding-top: 0; padding-bottom: 0;}
+.top-mid-sec.type03 .pkg-bar-list li.packag-sec:first-child { width: auto; float: left;  width: auto; padding-right: 0; }
+.top-mid-sec.type03 .pkg-bar-list li.packag-sec:first-child + li { float: left; clear: none; margin: 4px 0 0 10px; padding-right: 0; width: auto; }
+.top-mid-sec.type03 .pkg-bar-list li.packag-sec:first-child + li + li { float: left;  clear: both; width: 33.33%; }
+.top-mid-sec.type03 .pkg-bar-list li.packag-sec:first-child + li + li + li { float: left; width: 33.33%; clear: none; margin-top: 6px;}
+.top-mid-sec.type03 .pkg-bar-list > li.right-section { width: 33.33%; }
+.top-mid-sec.type03 .pkg-bar-list li.packag-sec:first-child:after,
+.top-mid-sec.type03 .pkg-bar-list li.packag-sec:first-child + li:after { display: none; }
+.top-mid-sec.type03 .pkg-bar-list li.packag-sec:first-child + li + li:after { display: block; }
+.top-mid-sec.type03 .pkg-bar-list .price-sec .price-info,
+.top-mid-sec.type03 .pkg-bar-list > li h5 { float: left;}
+.top-mid-sec.type03 .pkg-bar-list .packag-sec .border-list { float: left; margin: 2px 0 0 10px; }
+.pkg-details.type03 .days-list-hotel .content-wrap > div { display: inline-block; width: 100% }
+.days-list-hotel .content-wrap .hotel-rate { padding-left: 10.462em;}
+.days-list-hotel .content-wrap .hotel-rate .hotel-img { width: 8.923em;  margin-left: -10.462em; }
+.days-list-hotel .content-wrap .hotel-rate .hotel-dsc { padding-right: 10.692em; }
 }
 /* max-width:991px:Ends*/
 
