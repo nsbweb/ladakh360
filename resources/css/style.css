@@ -4617,6 +4617,9 @@ body, .webFont { font-family: 'Inria Serif', serif;}
 .cont-section .tbl-style .about-right-section { vertical-align: top;}
 .about-left-section, .about-right-section { padding-top: 65px; }
 
+.event-left-section .box { display:flex; align-items: center; }
+.event-info .btn { position: absolute; left: 12px; bottom: 0px; }
+
 footer { width: calc(100% - 135px); left: 135px; }
 .footer-links > ul >li ul li a { font-size: 13px; }
 footer .action-links li a { font-size:16px; }
@@ -4628,17 +4631,26 @@ footer .action-links li a.btn-secondary { font-size:14px; background:#bcbcbc; pa
 .inner-pg .top-header .container > ul > li > a.btn-secondary { background: rgba(255,255,255,0.3); border-color:transparent }
 .inner-page-content { padding-left:135px; padding-top:0; background:#fafafa; }
 .cont-section.parallax-window { padding-left: 135px; }
-body.holidays .nav-holidays { background:rgba(0,0,0,0.1); }
-.grid-view li > .pkg-thumbnail.type03 .thumb-wrap  { height: 325px; }
+
+body.holidays .nav-holidays, 
+body.activities .nav-activities,
+body.offers .nav-offers,
+body.travelguide .nav-travelguide,
+body.gallery .nav-gallery,
+body.more .more-dropdown { background:rgba(0,0,0,0.1); }
+
+.grid-view li > .pkg-thumbnail.type03 .thumb-wrap { height: 325px; }
+.grid-view.gallery-listing li > .pkg-thumbnail.type03 .thumb-wrap { height: 230px; padding: 0; min-height: inherit;}
 .grid-view li > .pkg-thumbnail.type03 .thumb-wrap .img-descr.full-view { bottom: 0; top:auto; width:100%; background: rgba(0,0,0,0);
 	background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0)), color-stop(100%, rgba(0,0,0,0.67)));
 	background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
-	background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
-	background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
-	background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000', GradientType=0 ); }
+background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
+background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
+background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000', GradientType=0 ); }
 .grid-view li > .pkg-thumbnail.type03 .thumb-wrap .img-descr .pkg-tl { display: block; font-size: 1.846em;}
+.grid-view li > .pkg-thumbnail.type03 .thumb-wrap .img-descr h4.pkg-tl { font-size: 1.385em;}
 .grid-view li > .pkg-thumbnail.type03 .thumb-wrap .img-descr .pkg-days .pck-days > li,
 .grid-view li > .pkg-thumbnail.type03 .thumb-wrap .img-descr .pkg-days > p { font-size:1.077em; }
 .grid-view li > .pkg-thumbnail.type03 .thumb-wrap .img-descr .price-info { padding-bottom: 0;; }
@@ -4876,4 +4888,16 @@ body.holidays .nav-holidays { background:rgba(0,0,0,0.1); }
 .days-list-hotel .content-wrap .hotel-rate .hotel-dsc .hotel-name span.tick-selected { top: auto; font-size:1em; }
 .days-list-hotel .content-wrap .hotel-rate .hotel-dsc .hotel-name span .btn-check > span { font-size: 1.231em; }
 .inner-top-strip.fixedpos { width: calc(100% - 135px); left: 135px; }
+
+/* About Us Page */
+.inner-page-content .banner { position: relative; }
+.inner-page-content .banner figure { width:100%; height: 325px; overflow: hidden; }
+.inner-page-content .banner figure > img { width:100%; object-fit: cover; }
+.content-data h3 { font-size: 1.385em; font-weight:700; margin-bottom: 0.5em;}
+.content-data > p  { font-weight: 700; font-size: 1.077em; line-height: 1.8em; margin-bottom:2em; }
+
+/* OFFERS PAGE */
+ul.cont-section-inner.event-left-section { width: 100%; list-style:none; padding:0; margin:0; }
+ul.cont-section-inner.event-left-section .box::before { z-index:0;}
+/* OFFERS PAGE */
 /* Theme */

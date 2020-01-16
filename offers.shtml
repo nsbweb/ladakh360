@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>Ladakh360 :: Offers</title>
+	<!-- header css and script starts -->
+    <!-- Custom styles for this template -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="XXX XXXX XX">
+    <meta name="msapplication-TileImage" content="resources/images/icons/icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#2F3BA2">	
+    <link rel="apple-touch-icon" href="resources/images/icons/icon-152x152.png">
+
+    <link href="resources/css/plugin.css" rel="stylesheet" type="text/css" media="all" /><!-- bootstrap.min.css + icons.css + plugin.css -->
+
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
+    <link href="resources/css/style.css" rel="stylesheet">
+    <link href="resources/css/media.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="resources/js/ie/html5shiv.js"></script>
+    <script src="resources/js/ie/respond.min.js"></script>
+    <![endif]-->
+    <!-- header css and script ends -->
+</head>
+
+<body class="inner-pg offers">
+    <!-- header starts -->
+    <header class="header">
+        <div class="top-header">
+            <div class="container">
+            <ul>
+                <!-- <li><a href="#"><i class="fa-search"></i><span>Search</span></a></li> -->
+                <li><a href="tel:18002660082" class="ph-no tel-disabled tel-disable"><i class="fa-phone"></i><span>98192 98 192</span></a></li>
+                <li><a href="mailto:contact@ladakh360.com" class=""><i class="fa-envelope"></i><span>contact@ladakh360.com</span></a></li>
+                <li><a href="#send-enquiry-popup" class="popup-inline btn btn-secondary"><span>Request Callback</span></a></li>
+            </ul>
+            <!-- <div class="search-form">
+                <form action="#">
+                    <input type="text" placeholder="Search" class="search-input">
+                    <a href="#" class="submit-btn"></a>
+                </form>
+            </div>
+            <span class="clear"></span> -->
+            </div>
+        </div>
+        <div class="navigation-wrap">
+            <div class="logo-wrap"><a href="index.shtml" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
+            <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
+            <nav class="nav" id="mainNav">
+                <ul>
+                    <li class="nav-item nav-home"><a class="nav-link js-scroll-trigger" href="index.shtml#home-section"><span>Home</span></a></li>
+                    <li class="nav-item nav-holidays"><a class="nav-link js-scroll-trigger" href="holidays.shtml"><span>Holidays</span></a></li>
+                    <li class="nav-item nav-activities"><a class="nav-link js-scroll-trigger" href="activities.shtml"><span>Activities</span></a></li>
+                    <li class="nav-item nav-offers"><a class="nav-link js-scroll-trigger" href="offers.shtml"><span>Offers</span></a></li>
+                    <li class="nav-item nav-travelguide"><a class="nav-link js-scroll-trigger" href="#"><span>Travel Guide</span></a></li>
+                    <li class="nav-item nav-gallery"><a class="nav-link js-scroll-trigger" href="gallery.shtml"><span>Gallery</span></a></li>
+                    <li class="nav-item dropdown more-dropdown">
+                        <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-about-us"><a href="about-us.shtml"><span>About Us</span></a></li>
+                            <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
+                            <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
+                            <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
+                            <li class="nav-pp"><a href="#">Privacy Policy</a></li>
+                            <li class="nav-disclaimer"><a href="#">Disclaimer</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div id="WebsitePreloader"></div>
+    <!-- header ends -->
+    
+    <!-- Main Content :: Starts -->
+    <div class="inner-page-content">
+        <section class="banner">
+            <figure class="img-fit img-wrap">
+                <img src="resources/images/offers/banner-03.jpg" alt="">
+            </figure> 
+        </section>        
+        
+        <div class="main-content">
+            <div class="container">
+                <div class="top-cont">
+                    <ol class="breadcrumb animated" data-animation="fadeInUp" data-animation-delay="300">
+                        <li class="breadcrumb-item"><a href="index.shtml">Home</a></li>
+                        <li class="breadcrumb-item active">Offers</li>
+                    </ol>
+                </div>
+                
+                <div class="pkg-list listing">
+                    <div class="highlight-sec animated" data-animation="fadeInUp" data-animation-delay="300">
+                        <h1 class="ttl-sm">Special Offer for Leh Ladakh</h3>
+                    </div>
+                </div>
+                <div class="cont-section">
+                    <ul class="row cont-section-inner event-left-section">
+                        <li class="col-sm-7">
+                            <div class="box animated" data-animation="fadeInUp" data-animation-delay="300">
+                                <h5 class="offer animated" data-animation="fadeInUp" data-animation-delay="400"><i class="fa-rupee"></i> 3000 off</h5>
+                                <div class="img-fit img-wrap animated" data-animation="fadeInUp" data-animation-delay="500">
+                                    <figure><img src="resources/images/event.jpg" alt=""></figure>
+                                </div>
+                                <div class="event-info animated" data-animation="fadeInUp" data-animation-delay="600">
+                                    <h5>Ladakh  Special</h5>
+                                    <ul class="border-list">
+                                        <li>8 Days / 7 Nights</li>
+                                    </ul>
+                                    <p>Leh, Alchi, Pangong, Nubra Valley, Khardong La</p>
+                                    <div class="price-info">
+                                        <span>Starting from</span>
+                                        <div class="offer-price">
+                                            <span class="price old"><span class="amt"><i class="fa-rupee"></i>35,975*</span> </span>
+                                            <span class="price"><span class="amt"><i class="fa-rupee"></i>32,975*</span> </span>
+                                            <span class="price-dtl">per person</span>
+                                        </div>
+                                        <!-- <span class="price-dtl">per person</span> -->
+                                    </div>
+                                    <a href="#" class="btn btn-primary"><span>Explore</span></a>
+                                </div>
+                                <span class="clear"></span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Main Content ends -->
+    
+	<!-- FOOTER starts -->
+    <!-- Send Enquiry Popup :: Starts -->
+    <div class="popup-box zoom-anim-dialog mfp-hide type05" id="send-enquiry-popup" >
+        <div class="popup-in">
+            <div class="pop-tl">
+                <h2>I'm Interested</h2> 
+            </div>       
+            <div class="common-popup-cont form-theme2">
+                <form action='#' method="POST"  name="book-now-popup" class="app-status-form" id="SendEnquiryPopup">
+                <input type="hidden" name="_token" value="OYnGa7Cr73sPXbNUZMoqDK1cjH5YgRPNhT7pL26j" />
+                <input type="hidden" name="tableLink" value='amhi_travelekar_rcb' />
+                <input type="hidden" name="config_type" value='quicksearch' />
+                <input type="hidden" name="ProductCode" value="Amhi Travelekar" />
+                <input type="hidden" name="ProductDivision" value="Amhi Travelekar" />
+                <div class="row row-md">
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <select class="" name="Title">
+                            <option value="Mr" selected="selected">Mr.</option>
+                            <option value="Mrs">Mrs.</option>
+                            <option value="Ms">Ms.</option>
+                            <option value="Miss">Miss.</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-4 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>First Name<sup>*</sup></span>
+                            </div>
+                            <input class="" type="text" name="trav[0][firstname]" id="firstname-0">
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>Last Name<sup>*</sup></span>
+                            </div>
+                        <input class="" type="text" name="trav[0][firstname]" id="lastname-0">
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-3 custom-field">
+                            <div class="holder">
+                                <span>+91</span>
+                            </div>
+                            <input type="text" name="countryCode"> 
+
+                        </div>
+                    <div class="col-md-9 col-sm-9 col-xs-9 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>Mobile No.<sup>*</sup> <i>(Must be reachable)</i></span>
+                            </div>
+                        <input class="" type="text" name="trav[0][phone_num]" id="phone_num-0" value="" maxlength="15">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-mobi-12">
+                        <div class="custom-field">
+                            <div class="holder">
+                                <span>Email<sup>*</sup> <i>(Must be contactable)</i></span>
+                            </div>
+                        <input class="" type="email" name="trav[0][email]" id="email-0" value="">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-mobi-12">
+                        <div class="custom-field">
+                            <textarea rows="6" name="trav[0][special_requirements]" id="spe_req" placeholder="Any special request and expectations"></textarea>
+                        </div>
+                    </div>
+                    <div class="col-md-7 col-sm-7 col-xs-7">
+                        <span class="captcha-code-sec">
+                            <img id="captchaimg2" src="http://dev.gaurav-yatra.uat.cnkweb.com/common/html-captcha/captcha_code_file.php?rand=mgh5b5" alt="">
+                            <a href="javascript:void(0)" class="refresh-captcha" onclick="refresh_captcha(2);"><i class="fa fa-repeat" ></i></a>
+                            <input type="hidden" name="captacha_confirmation" value="mgh5b5" id="captacha_confirmation2" name="captacha_confirmation"/>
+                        </span>
+                    </div>
+                    <div class="col-md-5 col-sm-5 col-xs-5 custom-field">
+                        <div class="holder">
+                            <span>Enter Code Here</span>
+                        </div>
+                        <input type="text" name="captcha" id="captcha2">
+                    </div>
+                    <div class="col-sm-12 col-mobi-12">
+                        <div class="capcha type02">
+                            <div class="switch-field">
+                                <div class="btn-cont">
+                                    <a href="#" class="btn btn-blue">Submit</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        </div>
+    </div>
+    <!-- Send Enquiry Popup :: Starts -->
+
+    <footer>
+        <div class="footer-top-sec">
+            <div class="container">
+                <div class="row">
+                <div class="col-lg-12 col-sm-12">
+                    <div class="footer-links">
+                        <ul class="count-five">
+                            <li>
+                                <ul>
+                                    <li><a href="index.shtml">Home</a></li>
+                                    <li><a href="holidays.shtml">Holidays</a></li>
+                                    <li><a href="activities.shtml">Activities</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li><a href="offers.shtml">Offers</a></li>
+                                    <li><a href="#">Travel Guide</a></li>
+                                    <li><a href="gallery.shtml">Gallery</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li><a href="about-us.shtml">About Us</a></li>
+                                    <li><a href="#">Why Us</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li><a href="#">Terms and Conditions</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Disclaimer</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul class="action-links">
+                                    <li><a href="tel:18002660082" class="ph-no tel-disabled tel-disable"><i class="fa-phone"></i><span>98192 98 192</span></a></li>
+                                    <li><a href="mailto:contact@ladakh360.com" class=""><i class="fa-envelope"></i><span>contact@ladakh360.com</span></a></li>
+                                    <li><a href="#" class="btn btn-secondary"><span>Request Callback</span></a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <span class="clear"></span>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-btm-sec">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <span class="copyright">© Copyright Ladakh360.</span>
+                    </div>
+                    <!-- <div class="col-sm-6">
+                        <div class="social-links">
+                            <label>Connect with us: </label>
+                            <ul>
+                                <li><a href="#" class="g-plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                <li><a href="#" class="facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                                <li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        <!-- <div class="chat-window-wrap">
+            <a href="#" class="chat-btn"></a>
+        </div> -->
+    </footer>
+    <span class="totop"><a href="#"><i class="fa fa-chevron-up"></i></a></span>
+
+    <script src="resources/js/plugins.js"></script>
+    <script src="resources/js/form-elements.js"></script>
+    <script src="resources/js/main.js"></script>
+    <!-- FOOTER ends -->
+
+</body>
+</html>

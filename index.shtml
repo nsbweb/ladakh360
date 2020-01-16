@@ -66,7 +66,7 @@
                 <li class="nav-item dropdown more-dropdown">
                     <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
                     <ul class="dropdown-menu">
-                        <li class="nav-about-us"><a href="#"><span>About Us</span></a></li>
+                        <li class="nav-about-us"><a href="about-us.shtml"><span>About Us</span></a></li>
                         <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
                         <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
                         <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
@@ -342,12 +342,12 @@
              <div class="about-info">
                  <h3 class="ttl">About Us</h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum </p>
-                 <a href="#" class="btn btn-primary"><span>Know More</span></a>
+                 <a href="about-us.shtml" class="btn btn-primary"><span>Know More</span></a>
              </div>
          </div>
          <div class="cont-section-inner about-right-section">
              <div class="about-info">
-                 <h3 class="ttl">Why Us </h3>
+                 <h3 class="ttl">Why Us</h3>
                  <ul class="tickList">
                     <li>Best Price Guaranteed</li>
                     <li>Curated and Wide Variety of Trips</li>
@@ -466,21 +466,21 @@
                     <ul class="count-five">
                         <li>
                             <ul>
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Holidays</a></li>
-                                <li><a href="#">Activities</a></li>
+                                <li><a href="index.shtml">Home</a></li>
+                                <li><a href="holidays.shtml">Holidays</a></li>
+                                <li><a href="activities.shtml">Activities</a></li>
                             </ul>
                         </li>
                         <li>
                             <ul>
-                                <li><a href="#">Offers</a></li>
+                                <li><a href="offers.shtml">Offers</a></li>
                                 <li><a href="#">Travel Guide</a></li>
-                                <li><a href="#">Gallery</a></li>
+                                <li><a href="gallery.shtml">Gallery</a></li>
                             </ul>
                         </li>
                         <li>
                             <ul>
-                                <li><a href="#">About Us</a></li>
+                                <li><a href="about-us.shtml">About Us</a></li>
                                 <li><a href="#">Why Us</a></li>
                             </ul>
                         </li>

@@ -60,16 +60,16 @@
             <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
             <nav class="nav" id="mainNav">
                 <ul>
-                    <li class="nav-item nav-home"><a class="nav-link js-scroll-trigger" href="#home-section"><span>Home</span></a></li>
-                    <li class="nav-item nav-holidays"><a class="nav-link js-scroll-trigger" href="#Holidays"><span>Holidays</span></a></li>
-                    <li class="nav-item nav-activities"><a class="nav-link js-scroll-trigger" href="#Activities"><span>Activities</span></a></li>
-                    <li class="nav-item nav-offers"><a class="nav-link js-scroll-trigger" href="#Offers"><span>Offers</span></a></li>
-                    <li class="nav-item nav-travelguide"><a class="nav-link js-scroll-trigger" href="#TravelGuide"><span>Travel Guide</span></a></li>
-                    <li class="nav-item nav-gallery"><a class="nav-link js-scroll-trigger" href="#Gallery"><span>Gallery</span></a></li>
+                    <li class="nav-item nav-home"><a class="nav-link js-scroll-trigger" href="index.shtml#home-section"><span>Home</span></a></li>
+                    <li class="nav-item nav-holidays"><a class="nav-link js-scroll-trigger" href="holidays.shtml"><span>Holidays</span></a></li>
+                    <li class="nav-item nav-activities"><a class="nav-link js-scroll-trigger" href="activities.shtml"><span>Activities</span></a></li>
+                    <li class="nav-item nav-offers"><a class="nav-link js-scroll-trigger" href="offers.shtml"><span>Offers</span></a></li>
+                    <li class="nav-item nav-travelguide"><a class="nav-link js-scroll-trigger" href="#"><span>Travel Guide</span></a></li>
+                    <li class="nav-item nav-gallery"><a class="nav-link js-scroll-trigger" href="gallery.shtml"><span>Gallery</span></a></li>
                     <li class="nav-item dropdown more-dropdown">
                         <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-about-us"><a href="#"><span>About Us</span></a></li>
+                            <li class="nav-about-us"><a href="about-us.shtml"><span>About Us</span></a></li>
                             <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
                             <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
                             <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
@@ -86,21 +86,17 @@
     
     <!-- Main Content :: Starts -->
     <div class="inner-page-content">
-        <section class="banner2">
-            <div class="owl-carousel owl-theme single-item">
-                <div class="item">
-                    <figure class="img-fit img-wrap">
-                        <img src="resources/images/getway-banner2.jpg" alt="">
-                    </figure> 
-                </div>
-            </div>
-        </section>        
+        <section class="banner">
+            <figure class="img-fit img-wrap">
+                <img src="resources/images/getway-banner2.jpg" alt="">
+            </figure> 
+        </section>
         
         <div class="main-content">
             <div class="container">
                 <div class="top-cont">
                     <ol class="breadcrumb animated" data-animation="fadeInUp" data-animation-delay="300">
-                        <li class="breadcrumb-item"><a href="/golf/index.shtml">Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.shtml">Home</a></li>
                         <li class="breadcrumb-item active">Holidays</li>
                     </ol>
                 </div>
@@ -112,7 +108,7 @@
                     </div>
                     <ul class="row row-sm no-list pkg-listing theme-02 grid-view">
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="300">
-                            <a href="holiday-details.shtml" class="pkg-thumbnail type03">
+                            <a href="holidays/details.shtml" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -466,21 +462,21 @@
                         <ul class="count-five">
                             <li>
                                 <ul>
-                                    <li><a href="#"></a>Home</a></li>
-                                    <li><a href="#">Holidays</a></li>
-                                    <li><a href="#">Activities</a></li>
+                                    <li><a href="index.shtml">Home</a></li>
+                                    <li><a href="holidays.shtml">Holidays</a></li>
+                                    <li><a href="activities.shtml">Activities</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <ul>
-                                    <li><a href="#">Offers</a></li>
+                                    <li><a href="offers.shtml">Offers</a></li>
                                     <li><a href="#">Travel Guide</a></li>
-                                    <li><a href="#">Gallery</a></li>
+                                    <li><a href="gallery.shtml">Gallery</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <ul>
-                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="about-us.shtml">About Us</a></li>
                                     <li><a href="#">Why Us</a></li>
                                 </ul>
                             </li>
