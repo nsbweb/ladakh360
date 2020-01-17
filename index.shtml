@@ -53,7 +53,7 @@
         </div>
     </div>
     <div class="navigation-wrap">
-        <div class="logo-wrap"><a href="index.shtml" class="logo"><img src="resources/images/common/logo .png" alt=""></a></div>
+        <div class="logo-wrap"><a href="index.shtml" class="logo"><img src="resources/images/common/logo.png" alt=""></a></div>
         <a class="toggleMenu" href="#nav-menu"><span></span><span></span><span></span><span></span></a>
         <nav class="nav" id="mainNav">
             <ul>
@@ -66,12 +66,12 @@
                 <li class="nav-item dropdown more-dropdown">
                     <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
                     <ul class="dropdown-menu">
-                        <li class="nav-about-us"><a href="about-us.shtml"><span>About Us</span></a></li>
-                        <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
-                        <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
-                        <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
-                        <li class="nav-pp"><a href="#">Privacy Policy</a></li>
-                        <li class="nav-disclaimer"><a href="#">Disclaimer</a></li>
+                        <li class="nav-about-us"><a href="about-us.shtml"><i class=""></i><span>About Us</span></a></li>
+                        <li class="nav-why-with-us"><a href="#"><i class=""></i><span>Why Us</span></a></li>
+                        <li class="nav-faqs"><a href="#"><i class=""></i><span>FAQ’s</span></a></li>
+                        <li class="nav-tnc"><a href="#"><i class=""></i><span>Terms &amp; Conditions</span></a></li>
+                        <li class="nav-pp"><a href="#"><i class=""></i><span>Privacy Policy</span></a></li>
+                        <li class="nav-disclaimer"><a href="#"><i class=""></i><span>Disclaimer</span></a></li>
                     </ul>
                 </li>
             </ul>

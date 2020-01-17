@@ -23,7 +23,6 @@
     <link href="../resources/css/plugin.css" rel="stylesheet" type="text/css" media="all" /><!-- bootstrap.min.css + icons.css + plugin.css -->
 
     <!-- Custom styles for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
     <link href="../resources/css/style.css" rel="stylesheet">
     <link href="../resources/css/media.css" rel="stylesheet">
 
@@ -69,12 +68,12 @@
                     <li class="nav-item dropdown more-dropdown">
                         <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-about-us"><a href="../about-us.shtml"><span>About Us</span></a></li>
-                            <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
-                            <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
-                            <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
-                            <li class="nav-pp"><a href="#">Privacy Policy</a></li>
-                            <li class="nav-disclaimer"><a href="#">Disclaimer</a></li>
+                            <li class="nav-about-us"><a href="../about-us.shtml"><i class=""></i><span>About Us</span></a></li>
+                            <li class="nav-why-with-us"><a href="#"><i class=""></i><span>Why Us</span></a></li>
+                            <li class="nav-faqs"><a href="#"><i class=""></i><span>FAQ’s</span></a></li>
+                            <li class="nav-tnc"><a href="#"><i class=""></i><span>Terms &amp; Conditions</span></a></li>
+                            <li class="nav-pp"><a href="#"><i class=""></i><span>Privacy Policy</span></a></li>
+                            <li class="nav-disclaimer"><a href="#"><i class=""></i><span>Disclaimer</span></a></li>
                         </ul>
                     </li>
                 </ul>

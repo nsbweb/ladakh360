@@ -23,7 +23,6 @@
     <link href="resources/css/plugin.css" rel="stylesheet" type="text/css" media="all" /><!-- bootstrap.min.css + icons.css + plugin.css -->
 
     <!-- Custom styles for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
     <link href="resources/css/style.css" rel="stylesheet">
     <link href="resources/css/media.css" rel="stylesheet">
 
@@ -69,12 +68,12 @@
                     <li class="nav-item dropdown more-dropdown">
                         <a class="nav-link" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span>More +</span></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-about-us"><a href="about-us.shtml"><span>About Us</span></a></li>
-                            <li class="nav-why-with-us"><a href="#"><span>Why Us</span></a></li>
-                            <li class="nav-faqs"><a href="#"><span>FAQ’s</span></a></li>
-                            <li class="nav-tnc"><a href="#"><span>Terms &amp; Conditions</span></a></li>
-                            <li class="nav-pp"><a href="#">Privacy Policy</a></li>
-                            <li class="nav-disclaimer"><a href="#">Disclaimer</a></li>
+                            <li class="nav-about-us"><a href="about-us.shtml"><i class=""></i><span>About Us</span></a></li>
+                            <li class="nav-why-with-us"><a href="#"><i class=""></i><span>Why Us</span></a></li>
+                            <li class="nav-faqs"><a href="#"><i class=""></i><span>FAQ’s</span></a></li>
+                            <li class="nav-tnc"><a href="#"><i class=""></i><span>Terms &amp; Conditions</span></a></li>
+                            <li class="nav-pp"><a href="#"><i class=""></i><span>Privacy Policy</span></a></li>
+                            <li class="nav-disclaimer"><a href="#"><i class=""></i><span>Disclaimer</span></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -86,14 +85,10 @@
     
     <!-- Main Content :: Starts -->
     <div class="inner-page-content">
-        <section class="banner2">
-            <div class="owl-carousel owl-theme single-item">
-                <div class="item">
-                    <figure class="img-fit img-wrap">
-                        <img src="resources/images/getway-banner2.jpg" alt="">
-                    </figure> 
-                </div>
-            </div>
+        <section class="banner">
+            <figure class="img-fit img-wrap">
+                <img src="resources/images/activities/banner-04.jpg" alt="">
+            </figure>
         </section>        
         
         <div class="main-content">
@@ -101,17 +96,17 @@
                 <div class="top-cont">
                     <ol class="breadcrumb animated" data-animation="fadeInUp" data-animation-delay="300">
                         <li class="breadcrumb-item"><a href="index.shtml">Home</a></li>
-                        <li class="breadcrumb-item active">About Us</li>
+                        <li class="breadcrumb-item active">Activities</li>
                     </ol>
                 </div>
                 
                 <div class="pkg-list listing">
-                    <div class="highlight-sec animated" data-animation="fadeInUp" data-animation-delay="300">
+                    <div class="highlight-sec animated" data-animation="fadeInUp" data-animation-delay="400">
                         <h1 class="ttl-sm">Activities in Leh Ladakh</h3>
                         <p>Lorem Ipsum dummy text. Lorem Ipsum dummy text. Lorem Ipsum dummy text. Lorem Ipsum dummy text.</p>
                     </div>
                     <div class="parentHorizontalTab_1 theme-04 type02">
-                        <ul class="resp-tabs-list hor_1 animated" data-animation="fadeInUp" data-animation-delay="400">
+                        <ul class="resp-tabs-list hor_1 animated" data-animation="fadeInUp" data-animation-delay="500">
                             <li><span>Biking</span></li>
                             <li><span>Monastery</span></li>
                             <li><span>Nature</span></li>
@@ -120,14 +115,14 @@
                         </ul>
                         <div class="resp-tabs-container hor_1">
                             <div class="tab-container resp-tab-content-active"> 
-                                <div class="content-data">
-                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="500">Biking Trips in Leh Ladakh</h3>
-                                    <p class="animated" data-animation="fadeInUp" data-animation-delay="500">lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text.lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text.</p>
+                                <div class="content-data  animated" data-animation="fadeInUp" data-animation-delay="600">
+                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="600">Biking Trips in Leh Ladakh</h3>
                                     <p class="animated" data-animation="fadeInUp" data-animation-delay="700">lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text.lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text.</p>
+                                    <p class="animated" data-animation="fadeInUp" data-animation-delay="800">lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text.lorem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text. orem ipsum dummy text.</p>
                                 </div>
 
                                 <div class="content-data">
-                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="500">Biking Trips in Leh Ladakh</h3>
+                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="900">Biking Trips in Leh Ladakh</h3>
                                     <ul class="row row-sm no-list pkg-listing theme-02 grid-view">
                                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="300">
                                             <a href="holidays/details.shtml" class="pkg-thumbnail type03">
@@ -211,6 +206,26 @@
                                             </a>
                                         </li>
                                     </ul>
+                                </div>
+                            </div>
+                            <div class="tab-container"> 
+                                <div class="content-data  animated" data-animation="fadeInUp" data-animation-delay="600">
+                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="600">Monastery Data Coming Soon</h3>
+                                </div>
+                            </div>
+                            <div class="tab-container"> 
+                                <div class="content-data  animated" data-animation="fadeInUp" data-animation-delay="600">
+                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="600">Nature Data Coming Soon</h3>
+                                </div>
+                            </div>
+                            <div class="tab-container"> 
+                                <div class="content-data  animated" data-animation="fadeInUp" data-animation-delay="600">
+                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="600">Cultural Data Coming Soon</h3>
+                                </div>
+                            </div>
+                            <div class="tab-container"> 
+                                <div class="content-data  animated" data-animation="fadeInUp" data-animation-delay="600">
+                                    <h3 class="animated" data-animation="fadeInUp" data-animation-delay="600">Lake Data Coming Soon</h3>
                                 </div>
                             </div>
                         </div>
