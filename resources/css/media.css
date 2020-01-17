@@ -457,7 +457,8 @@ header .top-header .container > ul > li.login.show:before { left:calc(50% - 13px
 .grid-view li > .pkg-thumbnail.type02 .inclusions ul li {padding-right:10px;}
 .grid-view li > .pkg-thumbnail .inclusions ul li label {font-size:7px;}
 .golf-event-sec .row > [class^="col"] {margin-bottom:15px;} 
- .golf-event-sec .thumb-sec .img1 {max-height: inherit;}    
+.golf-event-sec .thumb-sec .img1 {max-height: inherit;}
+.footer-links > ul.count-five >li { width: auto; margin-right: 1em; }
 }
 /* max-width:768px:Ends*/
 

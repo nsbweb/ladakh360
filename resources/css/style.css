@@ -4562,6 +4562,7 @@ p { font-size: 1em; line-height: 1.5em;}
 .navigation-wrap { width:135px; width:10.8em;}
 .top-header { width: calc(100% - 10.8em); } 
 .cont-section.parallax-window, .inner-page-content { padding-left: 135px; padding-left:10.8em; }
+footer { width: calc(100% - 10.8em); left: 10.8em;}
 
 .nav ul li a.active { color:#000000; font-weight: 700;}
 .nav ul li a.active::before, .nav ul li a.active::after { background:rgba(34,34,34,0.1); }
@@ -4651,7 +4652,7 @@ body.more .nav-item.more-dropdown { background:rgba(0,0,0,0.1); }
 body.more .nav-more {background:transparent}
 
 .grid-view li > .pkg-thumbnail.type03 .thumb-wrap { height: 325px; }
-.grid-view.gallery-listing li > .pkg-thumbnail.type03 .thumb-wrap { height: 230px; padding: 0; min-height: inherit;}
+.grid-view.gallery-listing li > .pkg-thumbnail.type03 .thumb-wrap { height: 17.692em; padding: 0; min-height: inherit;}
 .grid-view li > .pkg-thumbnail.type03 .thumb-wrap .img-descr.full-view { bottom: 0; top:auto; width:100%; background: rgba(0,0,0,0);
 	background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.67) 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0)), color-stop(100%, rgba(0,0,0,0.67)));
@@ -4674,6 +4675,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
 .pkg-list .highlight-sec { text-align: center;   padding-bottom: 2em;}
 .pkg-list .highlight-sec .ttl-sm { font-size: 3.231em; font-weight: 400; line-height: 1.2em; color: #222222; padding:0em; margin: 0 0 0.3em;}
+.pkg-list .highlight-sec .ttl-sm:last-child { margin-bottom: 0em;}
 .pkg-list .highlight-sec p { font-size:1.231em; line-height: 1.4em; }
 /* InnerPage */
 
@@ -4871,7 +4873,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
 .pkg-details.type03 .luxury-cata-select > form .radio-inline .price, .pkg-details.type03  .hotel-name,.pkg-details.type03 .hotel-rate, .pkg-thumbnail .pkg-days,
 .nav ul.dropdown-menu { font-size:1em; }
-.theme-04.type02 .resp-tabs-container {background:none; border-bottom:1px solid #c4c4c4; padding-bottom:1.2em;}
+.pkg-details.type03 .theme-04.type02 .resp-tabs-container { border-bottom:1px solid #c4c4c4; padding-bottom:1.2em; }
+.theme-04.type02 .resp-tabs-container { background:none; }
 .theme-04.type02 .resp-tab-content { padding:0 }
 .hotel-data { display: table; width:100% }
 .hotel-data > div { display: table-cell; width:100%; vertical-align: top; }
@@ -4903,7 +4906,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
 /* About Us Page */
 .inner-page-content .banner { position: relative; }
-.inner-page-content .banner figure { width:100%; height: 325px; overflow: hidden; }
+.inner-page-content .banner figure { width:100%; height:22em; overflow: hidden; }
 .inner-page-content .banner figure > img { width:100%; height:100%; object-fit: cover; }
 .content-data h3 { font-size: 1.385em; font-weight:700; margin-bottom: 0.5em;}
 .content-data > p  { font-weight: 700; font-size: 1.077em; line-height: 1.8em; margin-bottom:2em; }
@@ -4912,6 +4915,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 ul.cont-section-inner.event-left-section { width: 100%; list-style:none; padding:0; margin:0; }
 ul.cont-section-inner.event-left-section .box::before { z-index:0;}
 /* OFFERS PAGE */
+
+/* GALLERY PAGE */
+{ 17.692em }
+/* GALLERY PAGE */
+
 .navigation-wrap > .nav ul { width:100%; }
 .navigation-wrap > .nav-more.more-dropdown { position: absolute; left: 1.538em; height: 7.692em; width: 10.8em; }
 .navigation-wrap > .nav-more.more-dropdown .dropdown-menu > li > a > i { position:relative;}

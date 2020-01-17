@@ -87,7 +87,7 @@
     <div class="inner-page-content">
         <section class="banner">
             <figure class="img-fit img-wrap">
-                <img src="resources/images/getway-banner2.jpg" alt="">
+                <img src="resources/images/gallery/banner-05.jpg" alt="">
             </figure> 
         </section>        
         
@@ -104,16 +104,170 @@
                     <div class="highlight-sec animated" data-animation="fadeInUp" data-animation-delay="300">
                         <h1 class="ttl-sm">Ladakh 360<sup>0</sup> Gallery</h3>
                     </div>
-                    <ul class="row row-sm no-list pkg-listing gallery-listing theme-02 grid-view">
+                    <ul class="row row-sm no-list pkg-listing gallery-listing popup-gallery theme-02 grid-view">
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="300">
-                            <a href="#" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/gallery-img-01.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
-                                            <figure><img src="resources/images/search-results/pkg-thumb-01.jpg" alt=""></figure>
+                                            <figure><img src="resources/images/gallery/gallery-img-01.jpg" alt=""></figure>
                                         </div>
                                         <div class="img-descr pck-details full-view">
                                             <h4 class="pkg-tl">Green Fields of Leh</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="400">
+                            <a href="resources/images/gallery/gallery-img-02.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-02.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Beautiful Road Turn Ladakh</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="500">
+                            <a href="resources/images/gallery/gallery-img-03.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-03.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Ladakh Beauty</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="600">
+                            <a href="resources/images/gallery/gallery-img-04.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-04.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Morning View from Thiksey Monastery</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="700">
+                            <a href="resources/images/gallery/gallery-img-05.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-05.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Thiksey Monastery</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="800">
+                            <a href="resources/images/gallery/gallery-img-06.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-06.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Back View of Thiksey Monastery</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="600">
+                            <a href="resources/images/gallery/gallery-img-07.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-07.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Brown Furry Marmo</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="700">
+                            <a href="resources/images/gallery/gallery-img-08.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-08.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Ladakhi Yak</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="800">
+                            <a href="resources/images/gallery/gallery-img-09.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-09.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Shey Palace</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="900">
+                            <a href="resources/images/gallery/gallery-img-10.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-10.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Shanti Stupa</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="1000">
+                            <a href="resources/images/gallery/gallery-img-11.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-11.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">Khardung La Pass</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="1100">
+                            <a href="resources/images/gallery/gallery-img-12.jpg" class="pkg-thumbnail type03">
+                                <div class="lht-sec">
+                                    <div class="thumb-wrap">
+                                        <div class="img-sec img-fit">
+                                            <figure><img src="resources/images/gallery/gallery-img-12.jpg" alt=""></figure>
+                                        </div>
+                                        <div class="img-descr pck-details full-view">
+                                            <h4 class="pkg-tl">On the Way to Nubra Valley</h4>
                                         </div>
                                     </div>
                                 </div>
