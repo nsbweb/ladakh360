@@ -106,7 +106,7 @@
                     </div>
                     <ul class="row row-sm no-list pkg-listing gallery-listing popup-gallery theme-02 grid-view">
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="300">
-                            <a href="resources/images/gallery/gallery-img-01.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-01.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -120,7 +120,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="400">
-                            <a href="resources/images/gallery/gallery-img-02.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-02.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -134,7 +134,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="500">
-                            <a href="resources/images/gallery/gallery-img-03.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-03.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -148,7 +148,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="600">
-                            <a href="resources/images/gallery/gallery-img-04.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-04.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -162,7 +162,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="700">
-                            <a href="resources/images/gallery/gallery-img-05.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-05.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -176,7 +176,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="800">
-                            <a href="resources/images/gallery/gallery-img-06.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-06.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -190,7 +190,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="600">
-                            <a href="resources/images/gallery/gallery-img-07.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-07.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -204,7 +204,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="700">
-                            <a href="resources/images/gallery/gallery-img-08.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-08.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -218,7 +218,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="800">
-                            <a href="resources/images/gallery/gallery-img-09.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-09.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -232,7 +232,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="900">
-                            <a href="resources/images/gallery/gallery-img-10.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-10.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -246,7 +246,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="1000">
-                            <a href="resources/images/gallery/gallery-img-11.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-11.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">
@@ -260,7 +260,7 @@
                             </a>
                         </li>
                         <li class="col-sm-4 animated" data-animation="fadeInUp" data-animation-delay="1100">
-                            <a href="resources/images/gallery/gallery-img-12.jpg" class="pkg-thumbnail type03">
+                            <a href="resources/images/gallery/big/gallery-img-12.jpg" class="pkg-thumbnail type03">
                                 <div class="lht-sec">
                                     <div class="thumb-wrap">
                                         <div class="img-sec img-fit">

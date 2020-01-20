@@ -107,7 +107,7 @@
                 </div>
                 <div class="cont-section">
                     <ul class="row cont-section-inner event-left-section">
-                        <li class="col-sm-7">
+                        <li class="col-sm-7 col-xs-12">
                             <div class="box animated" data-animation="fadeInUp" data-animation-delay="300">
                                 <h5 class="offer animated" data-animation="fadeInUp" data-animation-delay="400"><i class="fa-rupee"></i> 3000 off</h5>
                                 <div class="img-fit img-wrap animated" data-animation="fadeInUp" data-animation-delay="500">

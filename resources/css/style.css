@@ -4534,7 +4534,10 @@ header .top-header .container > ul > li .dropdown-menu.theme-03.login-sec {min-w
 
 /* Theme */
 body, .webFont { font-family: 'Inria Serif', serif;}
-
+sup {
+    top: -1.2em;
+    font-size: 0.32em;
+}
 .btn-anim { overflow: hidden; position: relative; }
 .btn-anim::before,
 .btn-anim::after { content:''; position:absolute; top:0; left:0; width:100%; height:100%; z-index:1; background-color:transparent; -webkit-transition:all 0.3s; -moz-transition:all 0.3s; -o-transition:all 0.3s; transition:all 0.3s; -webkit-transform:translate(-100%,0); transform:translate(-100%,0); -webkit-transition-timing-function:cubic-bezier(0.75, 0, 0.125, 1); transition-timing-function:cubic-bezier(0.75, 0, 0.125, 1); }
@@ -4621,7 +4624,7 @@ footer { width: calc(100% - 10.8em); left: 10.8em;}
 .event-left-section .box { display:flex; align-items: center; }
 .event-info .btn { position: absolute; left: 12px; bottom: 0px; }
 
-footer { width: calc(100% - 135px); left: 135px; }
+/* footer { width: calc(100% - 135px); left: 135px; } */
 .footer-links > ul >li ul li a { font-size: 1em; }
 footer .action-links li a { font-size:1.231em; }
 footer .action-links li a i + span{ margin-left:6px; }
@@ -4906,18 +4909,36 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
 /* About Us Page */
 .inner-page-content .banner { position: relative; }
-.inner-page-content .banner figure { width:100%; height:22em; overflow: hidden; }
+.inner-page-content .banner figure { width:100%; height:22em; overflow: hidden; z-index:1; }
 .inner-page-content .banner figure > img { width:100%; height:100%; object-fit: cover; }
 .content-data h3 { font-size: 1.385em; font-weight:700; margin-bottom: 0.5em;}
 .content-data > p  { font-weight: 700; font-size: 1.077em; line-height: 1.8em; margin-bottom:2em; }
 
 /* OFFERS PAGE */
-ul.cont-section-inner.event-left-section { width: 100%; list-style:none; padding:0; margin:0; }
+ul.cont-section-inner.event-left-section { width: auto; list-style:none; padding:0; margin-top: 0; margin-bottom: 0; }
 ul.cont-section-inner.event-left-section .box::before { z-index:0;}
 /* OFFERS PAGE */
 
 /* GALLERY PAGE */
-{ 17.692em }
+.pkg-listing.grid-view { margin-right: -0.615em; margin-left:-0.615em; }
+.pkg-listing.grid-view.row-sm > li[class^="col-"] { padding:0.615em; }
+.mfp-gallery .mfp-container { width:66em; height: 44em; max-height:90vh; left:calc(50% - 33em); top:calc(50% - 22em); padding: 0;}
+.mfp-gallery .mfp-image-holder .mfp-content { width:100%; height:100%; margin: 0;}
+.mfp-gallery .mfp-figure { padding:0.615em; height: calc(100% - 0em); }
+.mfp-gallery .mfp-figure img.mfp-img { width:100%; object-fit: cover; height: calc(100% - 3em);} 
+.mfp-gallery .mfp-figure .mfp-bottom-bar { background:#222222; padding:0.538em 0.692em; min-height:3em; font-size: 1em; }
+.mfp-gallery .mfp-figure .mfp-title { display: inline-block; float:left; color:#ffffff; font-size:1.385em; font-weight:700;}
+.mfp-gallery .mfp-figure .mfp-title + .mfp-rtSec { padding-left:3em; }
+.mfp-gallery .mfp-figure .mfp-rtSec { display: inline-block; float:right; }
+.mfp-gallery .mfp-figure .mfp-rtSec > .mfp-counter,
+.mfp-gallery .mfp-figure .mfp-rtSec > .mfp-counter + small { font-size:1.077em; line-height:1.8em; float:left; color: #fff; }
+.mfp-gallery .mfp-figure .mfp-rtSec > .mfp-counter { position: static; display: inline-block; }
+.mfp-gallery .mfp-figure .mfp-rtSec > .mfp-counter + small::before { content: '|';  padding-left: 0.5em; margin-right: 0.5em; position: relative; top:-0.1em; }
+.mfp-gallery .mfp-arrow { background: rgba(0,0,0,.5)!important; }
+.mfp-gallery .mfp-arrow-left { left:1.077em }
+.mfp-gallery .mfp-arrow-right{ right:1.077em }
+.mfp-gallery.mfp-close-btn-in .mfp-close { background: url(../images/common/icons/fa-custom-close.png) no-repeat right top; width:3.077em; height:3.077em; max-width:40px; max-height:40px; }
+.mfp-gallery.mfp-close-btn-in .mfp-close:before { content: '';}
 /* GALLERY PAGE */
 
 .navigation-wrap > .nav ul { width:100%; }

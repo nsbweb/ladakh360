@@ -459,6 +459,8 @@ header .top-header .container > ul > li.login.show:before { left:calc(50% - 13px
 .golf-event-sec .row > [class^="col"] {margin-bottom:15px;} 
 .golf-event-sec .thumb-sec .img1 {max-height: inherit;}
 .footer-links > ul.count-five >li { width: auto; margin-right: 1em; }
+
+.mfp-gallery .mfp-container { width: 96vw; height:96vh; left: calc(50% - 48vw); top: calc(50% - 48vh); max-height: 100%;}
 }
 /* max-width:768px:Ends*/
 
@@ -856,6 +858,19 @@ header { height: 98px; }
 .footer-links > ul.count-five >li { width: auto; padding-right: 25px; }
 footer { position: static; /*position: -webkit-sticky; position: sticky;bottom: 0; */} 
 .tickList { text-align: left; }
+
+.inner-pg header { height: auto; }
+.inner-pg .top-header ul { padding-top: 1.82em;}
+.inner-pg .logo-wrap { padding: 1px 2px; }
+.mfp-gallery .mfp-figure img.mfp-img { height: calc(100%); } 
+.mfp-gallery .mfp-figure .mfp-bottom-bar { text-align: center; }
+.mfp-gallery .mfp-figure .mfp-title { width:100%; text-align: center;}
+.mfp-gallery .mfp-figure .mfp-title,
+.mfp-gallery .mfp-figure .mfp-rtSec,
+.mfp-gallery .mfp-figure .mfp-title + .mfp-rtSec { float: none; padding-left: 0; }
+.mfp-gallery .mfp-figure .mfp-bottom-bar { background: rgba(34, 34, 34, 0.5); position: absolute; left: 0.615em; right: 0.615em; bottom: 0.615em; top: auto; width: auto; }
+.pkg-list .highlight-sec { padding-bottom: 0.5em; }
+.theme-04.type02 .resp-tab-content { padding:1.154em; }
 } 
 /* max-width:767px:End*/
 
@@ -955,7 +970,6 @@ header .top-header .container > ul > li.currency-dropdown {top: 6px; position: r
 
 .dest-th-tiles.count-five > li.item { width: 50%; padding-top:5px; padding-bottom: 5px; }
 .nav ul li a { font-size: 13px; padding: 12px 18px;}
-
 body, p { font-size:12px;} 
 }
 /* max-width:599px:End*/
@@ -1068,6 +1082,7 @@ ul.prc-sld-list > li { display: block; }
 .footer-links > ul.count-five >li { width:100%; text-align: center; padding:0 }
 .deals-list .dest-th-tiles .item .img-fit { height: 150px; }
 body, .getways-info .pkg-info { font-size: 12px; }
+.inner-page-content { padding-bottom: 0; }
 }
 /* max-width:479px:Ends*/
 

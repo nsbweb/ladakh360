@@ -2363,7 +2363,7 @@ $(document).on("click",".share-tooltip a", function(e) {
 
 (function () {
   'use strict';
-  document.documentElement.className = 'fallback';
+  document.documentElement.classList.add("fallback");
   var css_href = 'https://fonts.googleapis.com/css?family=Inria+Serif:300,300i,400,400i,700,700i&display=swap';
   var localStorageSupported = function() {
     try {
@@ -2399,21 +2399,35 @@ $(document).on("click",".share-tooltip a", function(e) {
     var style = document.createElement('style');
     style.innerHTML = text;
     document.getElementsByTagName('head')[0].appendChild(style);
-    document.documentElement.className = 'webFont';
+    document.documentElement.classList.remove('fallback');
+    document.documentElement.classList.add("webFont");
   }
 }());
 
 $('.popup-gallery').magnificPopup({
     delegate: 'a',
     type: 'image',
-    tLoading: 'Loading image #%curr%...',
-    mainClass: 'mfp-img-mobile',
+    //tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-gallery',
     gallery: {
         enabled: true,
         navigateByImgClick: true,
         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
     },
     image: {
+        markup: '<div class="mfp-figure">'+
+          '<div class="mfp-close"></div>'+
+          '<div class="mfp-img"></div>'+
+          '<div class="mfp-description"></div>'+
+          '<div class="mfp-bottom-bar">'+
+            '<div class="mfp-title"></div>'+
+            '<div class="mfp-rtSec">' +
+                '<div class="mfp-counter"></div>'+
+                '<small>&copy Copyright Ladakh 360<sup>0</sup></small>' +
+            '</div>'+
+        '</div>'+
+        '</div>', // Popup HTML markup. `.mfp-img` div will be replaced with img tag,  `.mfp-close` by close button
+        cursor: 'mfp-zoom-out-cur', // Class that adds zoom cursor, will be added to body. Set to   null to disable zoom out cursor.,
         tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
         titleSrc: function(item) {
             //return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
